@@ -1,11 +1,74 @@
 [
   {
+    "titulo": "ABB lanza UNIREC H2, rectificador modular para electrolizadores que escala hasta 1 GW",
+    "resumen": "El equipo convierte la corriente alterna de la red en la corriente continua que requieren los electrolizadores, con hasta 7,5 MW por unidad y 99,6% de eficiencia. Como la electricidad pesa entre 60% y 70% del costo operativo de la electrólisis, reducir pérdidas ayuda a bajar el costo del hidrógeno verde.",
+    "fecha": "2026-10-29",
+    "categoria": "energias",
+    "fuente": "H2 Business News",
+    "url": "https://h2businessnews.com/unirec-h2-el-rectificador-modular-de-abb-que-escala-hasta-1-gw-y-optimiza-la-conversion-de-energia-para-electrolizadores/",
+    "traducida": false
+  },
+  {
+    "titulo": "HNH Energy enfrenta dos reclamaciones ante el Comité de Ministros antes de avanzar en Magallanes",
+    "resumen": "El proyecto de amoníaco verde de HNH Energy, con inversión sobre US$11.000 millones en San Gregorio, Laguna Blanca y Punta Arenas, recibió dos reclamaciones contra su aprobación ambiental: una por una zona típica y otra por avifauna. El Comité de Ministros tiene 60 días hábiles para resolver; la empresa apunta a iniciar obras el próximo año.",
+    "fecha": "2026-10-28",
+    "categoria": "energias",
+    "fuente": "ITV Patagonia",
+    "url": "https://itvpatagonia.com/noticias/regional/28-10-2026/proyecto-hnh-energy-enfrenta-dos-reclamaciones-antes-de-avanzar-en-magallanes",
+    "traducida": false
+  },
+  {
+    "titulo": "Corfo pone la primera piedra del Centro de Manufactura Avanzada e Industria 4.0 en Huachipato",
+    "resumen": "El centro, liderado por la Universidad de Concepción, ocupará 2.500 m² en la ex siderúrgica y ofrecerá a pymes pilotajes en robótica, fabricación avanzada y transformación digital. La primera etapa invierte más de $16.497 millones, con 52% de aporte Corfo, y apunta a 1.360 servicios tecnológicos en diez años.",
+    "fecha": "2026-10-28",
+    "categoria": "industria",
+    "fuente": "T13",
+    "url": "https://t13.cl/noticia/emprendedores/corfo-impulsa-polo-industrial-huachipato-centro-manufactura-avanzada-28-10-2026",
+    "traducida": false
+  },
+  {
+    "titulo": "Brasil inicia en Santos el primer corredor de etanol verde para abastecer buques",
+    "resumen": "Desde el 19 de octubre el puerto de Santos suministra bioetanol de caña a portacontenedores de CMA CGM con motores tricombustible, tras pilotos en julio. La primera carga fue de 500.000 litros y Copersucar prevé unos 10 millones de litros antes de fin de año, una vía concreta para descarbonizar el transporte marítimo.",
+    "fecha": "2026-10-28",
+    "categoria": "energias",
+    "fuente": "H2 Business News",
+    "url": "https://h2businessnews.com/brasil-inaugura-el-primer-corredor-verde-de-etanol-del-mundo-para-abastecer-a-buques/",
+    "traducida": false
+  },
+  {
+    "titulo": "Transforma H2V lanza herramienta para aprovechar los incentivos tributarios de Magallanes",
+    "resumen": "El Programa Transforma Hidrógeno Verde y GDS Consultores presentaron una plataforma que reúne seis instrumentos de la región, entre ellos la Ley Austral, la Ley Navarino, el DFL 15 y la Zona Franca. Está dirigida a inversionistas, pymes y proveedores locales, e incluye estimaciones descargables en Excel.",
+    "fecha": "2026-10-27",
+    "categoria": "innovacion",
+    "fuente": "Radio Polar",
+    "url": "https://www.radiopolar.com/programa-transforma-h2v-presenta-herramienta-orientar-inversiones-aprovechar-incentivos-tributarios-magallanes",
+    "traducida": false
+  },
+  {
     "titulo": "Sener y Tekniker lanzan plataforma digital para diseñar y optimizar plantas de hidrógeno verde",
     "resumen": "La plataforma SenHy, desarrollada por Sener con apoyo de Tekniker en el País Vasco, simula y optimiza plantas de electrólisis PEM y alcalina evaluando más de 200 parámetros. Integra un sistema de gestión que ajusta la producción a la disponibilidad de energía renovable. Es parte de un proyecto IPCEI europeo (según comunicado de la empresa).",
     "fecha": "2026-10-27",
     "categoria": "digital",
     "fuente": "EuropaWire (comunicado de Sener)",
     "url": "https://news.europawire.eu/sener-and-tekniker-complete-senhy-platform-to-optimise-green-hydrogen-plants-across-europe/eu-press-release/2026/10/27/13/59/07/184638",
+    "traducida": true
+  },
+  {
+    "titulo": "Investigadores coreanos crean un electrodo sin platino que abarata la producción de hidrógeno verde",
+    "resumen": "El KIER de Corea del Sur desarrolló un electrodo de óxido de níquel y aleación níquel-cobalto para electrólisis alcalina que supera al de platino y reduce en 99% el costo de materiales. Por ahora es un resultado de laboratorio y buscan escalarlo a electrolizadores de nivel megavatio.",
+    "fecha": "2026-10-27",
+    "categoria": "energias",
+    "fuente": "H2 Business News",
+    "url": "https://h2businessnews.com/adios-al-platino-el-nuevo-electrodo-de-niquel-y-cobalto-que-abarata-99-la-produccion-de-hidrogeno-verde/",
+    "traducida": false
+  },
+  {
+    "titulo": "Ebara Elliott abre en Japón un centro para probar bombas de hidrógeno líquido a escala real",
+    "resumen": "El complejo de Futtsu, en Chiba, une un centro de pruebas y una planta de fabricación criogénica donde bombas y sopladores se ensayan a plena carga con hidrógeno líquido a -253 °C. Pocas instalaciones en el mundo pueden hacerlo, lo que acorta el camino para equipos de las primeras cadenas de suministro de hidrógeno.",
+    "fecha": "2026-10-27",
+    "categoria": "industria",
+    "fuente": "Turbomachinery Magazine",
+    "url": "https://www.turbomachinerymag.com/view/ebara-elliott-energy-opens-liquid-hydrogen-pump-test-center-manufacturing-hub",
     "traducida": true
   },
   {
@@ -81,21 +144,21 @@
     "traducida": true
   },
   {
-    "titulo": "Balance 2026 del hidrógeno verde en Chile: 62 iniciativas y Magallanes con el 19%",
-    "resumen": "Según H2 Chile, el país suma 62 iniciativas de hidrógeno verde, 17 de ellas piloto, con una cartera de US$36.800 millones y 8,6 GW de electrólisis. Magallanes concentra el 19% y destaca el proyecto Cabo Negro de HIF Global en Punta Arenas, de US$830 millones.",
-    "fecha": "2026-10-20",
-    "categoria": "energias",
-    "fuente": "H2 Business News",
-    "url": "https://h2businessnews.com/el-balance-2026-del-hidrogeno-verde-en-chile-62-iniciativas-86-gw-y-us36-800-millones/",
-    "traducida": false
-  },
-  {
     "titulo": "Enex inaugura nueva planta de combustible de aviación en el aeropuerto de Punta Arenas",
     "resumen": "La instalación en el aeropuerto Carlos Ibáñez del Campo moderniza la recepción, almacenamiento y abastecimiento de combustible, bajo una concesión de 30 años. Busca reforzar la conectividad aérea de Magallanes y el apoyo logístico a las misiones antárticas.",
     "fecha": "2026-10-20",
     "categoria": "industria",
     "fuente": "G5 Noticias",
     "url": "https://g5noticias.cl/?p=925548",
+    "traducida": false
+  },
+  {
+    "titulo": "Balance 2026 del hidrógeno verde en Chile: 62 iniciativas y Magallanes con el 19%",
+    "resumen": "Según H2 Chile, el país suma 62 iniciativas de hidrógeno verde, 17 de ellas piloto, con una cartera de US$36.800 millones y 8,6 GW de electrólisis. Magallanes concentra el 19% y destaca el proyecto Cabo Negro de HIF Global en Punta Arenas, de US$830 millones.",
+    "fecha": "2026-10-20",
+    "categoria": "energias",
+    "fuente": "H2 Business News",
+    "url": "https://h2businessnews.com/el-balance-2026-del-hidrogeno-verde-en-chile-62-iniciativas-86-gw-y-us36-800-millones/",
     "traducida": false
   },
   {
@@ -144,21 +207,21 @@
     "traducida": false
   },
   {
-    "titulo": "Aprueban ambientalmente HNH Energy, megaproyecto de amoníaco verde en Magallanes",
-    "resumen": "La Comisión de Evaluación Ambiental de Magallanes aprobó el proyecto HNH Energy, que producirá amoníaco a partir de hidrógeno verde. Con una inversión estimada de US$11.400 millones, es una de las mayores iniciativas energéticas de la región.",
-    "fecha": "2026-09-07",
-    "categoria": "energias",
-    "fuente": "Ovejero Noticias",
-    "url": "https://www.ovejeronoticias.cl/2026/09/comision-de-evaluacion-ambiental-aprobo-proyecto-hnh-energy-de-hidrogeno-verde-en-magallanes/",
-    "traducida": false
-  },
-  {
     "titulo": "Corfo y ocho empresas firman acuerdo para impulsar el hidrógeno renovable en Chile",
     "resumen": "Colbún, Copec, Abastible, Arauco, Fosfoquim, Marval, Comasa H2V y Walmart Chile firmaron con Corfo, en Hyvolution 2026, un acuerdo para acelerar la inversión y la demanda local de hidrógeno verde, incluido su uso en fertilizantes verdes para el agro.",
     "fecha": "2026-09-07",
     "categoria": "energias",
     "fuente": "Reporte Agrícola",
     "url": "https://www.reporteagricola.cl/noticia/noticias/2026/09/acuerdo-publico-privado-busca-acelerar-demanda-hidrogeno-verde-agro",
+    "traducida": false
+  },
+  {
+    "titulo": "Aprueban ambientalmente HNH Energy, megaproyecto de amoníaco verde en Magallanes",
+    "resumen": "La Comisión de Evaluación Ambiental de Magallanes aprobó el proyecto HNH Energy, que producirá amoníaco a partir de hidrógeno verde. Con una inversión estimada de US$11.400 millones, es una de las mayores iniciativas energéticas de la región.",
+    "fecha": "2026-09-07",
+    "categoria": "energias",
+    "fuente": "Ovejero Noticias",
+    "url": "https://www.ovejeronoticias.cl/2026/09/comision-de-evaluacion-ambiental-aprobo-proyecto-hnh-energy-de-hidrogeno-verde-en-magallanes/",
     "traducida": false
   },
   {
