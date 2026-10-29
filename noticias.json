@@ -1,0 +1,182 @@
+[
+  {
+    "titulo": "Sener y Tekniker lanzan plataforma digital para diseñar y optimizar plantas de hidrógeno verde",
+    "resumen": "La plataforma SenHy, desarrollada por Sener con apoyo de Tekniker en el País Vasco, simula y optimiza plantas de electrólisis PEM y alcalina evaluando más de 200 parámetros. Integra un sistema de gestión que ajusta la producción a la disponibilidad de energía renovable. Es parte de un proyecto IPCEI europeo (según comunicado de la empresa).",
+    "fecha": "2026-10-27",
+    "categoria": "digital",
+    "fuente": "EuropaWire (comunicado de Sener)",
+    "url": "https://news.europawire.eu/sener-and-tekniker-complete-senhy-platform-to-optimise-green-hydrogen-plants-across-europe/eu-press-release/2026/10/27/13/59/07/184638",
+    "traducida": true
+  },
+  {
+    "titulo": "Costo marginal de la electricidad en Chile marca su menor promedio semanal desde 2002",
+    "resumen": "Según un informe de DNV, entre el 12 y el 18 de octubre la barra Polpaico promedió US$3,4/MWh, con 74 horas a costo cero. El vertimiento solar y eólico llegó a 25,5% (231,5 GWh), mientras las baterías aportaron hasta 26,3% de la generación en la noche. En Puerto Montt el costo subió a US$83,4/MWh por congestión de transmisión.",
+    "fecha": "2026-10-27",
+    "categoria": "energias",
+    "fuente": "REDIMIN",
+    "url": "https://www.redimin.cl/costo-marginal-de-la-electricidad-cayo-a-su-menor-promedio-semanal-desde-2002",
+    "traducida": false
+  },
+  {
+    "titulo": "Startup chilena crea un gemelo digital que detecta fugas en ductos mineros en segundos",
+    "resumen": "SPF Ingeniería, seleccionada por el programa Open Aster de Escondida | BHP, desarrolló Pipeline-RTO, una plataforma que combina IA, modelos físicos y sensorización virtual. En pruebas emitió la primera alerta en menos de 45 segundos y ya opera en más de cinco faenas del país.",
+    "fecha": "2026-10-26",
+    "categoria": "digital",
+    "fuente": "Radio Génesis",
+    "url": "https://www.radiogennesis.cl/2026/10/26/chilenos-crearon-gemelo-digital-para-ductos-mineros-detecta-fugas-en-un-par-de-minutos/",
+    "traducida": false
+  },
+  {
+    "titulo": "SMA formula cargos gravísimos a Enap por informar datos ambientales falsos en Refinería Aconcagua",
+    "resumen": "La Superintendencia del Medio Ambiente acusó a Enap Refinerías de subreportar emisiones en Concón: la recuperación de azufre habría bajado a 90% frente a la meta de 98% y el SO2 superó el tope anual en 2023 y 2024. También cuestiona su sistema de monitoreo continuo de emisiones. Arriesga multas por más de US$19 millones.",
+    "fecha": "2026-10-26",
+    "categoria": "industria",
+    "fuente": "La Prensa Austral (con información de Emol)",
+    "url": "https://laprensaaustral.cl/2026/10/27/sma-formula-cargos-gravisimos-contra-enap-por-entrega-de-informacion-falsa-arriesga-multas-por-mas-de-us19-millones/",
+    "traducida": false
+  },
+  {
+    "titulo": "China completa el primer gasoducto de hidrógeno verde de alta presión y larga distancia",
+    "resumen": "El ducto de 195 km entre Damao Banner y Baotou, en Mongolia Interior, terminó la etapa de reemplazo con nitrógeno, paso previo a su puesta en marcha. Diseñado por CPECC, abastecerá de hidrógeno a la industria de Baotou y podría extenderse a la zona de Beijing-Tianjin-Hebei. Es parte de los pilotos de hidrógeno de la Administración Nacional de Energía.",
+    "fecha": "2026-10-26",
+    "categoria": "energias",
+    "fuente": "Shanghai Metals Market (SMM)",
+    "url": "https://news.metal.com/newscontent/104178952-green-hydrogen-project-tracker-chinas-first-high-pressure-long-distance-green-hydrogen-pipeline-completed-nitrogen-replacement-successful-for-damao-banner-to-baotou-section",
+    "traducida": true
+  },
+  {
+    "titulo": "Chile formaliza HyLog–Biobío, corredor de camiones a hidrógeno verde entre Santiago y el Biobío",
+    "resumen": "Marval y la Universidad de Concepción pusieron en marcha el proyecto de US$9,4 millones, con US$5 millones de Corfo. Incluye una estación en Talcahuano de hasta 350 toneladas anuales, con electrolizadores de 5 MW ampliables a 15 MW, y diez camiones con 700 km de autonomía desde 2028.",
+    "fecha": "2026-10-26",
+    "categoria": "energias",
+    "fuente": "H2 Business News",
+    "url": "https://h2businessnews.com/chile-formaliza-corredor-de-transporte-pesado-a-hidrogeno-verde-entre-santiago-y-el-biobio/",
+    "traducida": false
+  },
+  {
+    "titulo": "El hidrógeno verde gana terreno para reemplazar el diésel en camiones mineros",
+    "resumen": "La minería chilena evalúa el hidrógeno verde para sus camiones de alto tonelaje, con varias iniciativas en Antofagasta. Destacan el estudio de Marval Clean Logistics y H2 Green Mining entre Calama y los puertos, y un prototipo de camión híbrido apoyado por Corfo con hasta 600 km de autonomía.",
+    "fecha": "2026-10-24",
+    "categoria": "energias",
+    "fuente": "REDIMIN",
+    "url": "https://redimin.cl/hidrogeno-verde-gana-terreno-en-la-mineria-chilena-y-abre-una-nueva-etapa-para-reemplazar-el-diesel-en-camiones-de-alto-tonelaje",
+    "traducida": false
+  },
+  {
+    "titulo": "Austria: Siemens Energy entrega los primeros electrolizadores para la planta de 140 MW de OMV",
+    "resumen": "Comenzó la instalación del núcleo de la planta de hidrógeno verde de OMV en Bruck an der Leitha, que producirá hasta 23.000 toneladas al año desde fines de 2027. El proyecto cuenta con financiamiento del Banco Europeo de Inversiones y OMV sigue adelante en solitario tras la salida de Masdar.",
+    "fecha": "2026-10-22",
+    "categoria": "energias",
+    "fuente": "Green Hydrogen Projects",
+    "url": "https://greenhydrogenprojects.com/news/siemens-energy-delivers-first-electrolyser-units-omvs-140-mw-hydrogen-plant",
+    "traducida": true
+  },
+  {
+    "titulo": "China inicia la segunda fase del mayor complejo de amoníaco verde del mundo",
+    "resumen": "China Energy Engineering comenzó a construir la fase 2 del parque de hidrógeno de Songyuan, en la provincia de Jilin, con una inversión de US$1.620 millones. La ampliación elevará la capacidad a 600.000 toneladas anuales de amoníaco verde y duplicará la energía renovable del proyecto a 1.600 MW.",
+    "fecha": "2026-10-21",
+    "categoria": "energias",
+    "fuente": "Construction Review Online",
+    "url": "https://constructionreviewonline.com/china-starts-us1-62-bn-expansion-of-worlds-largest-green-hydrogen-ammonia-methanol-project/",
+    "traducida": true
+  },
+  {
+    "titulo": "Balance 2026 del hidrógeno verde en Chile: 62 iniciativas y Magallanes con el 19%",
+    "resumen": "Según H2 Chile, el país suma 62 iniciativas de hidrógeno verde, 17 de ellas piloto, con una cartera de US$36.800 millones y 8,6 GW de electrólisis. Magallanes concentra el 19% y destaca el proyecto Cabo Negro de HIF Global en Punta Arenas, de US$830 millones.",
+    "fecha": "2026-10-20",
+    "categoria": "energias",
+    "fuente": "H2 Business News",
+    "url": "https://h2businessnews.com/el-balance-2026-del-hidrogeno-verde-en-chile-62-iniciativas-86-gw-y-us36-800-millones/",
+    "traducida": false
+  },
+  {
+    "titulo": "Enex inaugura nueva planta de combustible de aviación en el aeropuerto de Punta Arenas",
+    "resumen": "La instalación en el aeropuerto Carlos Ibáñez del Campo moderniza la recepción, almacenamiento y abastecimiento de combustible, bajo una concesión de 30 años. Busca reforzar la conectividad aérea de Magallanes y el apoyo logístico a las misiones antárticas.",
+    "fecha": "2026-10-20",
+    "categoria": "industria",
+    "fuente": "G5 Noticias",
+    "url": "https://g5noticias.cl/?p=925548",
+    "traducida": false
+  },
+  {
+    "titulo": "Corfo financia programa de turismo sostenible para 24 empresas de Magallanes",
+    "resumen": "Con más de $82 millones, Corfo cofinancia un programa de difusión tecnológica que durante 12 meses acompañará a empresas turísticas de Puerto Natales, Torres del Paine, Punta Arenas, Cabo de Hornos y Timaukel. Incluye economía circular, apoyo al Sello S de Sernatur y medición de huella de carbono.",
+    "fecha": "2026-10-18",
+    "categoria": "innovacion",
+    "fuente": "Ovejero Noticias",
+    "url": "https://www.ovejeronoticias.cl/2026/10/corfo-impulsa-el-turismo-sostenible-en-magallanes-para-abrir-nuevos-mercados-y-reducir-la-estacionalidad/",
+    "traducida": false
+  },
+  {
+    "titulo": "Corfo impulsa a 13 empresas de Magallanes con Potencia Incubadora",
+    "resumen": "En la Semana de la Pyme, en Punta Arenas, 13 empresas regionales seleccionadas entre más de 40 postulantes iniciaron el programa. Recibirán mentorías, asesoría técnica, validación comercial y preparación para financiamiento, con MEB Patagonia y Socialab como ejecutores.",
+    "fecha": "2026-10-16",
+    "categoria": "innovacion",
+    "fuente": "Diálogo Sur",
+    "url": "https://dialogosur.cl/2026/10/corfo-impulsa-el-crecimiento-de-13-empresas-de-magallanes-a-traves-de-potencia-incubadora/",
+    "traducida": false
+  },
+  {
+    "titulo": "Proponen reconvertir el muelle de Mina Invierno en plataforma logística para el hidrógeno verde",
+    "resumen": "La Empresa Portuaria Otway ingresó a evaluación ambiental una inversión de US$80 millones para transformar el antiguo muelle carbonero de Río Verde en un puerto de apoyo a proyectos industriales y energéticos. Las obras comenzarían en el segundo semestre de 2028.",
+    "fecha": "2026-10-14",
+    "categoria": "energias",
+    "fuente": "El Mostrador",
+    "url": "https://www.elmostrador.cl/aqui-magallanes/2026/10/14/del-carbon-al-hidrogeno-verde-la-apuesta-por-reconvertir-el-muelle-de-la-mina-invierno/",
+    "traducida": false
+  },
+  {
+    "titulo": "HIF Global y el piloto Nicolás Pino se unen para promover los e-combustibles en el automovilismo",
+    "resumen": "El piloto chileno colaborará con HIF Global en proyectos de combustibles sintéticos. Los e-combustibles de la planta Haru Oni, en Punta Arenas, ya se han usado en más de 30 vehículos en ocho carreras de la Porsche Mobil 1 Supercup.",
+    "fecha": "2026-10-07",
+    "categoria": "energias",
+    "fuente": "Ovejero Noticias",
+    "url": "https://www.ovejeronoticias.cl/2026/10/nicolas-pino-y-hif-global-se-unen-para-impulsar-la-innovacion-chilena-en-el-automovilismo-internacional/",
+    "traducida": false
+  },
+  {
+    "titulo": "Magallanes Logistics Summit reunirá a expertos internacionales para debatir el futuro logístico de la región",
+    "resumen": "Organizado por GEDES con financiamiento del instrumento Viraliza de Corfo, el encuentro del 6 y 7 de octubre en Punta Arenas abordará conectividad, multimodalidad, infraestructura y tecnología, con especialistas de Colombia, México y Argentina.",
+    "fecha": "2026-09-09",
+    "categoria": "innovacion",
+    "fuente": "Ovejero Noticias",
+    "url": "https://www.ovejeronoticias.cl/2026/09/magallanes-pondra-en-el-centro-de-la-conversacion-su-futuro-logistico-en-un-summit-internacional/",
+    "traducida": false
+  },
+  {
+    "titulo": "Aprueban ambientalmente HNH Energy, megaproyecto de amoníaco verde en Magallanes",
+    "resumen": "La Comisión de Evaluación Ambiental de Magallanes aprobó el proyecto HNH Energy, que producirá amoníaco a partir de hidrógeno verde. Con una inversión estimada de US$11.400 millones, es una de las mayores iniciativas energéticas de la región.",
+    "fecha": "2026-09-07",
+    "categoria": "energias",
+    "fuente": "Ovejero Noticias",
+    "url": "https://www.ovejeronoticias.cl/2026/09/comision-de-evaluacion-ambiental-aprobo-proyecto-hnh-energy-de-hidrogeno-verde-en-magallanes/",
+    "traducida": false
+  },
+  {
+    "titulo": "Corfo y ocho empresas firman acuerdo para impulsar el hidrógeno renovable en Chile",
+    "resumen": "Colbún, Copec, Abastible, Arauco, Fosfoquim, Marval, Comasa H2V y Walmart Chile firmaron con Corfo, en Hyvolution 2026, un acuerdo para acelerar la inversión y la demanda local de hidrógeno verde, incluido su uso en fertilizantes verdes para el agro.",
+    "fecha": "2026-09-07",
+    "categoria": "energias",
+    "fuente": "Reporte Agrícola",
+    "url": "https://www.reporteagricola.cl/noticia/noticias/2026/09/acuerdo-publico-privado-busca-acelerar-demanda-hidrogeno-verde-agro",
+    "traducida": false
+  },
+  {
+    "titulo": "Punta Arenas tendrá 130 buses eléctricos en su transporte público",
+    "resumen": "El Ministerio de Transportes amplió de 100 a 130 los buses eléctricos para Punta Arenas sin cambiar el presupuesto, con nueve servicios y retiro de las máquinas más antiguas. La operación comenzaría a fines de 2028 y el convenio regional se extiende a 120 meses.",
+    "fecha": "2026-09-03",
+    "categoria": "energias",
+    "fuente": "Meganoticias",
+    "url": "https://www.meganoticias.cl/nacional/530884-punta-arenas-buses-electricos-proyecto-electromovilidad-ministerio-de-transportes-03-09-2026.html",
+    "traducida": false
+  },
+  {
+    "titulo": "Hyvolution 2026 muestra proyectos de hidrógeno verde para descarbonizar la minería",
+    "resumen": "H2 Green Mining presentó una planta cerca de Calama con 40 MW de electrólisis en su primera fase, para producir hasta 3.000 toneladas anuales de hidrógeno verde. Norquim expuso un proyecto de metanol sintético de 400.000 toneladas al año para reemplazar diésel en la gran minería.",
+    "fecha": "2026-09-01",
+    "categoria": "energias",
+    "fuente": "Mundo Minería",
+    "url": "https://mundomineria.cl/2026/09/01/hyvolution-chile-2026-hidrogeno-verde-como-aliado-para-descarbonizar-la-mineria/",
+    "traducida": false
+  }
+]
