@@ -1,5 +1,14 @@
 [
   {
+    "titulo": "Planta solar Huatacondo y su batería siguen fuera de servicio dos meses después de un ciberataque",
+    "resumen": "El parque de 103 MW y su sistema de almacenamiento de 98 MW/312 MWh fueron desconectados el 27 de agosto tras un ciberataque registrado por el Coordinador Eléctrico Nacional, y seguían detenidos al 27 de octubre. Ese mismo día otras dos centrales térmicas en Los Vilos perdieron su control remoto por un ataque informático. El caso pone foco en la ciberseguridad de las plantas renovables.",
+    "fecha": "2026-10-29",
+    "categoria": "digital",
+    "fuente": "Energy Storage News / pv magazine",
+    "url": "https://www.ess-news.com/2026/10/29/chile-solar-and-battery-system-remain-offline-after-cyberattack/",
+    "traducida": true
+  },
+  {
     "titulo": "ABB lanza UNIREC H2, rectificador modular para electrolizadores que escala hasta 1 GW",
     "resumen": "El equipo convierte la corriente alterna de la red en la corriente continua que requieren los electrolizadores, con hasta 7,5 MW por unidad y 99,6% de eficiencia. Como la electricidad pesa entre 60% y 70% del costo operativo de la electrólisis, reducir pérdidas ayuda a bajar el costo del hidrógeno verde.",
     "fecha": "2026-10-29",
@@ -7,6 +16,15 @@
     "fuente": "H2 Business News",
     "url": "https://h2businessnews.com/unirec-h2-el-rectificador-modular-de-abb-que-escala-hasta-1-gw-y-optimiza-la-conversion-de-energia-para-electrolizadores/",
     "traducida": false
+  },
+  {
+    "titulo": "Pacifico Mexinol firma con Siemens Energy y Techint la construcción de un electrolizador de 210 MW en México",
+    "resumen": "Transition Industries cerró el contrato EPC para la planta de electrólisis del complejo Pacifico Mexinol, en Sinaloa, que producirá 6.130 toneladas diarias de metanol de muy bajas emisiones. Usará tecnología Elyzer P-300 de Siemens Energy y su avance depende de cerrar el financiamiento del proyecto.",
+    "fecha": "2026-10-28",
+    "categoria": "energias",
+    "fuente": "Business Wire",
+    "url": "https://offshoresource.com/business-wire/transition-industries-signs-definitive-epc-agreement-with-siemens-energy-and-techint-ec-for-pacifico-mexinols-210-mw-electrolyzer-facility/",
+    "traducida": true
   },
   {
     "titulo": "HNH Energy enfrenta dos reclamaciones ante el Comité de Ministros antes de avanzar en Magallanes",
