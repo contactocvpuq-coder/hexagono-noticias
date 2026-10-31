@@ -1,5 +1,32 @@
 [
   {
+    "titulo": "Universidades chilenas modelan remolcadores con hidrógeno verde, baterías y gemelos digitales",
+    "resumen": "La USM, la PUC y la Universidad de O'Higgins, con fondos de ANID, desarrollaron un simulador que integra unos 50 componentes de un buque para comparar propulsión diésel, híbrida y eléctrica en remolcadores. El proyecto, junto a la Armada, SAAM Towage y la startup Thems, avanzará hacia pruebas en tiempo real, gemelos digitales y plataformas Hardware-in-the-Loop hasta 2028.",
+    "fecha": "2026-10-30",
+    "categoria": "innovacion",
+    "fuente": "PortalPortuario",
+    "url": "https://portalportuario.cl/universidades-desarrollan-tecnologias-de-propulsion-maritima-con-hidrogeno-verde-y-sistemas-electricos",
+    "traducida": false
+  },
+  {
+    "titulo": "Punta Arenas licitará 236 luminarias LED por $179 millones para siete unidades vecinales",
+    "resumen": "La Municipalidad de Punta Arenas iniciará la licitación de un proyecto de iluminación LED de alta eficiencia financiado por el Programa de Mejoramiento de Barrios de la Subdere. Contempla 236 luminarias y unos 12 km de cableado aéreo en sectores como Camino ENAP, Argüelles y Calafate, con 180 días de obras y beneficio para más de 7.500 hogares.",
+    "fecha": "2026-10-30",
+    "categoria": "energias",
+    "fuente": "ITV Patagonia",
+    "url": "https://www.itvpatagonia.com/noticias/regional/30-10-2026/punta-arenas-licitara-proyecto-de-iluminacion-led-por-mas-de-179-millones/",
+    "traducida": false
+  },
+  {
+    "titulo": "Petrobras reduce 23,8% la intensidad de carbono de su SAF optimizando el uso de hidrógeno",
+    "resumen": "La refinería Duque de Caxias de Petrobras, en Río de Janeiro, recertificó bajo ISCC CORSIA su combustible sostenible de aviación, con una baja de 23,8% en intensidad de carbono gracias a una mejor gestión del hidrógeno, cuya huella cayó 29%. La planta proyecta vender hasta 50.000 m³ mensuales de SAF coprocesado con aceite de maíz.",
+    "fecha": "2026-10-30",
+    "categoria": "energias",
+    "fuente": "H2 Business News",
+    "url": "https://h2businessnews.com/hidrogeno-optimizado-la-clave-de-la-reduccion-del-238-en-el-saf-de-petrobras/",
+    "traducida": false
+  },
+  {
     "titulo": "Planta solar Huatacondo y su batería siguen fuera de servicio dos meses después de un ciberataque",
     "resumen": "El parque de 103 MW y su sistema de almacenamiento de 98 MW/312 MWh fueron desconectados el 27 de agosto tras un ciberataque registrado por el Coordinador Eléctrico Nacional, y seguían detenidos al 27 de octubre. Ese mismo día otras dos centrales térmicas en Los Vilos perdieron su control remoto por un ataque informático. El caso pone foco en la ciberseguridad de las plantas renovables.",
     "fecha": "2026-10-29",
@@ -7,6 +34,15 @@
     "fuente": "Energy Storage News / pv magazine",
     "url": "https://www.ess-news.com/2026/10/29/chile-solar-and-battery-system-remain-offline-after-cyberattack/",
     "traducida": true
+  },
+  {
+    "titulo": "Expedición Antártica N°63 parte desde Punta Arenas con 50 proyectos y energía solar e hidrógeno verde",
+    "resumen": "El canciller lanzó en Punta Arenas la Expedición Científica Antártica Estival N°63 del INACH, con unos 50 proyectos y 150 profesionales entre noviembre y marzo. La temporada avanza en la renovación de la base Julio Escudero, que incorporará energía solar e hidrógeno verde con apoyo de GIZ y la Unión Europea, reforzando a Magallanes como puerta de entrada a la Antártica.",
+    "fecha": "2026-10-29",
+    "categoria": "innovacion",
+    "fuente": "BioBioChile",
+    "url": "https://biobiochile.cl/noticias/nacional/region-de-magallanes/2026/10/29/chile-busca-consolidar-su-rol-como-puerta-de-entrada-a-la-antartica-impulsando-proyectos-cientificos.shtml",
+    "traducida": false
   },
   {
     "titulo": "ABB lanza UNIREC H2, rectificador modular para electrolizadores que escala hasta 1 GW",
