@@ -6,7 +6,8 @@
     "categoria": "innovacion",
     "fuente": "PortalPortuario",
     "url": "https://portalportuario.cl/universidades-desarrollan-tecnologias-de-propulsion-maritima-con-hidrogeno-verde-y-sistemas-electricos",
-    "traducida": false
+    "traducida": false,
+    "alcance": "chile"
   },
   {
     "titulo": "Punta Arenas licitará 236 luminarias LED por $179 millones para siete unidades vecinales",
@@ -15,7 +16,8 @@
     "categoria": "energias",
     "fuente": "ITV Patagonia",
     "url": "https://www.itvpatagonia.com/noticias/regional/30-10-2026/punta-arenas-licitara-proyecto-de-iluminacion-led-por-mas-de-179-millones/",
-    "traducida": false
+    "traducida": false,
+    "alcance": "magallanes"
   },
   {
     "titulo": "Petrobras reduce 23,8% la intensidad de carbono de su SAF optimizando el uso de hidrógeno",
@@ -24,7 +26,8 @@
     "categoria": "energias",
     "fuente": "H2 Business News",
     "url": "https://h2businessnews.com/hidrogeno-optimizado-la-clave-de-la-reduccion-del-238-en-el-saf-de-petrobras/",
-    "traducida": false
+    "traducida": false,
+    "alcance": "mundo"
   },
   {
     "titulo": "Planta solar Huatacondo y su batería siguen fuera de servicio dos meses después de un ciberataque",
@@ -33,7 +36,8 @@
     "categoria": "digital",
     "fuente": "Energy Storage News / pv magazine",
     "url": "https://www.ess-news.com/2026/10/29/chile-solar-and-battery-system-remain-offline-after-cyberattack/",
-    "traducida": true
+    "traducida": true,
+    "alcance": "chile"
   },
   {
     "titulo": "Expedición Antártica N°63 parte desde Punta Arenas con 50 proyectos y energía solar e hidrógeno verde",
@@ -42,7 +46,8 @@
     "categoria": "innovacion",
     "fuente": "BioBioChile",
     "url": "https://biobiochile.cl/noticias/nacional/region-de-magallanes/2026/10/29/chile-busca-consolidar-su-rol-como-puerta-de-entrada-a-la-antartica-impulsando-proyectos-cientificos.shtml",
-    "traducida": false
+    "traducida": false,
+    "alcance": "magallanes"
   },
   {
     "titulo": "ABB lanza UNIREC H2, rectificador modular para electrolizadores que escala hasta 1 GW",
@@ -51,7 +56,8 @@
     "categoria": "energias",
     "fuente": "H2 Business News",
     "url": "https://h2businessnews.com/unirec-h2-el-rectificador-modular-de-abb-que-escala-hasta-1-gw-y-optimiza-la-conversion-de-energia-para-electrolizadores/",
-    "traducida": false
+    "traducida": false,
+    "alcance": "mundo"
   },
   {
     "titulo": "Pacifico Mexinol firma con Siemens Energy y Techint la construcción de un electrolizador de 210 MW en México",
@@ -60,7 +66,8 @@
     "categoria": "energias",
     "fuente": "Business Wire",
     "url": "https://offshoresource.com/business-wire/transition-industries-signs-definitive-epc-agreement-with-siemens-energy-and-techint-ec-for-pacifico-mexinols-210-mw-electrolyzer-facility/",
-    "traducida": true
+    "traducida": true,
+    "alcance": "mundo"
   },
   {
     "titulo": "HNH Energy enfrenta dos reclamaciones ante el Comité de Ministros antes de avanzar en Magallanes",
@@ -69,7 +76,8 @@
     "categoria": "energias",
     "fuente": "ITV Patagonia",
     "url": "https://itvpatagonia.com/noticias/regional/28-10-2026/proyecto-hnh-energy-enfrenta-dos-reclamaciones-antes-de-avanzar-en-magallanes",
-    "traducida": false
+    "traducida": false,
+    "alcance": "magallanes"
   },
   {
     "titulo": "Corfo pone la primera piedra del Centro de Manufactura Avanzada e Industria 4.0 en Huachipato",
@@ -78,7 +86,8 @@
     "categoria": "industria",
     "fuente": "T13",
     "url": "https://t13.cl/noticia/emprendedores/corfo-impulsa-polo-industrial-huachipato-centro-manufactura-avanzada-28-10-2026",
-    "traducida": false
+    "traducida": false,
+    "alcance": "chile"
   },
   {
     "titulo": "Brasil inicia en Santos el primer corredor de etanol verde para abastecer buques",
@@ -87,7 +96,8 @@
     "categoria": "energias",
     "fuente": "H2 Business News",
     "url": "https://h2businessnews.com/brasil-inaugura-el-primer-corredor-verde-de-etanol-del-mundo-para-abastecer-a-buques/",
-    "traducida": false
+    "traducida": false,
+    "alcance": "mundo"
   },
   {
     "titulo": "Transforma H2V lanza herramienta para aprovechar los incentivos tributarios de Magallanes",
@@ -96,7 +106,8 @@
     "categoria": "innovacion",
     "fuente": "Radio Polar",
     "url": "https://www.radiopolar.com/programa-transforma-h2v-presenta-herramienta-orientar-inversiones-aprovechar-incentivos-tributarios-magallanes",
-    "traducida": false
+    "traducida": false,
+    "alcance": "magallanes"
   },
   {
     "titulo": "Sener y Tekniker lanzan plataforma digital para diseñar y optimizar plantas de hidrógeno verde",
@@ -105,7 +116,8 @@
     "categoria": "digital",
     "fuente": "EuropaWire (comunicado de Sener)",
     "url": "https://news.europawire.eu/sener-and-tekniker-complete-senhy-platform-to-optimise-green-hydrogen-plants-across-europe/eu-press-release/2026/10/27/13/59/07/184638",
-    "traducida": true
+    "traducida": true,
+    "alcance": "mundo"
   },
   {
     "titulo": "Investigadores coreanos crean un electrodo sin platino que abarata la producción de hidrógeno verde",
@@ -114,7 +126,8 @@
     "categoria": "energias",
     "fuente": "H2 Business News",
     "url": "https://h2businessnews.com/adios-al-platino-el-nuevo-electrodo-de-niquel-y-cobalto-que-abarata-99-la-produccion-de-hidrogeno-verde/",
-    "traducida": false
+    "traducida": false,
+    "alcance": "mundo"
   },
   {
     "titulo": "Ebara Elliott abre en Japón un centro para probar bombas de hidrógeno líquido a escala real",
@@ -123,7 +136,8 @@
     "categoria": "industria",
     "fuente": "Turbomachinery Magazine",
     "url": "https://www.turbomachinerymag.com/view/ebara-elliott-energy-opens-liquid-hydrogen-pump-test-center-manufacturing-hub",
-    "traducida": true
+    "traducida": true,
+    "alcance": "mundo"
   },
   {
     "titulo": "Costo marginal de la electricidad en Chile marca su menor promedio semanal desde 2002",
@@ -132,7 +146,8 @@
     "categoria": "energias",
     "fuente": "REDIMIN",
     "url": "https://www.redimin.cl/costo-marginal-de-la-electricidad-cayo-a-su-menor-promedio-semanal-desde-2002",
-    "traducida": false
+    "traducida": false,
+    "alcance": "chile"
   },
   {
     "titulo": "Startup chilena crea un gemelo digital que detecta fugas en ductos mineros en segundos",
@@ -141,7 +156,8 @@
     "categoria": "digital",
     "fuente": "Radio Génesis",
     "url": "https://www.radiogennesis.cl/2026/10/26/chilenos-crearon-gemelo-digital-para-ductos-mineros-detecta-fugas-en-un-par-de-minutos/",
-    "traducida": false
+    "traducida": false,
+    "alcance": "chile"
   },
   {
     "titulo": "SMA formula cargos gravísimos a Enap por informar datos ambientales falsos en Refinería Aconcagua",
@@ -150,7 +166,8 @@
     "categoria": "industria",
     "fuente": "La Prensa Austral (con información de Emol)",
     "url": "https://laprensaaustral.cl/2026/10/27/sma-formula-cargos-gravisimos-contra-enap-por-entrega-de-informacion-falsa-arriesga-multas-por-mas-de-us19-millones/",
-    "traducida": false
+    "traducida": false,
+    "alcance": "chile"
   },
   {
     "titulo": "China completa el primer gasoducto de hidrógeno verde de alta presión y larga distancia",
@@ -159,7 +176,8 @@
     "categoria": "energias",
     "fuente": "Shanghai Metals Market (SMM)",
     "url": "https://news.metal.com/newscontent/104178952-green-hydrogen-project-tracker-chinas-first-high-pressure-long-distance-green-hydrogen-pipeline-completed-nitrogen-replacement-successful-for-damao-banner-to-baotou-section",
-    "traducida": true
+    "traducida": true,
+    "alcance": "mundo"
   },
   {
     "titulo": "Chile formaliza HyLog–Biobío, corredor de camiones a hidrógeno verde entre Santiago y el Biobío",
@@ -168,7 +186,8 @@
     "categoria": "energias",
     "fuente": "H2 Business News",
     "url": "https://h2businessnews.com/chile-formaliza-corredor-de-transporte-pesado-a-hidrogeno-verde-entre-santiago-y-el-biobio/",
-    "traducida": false
+    "traducida": false,
+    "alcance": "chile"
   },
   {
     "titulo": "El hidrógeno verde gana terreno para reemplazar el diésel en camiones mineros",
@@ -177,7 +196,8 @@
     "categoria": "energias",
     "fuente": "REDIMIN",
     "url": "https://redimin.cl/hidrogeno-verde-gana-terreno-en-la-mineria-chilena-y-abre-una-nueva-etapa-para-reemplazar-el-diesel-en-camiones-de-alto-tonelaje",
-    "traducida": false
+    "traducida": false,
+    "alcance": "chile"
   },
   {
     "titulo": "Austria: Siemens Energy entrega los primeros electrolizadores para la planta de 140 MW de OMV",
@@ -186,7 +206,8 @@
     "categoria": "energias",
     "fuente": "Green Hydrogen Projects",
     "url": "https://greenhydrogenprojects.com/news/siemens-energy-delivers-first-electrolyser-units-omvs-140-mw-hydrogen-plant",
-    "traducida": true
+    "traducida": true,
+    "alcance": "mundo"
   },
   {
     "titulo": "China inicia la segunda fase del mayor complejo de amoníaco verde del mundo",
@@ -195,7 +216,8 @@
     "categoria": "energias",
     "fuente": "Construction Review Online",
     "url": "https://constructionreviewonline.com/china-starts-us1-62-bn-expansion-of-worlds-largest-green-hydrogen-ammonia-methanol-project/",
-    "traducida": true
+    "traducida": true,
+    "alcance": "mundo"
   },
   {
     "titulo": "Enex inaugura nueva planta de combustible de aviación en el aeropuerto de Punta Arenas",
@@ -204,7 +226,8 @@
     "categoria": "industria",
     "fuente": "G5 Noticias",
     "url": "https://g5noticias.cl/?p=925548",
-    "traducida": false
+    "traducida": false,
+    "alcance": "magallanes"
   },
   {
     "titulo": "Balance 2026 del hidrógeno verde en Chile: 62 iniciativas y Magallanes con el 19%",
@@ -213,7 +236,8 @@
     "categoria": "energias",
     "fuente": "H2 Business News",
     "url": "https://h2businessnews.com/el-balance-2026-del-hidrogeno-verde-en-chile-62-iniciativas-86-gw-y-us36-800-millones/",
-    "traducida": false
+    "traducida": false,
+    "alcance": "chile"
   },
   {
     "titulo": "Corfo financia programa de turismo sostenible para 24 empresas de Magallanes",
@@ -222,7 +246,8 @@
     "categoria": "innovacion",
     "fuente": "Ovejero Noticias",
     "url": "https://www.ovejeronoticias.cl/2026/10/corfo-impulsa-el-turismo-sostenible-en-magallanes-para-abrir-nuevos-mercados-y-reducir-la-estacionalidad/",
-    "traducida": false
+    "traducida": false,
+    "alcance": "magallanes"
   },
   {
     "titulo": "Corfo impulsa a 13 empresas de Magallanes con Potencia Incubadora",
@@ -231,7 +256,8 @@
     "categoria": "innovacion",
     "fuente": "Diálogo Sur",
     "url": "https://dialogosur.cl/2026/10/corfo-impulsa-el-crecimiento-de-13-empresas-de-magallanes-a-traves-de-potencia-incubadora/",
-    "traducida": false
+    "traducida": false,
+    "alcance": "magallanes"
   },
   {
     "titulo": "Proponen reconvertir el muelle de Mina Invierno en plataforma logística para el hidrógeno verde",
@@ -240,7 +266,8 @@
     "categoria": "energias",
     "fuente": "El Mostrador",
     "url": "https://www.elmostrador.cl/aqui-magallanes/2026/10/14/del-carbon-al-hidrogeno-verde-la-apuesta-por-reconvertir-el-muelle-de-la-mina-invierno/",
-    "traducida": false
+    "traducida": false,
+    "alcance": "magallanes"
   },
   {
     "titulo": "HIF Global y el piloto Nicolás Pino se unen para promover los e-combustibles en el automovilismo",
@@ -249,7 +276,8 @@
     "categoria": "energias",
     "fuente": "Ovejero Noticias",
     "url": "https://www.ovejeronoticias.cl/2026/10/nicolas-pino-y-hif-global-se-unen-para-impulsar-la-innovacion-chilena-en-el-automovilismo-internacional/",
-    "traducida": false
+    "traducida": false,
+    "alcance": "chile"
   },
   {
     "titulo": "Magallanes Logistics Summit reunirá a expertos internacionales para debatir el futuro logístico de la región",
@@ -258,7 +286,8 @@
     "categoria": "innovacion",
     "fuente": "Ovejero Noticias",
     "url": "https://www.ovejeronoticias.cl/2026/09/magallanes-pondra-en-el-centro-de-la-conversacion-su-futuro-logistico-en-un-summit-internacional/",
-    "traducida": false
+    "traducida": false,
+    "alcance": "magallanes"
   },
   {
     "titulo": "Corfo y ocho empresas firman acuerdo para impulsar el hidrógeno renovable en Chile",
@@ -267,7 +296,8 @@
     "categoria": "energias",
     "fuente": "Reporte Agrícola",
     "url": "https://www.reporteagricola.cl/noticia/noticias/2026/09/acuerdo-publico-privado-busca-acelerar-demanda-hidrogeno-verde-agro",
-    "traducida": false
+    "traducida": false,
+    "alcance": "chile"
   },
   {
     "titulo": "Aprueban ambientalmente HNH Energy, megaproyecto de amoníaco verde en Magallanes",
@@ -276,7 +306,8 @@
     "categoria": "energias",
     "fuente": "Ovejero Noticias",
     "url": "https://www.ovejeronoticias.cl/2026/09/comision-de-evaluacion-ambiental-aprobo-proyecto-hnh-energy-de-hidrogeno-verde-en-magallanes/",
-    "traducida": false
+    "traducida": false,
+    "alcance": "magallanes"
   },
   {
     "titulo": "Punta Arenas tendrá 130 buses eléctricos en su transporte público",
@@ -285,7 +316,8 @@
     "categoria": "energias",
     "fuente": "Meganoticias",
     "url": "https://www.meganoticias.cl/nacional/530884-punta-arenas-buses-electricos-proyecto-electromovilidad-ministerio-de-transportes-03-09-2026.html",
-    "traducida": false
+    "traducida": false,
+    "alcance": "magallanes"
   },
   {
     "titulo": "Hyvolution 2026 muestra proyectos de hidrógeno verde para descarbonizar la minería",
@@ -294,6 +326,7 @@
     "categoria": "energias",
     "fuente": "Mundo Minería",
     "url": "https://mundomineria.cl/2026/09/01/hyvolution-chile-2026-hidrogeno-verde-como-aliado-para-descarbonizar-la-mineria/",
-    "traducida": false
+    "traducida": false,
+    "alcance": "chile"
   }
 ]
