@@ -1,5 +1,15 @@
 [
   {
+    "titulo": "Estudiantes de Punta Arenas llevan un bote a hidrógeno verde a la Feria Mundial de Ciencias en Colombia",
+    "resumen": "El grupo escolar Hidrogenios, de los liceos Industrial Armando Quezada y María Behety, presentará en Colombia del 9 al 14 de noviembre un prototipo de bote impulsado por hidrógeno verde y un biocombustible hecho con residuos de la industria salmonera. La gira incluye pasantías técnicas en plantas automotrices.",
+    "fecha": "2026-10-31",
+    "categoria": "innovacion",
+    "fuente": "OvejeroNoticias",
+    "url": "https://www.ovejeronoticias.cl/2026/10/hidrogenios-se-reunen-con-el-director-del-slep-magallanes-antes-de-emprender-gira-cientifica-al-extranjero/",
+    "traducida": false,
+    "alcance": "magallanes"
+  },
+  {
     "titulo": "Universidades chilenas modelan remolcadores con hidrógeno verde, baterías y gemelos digitales",
     "resumen": "La USM, la PUC y la Universidad de O'Higgins, con fondos de ANID, desarrollaron un simulador que integra unos 50 componentes de un buque para comparar propulsión diésel, híbrida y eléctrica en remolcadores. El proyecto, junto a la Armada, SAAM Towage y la startup Thems, avanzará hacia pruebas en tiempo real, gemelos digitales y plataformas Hardware-in-the-Loop hasta 2028.",
     "fecha": "2026-10-30",
@@ -30,6 +40,16 @@
     "alcance": "mundo"
   },
   {
+    "titulo": "Qualitas Energy asegura US$286 millones para 259 MW renovables y 840 MWh de baterías en Chile",
+    "resumen": "La firma obtuvo financiamiento verde de BNP Paribas y Banco Santander para ocho activos en Chile: 66 MW hidroeléctricos de pasada en operación, un proyecto solar de 154 MWp con 840 MWh de almacenamiento y 39 MW eólicos. Los proyectos en construcción entrarían en operación comercial en 2028.",
+    "fecha": "2026-10-29",
+    "categoria": "energias",
+    "fuente": "pv magazine Latinoamérica",
+    "url": "https://www.pv-magazine-latam.com/2026/10/29/qualitas-energy-obtiene-286-millones-de-dolares-para-renovables-y-840-mwh-de-baterias-en-chile/",
+    "traducida": false,
+    "alcance": "chile"
+  },
+  {
     "titulo": "Planta solar Huatacondo y su batería siguen fuera de servicio dos meses después de un ciberataque",
     "resumen": "El parque de 103 MW y su sistema de almacenamiento de 98 MW/312 MWh fueron desconectados el 27 de agosto tras un ciberataque registrado por el Coordinador Eléctrico Nacional, y seguían detenidos al 27 de octubre. Ese mismo día otras dos centrales térmicas en Los Vilos perdieron su control remoto por un ataque informático. El caso pone foco en la ciberseguridad de las plantas renovables.",
     "fecha": "2026-10-29",
@@ -48,6 +68,16 @@
     "url": "https://biobiochile.cl/noticias/nacional/region-de-magallanes/2026/10/29/chile-busca-consolidar-su-rol-como-puerta-de-entrada-a-la-antartica-impulsando-proyectos-cientificos.shtml",
     "traducida": false,
     "alcance": "magallanes"
+  },
+  {
+    "titulo": "Estudio estima que la inacción climática costaría a Chile más de US$4.100 millones al año hacia 2050",
+    "resumen": "La Alianza Unidos por la Acción Climática (Acción Empresas, CCS, Pacto Global y otros) calcula que los riesgos climáticos no gestionados equivaldrían al 1,46% del PIB, con fuerte impacto en minería y agro. Propone 56 medidas de adaptación para el sector privado e indicadores para 12 sectores, incluidos energía y minería.",
+    "fecha": "2026-10-29",
+    "categoria": "industria",
+    "fuente": "Reporte Sostenible",
+    "url": "https://reportesostenible.cl/blog/estudio-revela-que-la-inaccion-climatica-costara-a-chile-mas-de-us4-mil-millones-anuales-al-2050-y-establece-metas-para-el-mundo-privado/",
+    "traducida": false,
+    "alcance": "chile"
   },
   {
     "titulo": "ABB lanza UNIREC H2, rectificador modular para electrolizadores que escala hasta 1 GW",
