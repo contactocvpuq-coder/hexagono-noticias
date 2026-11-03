@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "Jueza rechaza archivar demanda contra xAI por contaminación de la planta a gas de su datacenter Colossus 2",
+    "resumen": "Una jueza federal de Mississippi dejó seguir la demanda de la NAACP contra xAI, que opera sin permisos de la Ley de Aire Limpio una planta de turbinas a gas en Southaven para su centro de datos. Los demandantes estiman más de 5.000 toneladas anuales de óxidos de nitrógeno. El fallo no impone multas ni ordena cerrar la planta.",
+    "fecha": "2026-11-02",
+    "categoria": "energias",
+    "fuente": "Gadget Review (vía Yahoo News)",
+    "url": "https://www.yahoo.com/news/us/articles/elon-musk-spacex-just-lost-192847030.html",
+    "traducida": true,
+    "alcance": "mundo"
+  },
+  {
+    "titulo": "Infraestructura portuaria multipropósito de Puerto Williams supera el 85% de avance",
+    "resumen": "El seremi de Obras Públicas, Alejandro Marusic, y el delegado provincial inspeccionaron la segunda etapa de la obra en Cabo de Hornos, parte del Plan Especial de Desarrollo de Zonas Extremas. Apoyará la conectividad, la logística, el turismo de cruceros, la ciencia y el soporte a la Antártica. También revisaron la rampa Navarino.",
+    "fecha": "2026-11-02",
+    "categoria": "industria",
+    "fuente": "OvejeroNoticias",
+    "url": "https://www.ovejeronoticias.cl/2026/11/autoridades-inspeccionan-obras-portuarias-en-puerto-williams-infraestructura-multiproposito-supera-85-de-avance/",
+    "traducida": false,
+    "alcance": "magallanes"
+  },
+  {
+    "titulo": "Comité de Ministros ratifica Puerto Exterior de San Antonio y Parque Eólico Los Portones por US$4.250 millones",
+    "resumen": "El comité confirmó las aprobaciones ambientales del Puerto Exterior de San Antonio (US$4.000 millones, dos terminales) y del parque eólico de Engie en Calbuco y Maullín (US$250 millones), con 24 aerogeneradores, una línea de 220 kV de 23 km y baterías. Las reclamaciones contra el puerto se acogieron solo en parte.",
+    "fecha": "2026-11-02",
+    "categoria": "energias",
+    "fuente": "BioBioChile",
+    "url": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/11/02/comite-de-ministros-apoya-puerto-exterior-san-antonio-y-parque-eolico-los-portones-por-us4-250-mill.shtml",
+    "traducida": false,
+    "alcance": "chile"
+  },
+  {
+    "titulo": "Antarctica21 bautizará en Punta Arenas su crucero polar híbrido-eléctrico construido en Chile",
+    "resumen": "El Magellan Discoverer, de 94 m y 48 cabinas, fue construido por ASENAV en Valdivia y combina motores eléctricos, generadores diésel y baterías. La empresa magallánica lo bautizará el 6 de noviembre y zarpará a la Antártica el 15 de diciembre. Un estudio estima un impacto regional de US$574 millones entre 2026 y 2036.",
+    "fecha": "2026-11-02",
+    "categoria": "industria",
+    "fuente": "ITV Patagonia",
+    "url": "https://www.itvpatagonia.com/noticias/regional/02-11-2026/empresa-magallanica-antarctica21-crucero-magellan-discoverer/",
+    "traducida": false,
+    "alcance": "magallanes"
+  },
+  {
     "titulo": "Pueblos indígenas de Magallanes y Aysén se reúnen en Punta Arenas por la transición energética",
     "resumen": "La Seremi de Energía encabezó el encuentro de la Macrozona Austral de la Plataforma de Pueblos Indígenas para la Transición Energética, con representantes kawésqar, yagán y mapuche-huilliche. Se abordó el acceso a fondos para proyectos energéticos, la adaptación al cambio climático y capacitaciones sobre biocombustibles sólidos, y se acordaron nuevas sesiones de trabajo.",
     "fecha": "2026-11-01",
@@ -38,6 +78,16 @@
     "url": "https://www.ovejeronoticias.cl/2026/10/hidrogenios-se-reunen-con-el-director-del-slep-magallanes-antes-de-emprender-gira-cientifica-al-extranjero/",
     "traducida": false,
     "alcance": "magallanes"
+  },
+  {
+    "titulo": "Air Liquide termina la construcción de Normand'Hy, electrolizador de 200 MW en Francia",
+    "resumen": "La planta PEM de Port-Jérôme, en Normandía, producirá unas 28.000 toneladas anuales de hidrógeno renovable y bajo en carbono, sobre todo para refinación e industria. Air Liquide informó el 29 de octubre que la obra está terminada y que la primera producción es inminente. Participan Siemens Energy y TotalEnergies.",
+    "fecha": "2026-10-31",
+    "categoria": "energias",
+    "fuente": "Hydrogen Fuel News",
+    "url": "https://www.hydrogenfuelnews.com/air-liquide-s-normand-hy-project-moves-toward-hydrogen-production-commencement/8576974/",
+    "traducida": true,
+    "alcance": "mundo"
   },
   {
     "titulo": "Universidades chilenas modelan remolcadores con hidrógeno verde, baterías y gemelos digitales",
