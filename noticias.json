@@ -1,5 +1,45 @@
 [
   {
+    "titulo": "Científicos brasileños usan láser y microondas para fabricar ánodos más baratos para hidrógeno verde",
+    "resumen": "El CINE de la Universidade Federal de São Carlos, con la Universidade Tiradentes, fabricó ánodos de titanio con óxidos de rutenio y manganeso tratados con microondas y láser en vez de horno. El proceso es más rápido y gasta menos energía, y los ánodos fueron más activos en pruebas tipo PEM y con agua de mar real, según Electrochimica Acta.",
+    "fecha": "2026-11-04",
+    "categoria": "innovacion",
+    "fuente": "H2 Business News",
+    "url": "https://h2businessnews.com/cientificos-brasilenos-usan-laser-y-microondas-para-abaratar-los-anodos-del-hidrogeno-verde/",
+    "traducida": false,
+    "alcance": "mundo"
+  },
+  {
+    "titulo": "Investigadores chilenos recuperan hasta 97% del litio de baterías de autos eléctricos con ácidos orgánicos",
+    "resumen": "Un equipo de la Universidad Autónoma de Chile, con Hidronor y Jungheinrich y fondos Fondef de ANID por $230 millones, recuperó 97,7% del litio y 95,7% del hierro de baterías LFP en una planta piloto (TRL 5), usando ácidos cítrico, ascórbico y oxálico. Tratar estas baterías en Chile reduciría su huella de carbono en 39% frente a exportarlas.",
+    "fecha": "2026-11-03",
+    "categoria": "innovacion",
+    "fuente": "Reporte Sostenible",
+    "url": "https://reportesostenible.cl/blog/investigadores-chilenos-recuperan-hasta-el-97-del-litio-de-baterias-de-autos-electricos/",
+    "traducida": false,
+    "alcance": "chile"
+  },
+  {
+    "titulo": "Centros de datos de IA recurren a turbinas de avión reconvertidas ante la espera por conexión eléctrica",
+    "resumen": "xAI instaló ocho turbinas de origen aeronáutico de ProEnergy para su centro de datos Colossus 2, y Crusoe y OpenAI también usan turbinas a gas en Texas. Conectar 100 MW a la red en Virginia del Norte puede tardar unos siete años, según la AIE, pero estos equipos son menos eficientes y más contaminantes que las turbinas convencionales.",
+    "fecha": "2026-11-03",
+    "categoria": "energias",
+    "fuente": "TechCrunch",
+    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "traducida": true,
+    "alcance": "mundo"
+  },
+  {
+    "titulo": "Punta Arenas proyecta ampliar sus muelles y un nuevo muelle de 240 m para la Armada y la logística antártica",
+    "resumen": "En el Comité Asesor Antártico, el gobernador Jorge Flies, la Empresa Portuaria Austral y la Armada revisaron un nuevo terminal de pasajeros, la extensión del muelle Prat y el reforzamiento del muelle Mardones, con una solicitud inicial de $20 mil millones. La Armada propone además un muelle de hasta 240 m en la Base Naval, hoy en diseño, que también recibiría buques científicos antárticos extranjeros.",
+    "fecha": "2026-11-02",
+    "categoria": "industria",
+    "fuente": "Ovejero Noticias",
+    "url": "https://www.ovejeronoticias.cl/2026/11/punta-arenas-busca-fortalecer-su-infraestructura-portuaria-con-millonarias-inversiones-y-un-nuevo-muelle-para-la-armada/",
+    "traducida": false,
+    "alcance": "magallanes"
+  },
+  {
     "titulo": "Jueza rechaza archivar demanda contra xAI por contaminación de la planta a gas de su datacenter Colossus 2",
     "resumen": "Una jueza federal de Mississippi dejó seguir la demanda de la NAACP contra xAI, que opera sin permisos de la Ley de Aire Limpio una planta de turbinas a gas en Southaven para su centro de datos. Los demandantes estiman más de 5.000 toneladas anuales de óxidos de nitrógeno. El fallo no impone multas ni ordena cerrar la planta.",
     "fecha": "2026-11-02",
