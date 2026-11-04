@@ -1,5 +1,16 @@
 [
   {
+    "titulo": "Gobierno Regional objeta la declaración ambiental del puerto Otway de US$80 millones en isla Riesco",
+    "resumen": "El GORE de Magallanes se pronunció desfavorablemente sobre la DIA de Portuaria Otway, ligada a Ultranav, porque no analiza su relación con el Plan de Zonas Extremas y dos políticas regionales. El proyecto reactivaría el muelle de Punta Lackwater para carga de proyectos de hidrógeno verde, con obras desde 2028. La empresa deberá responder en el SEIA.",
+    "fecha": "2026-11-04",
+    "categoria": "industria",
+    "fuente": "La Prensa Austral",
+    "url": "https://laprensaaustral.cl/2026/11/04/gobierno-regional-se-pronuncia-en-contra-del-proyecto-portuario-otway-por-omisiones-en-declaracion-de-impacto-ambiental/",
+    "traducida": false,
+    "alcance": "magallanes",
+    "seguimiento": "Puerto Otway"
+  },
+  {
     "titulo": "Científicos brasileños usan láser y microondas para fabricar ánodos más baratos para hidrógeno verde",
     "resumen": "El CINE de la Universidade Federal de São Carlos, con la Universidade Tiradentes, fabricó ánodos de titanio con óxidos de rutenio y manganeso tratados con microondas y láser en vez de horno. El proceso es más rápido y gasta menos energía, y los ánodos fueron más activos en pruebas tipo PEM y con agua de mar real, según Electrochimica Acta.",
     "fecha": "2026-11-04",
@@ -27,7 +38,8 @@
     "fuente": "TechCrunch",
     "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
     "traducida": true,
-    "alcance": "mundo"
+    "alcance": "mundo",
+    "seguimiento": "Datacenters y emisiones"
   },
   {
     "titulo": "Punta Arenas proyecta ampliar sus muelles y un nuevo muelle de 240 m para la Armada y la logística antártica",
@@ -47,7 +59,8 @@
     "fuente": "Gadget Review (vía Yahoo News)",
     "url": "https://www.yahoo.com/news/us/articles/elon-musk-spacex-just-lost-192847030.html",
     "traducida": true,
-    "alcance": "mundo"
+    "alcance": "mundo",
+    "seguimiento": "Datacenters y emisiones"
   },
   {
     "titulo": "Infraestructura portuaria multipropósito de Puerto Williams supera el 85% de avance",
@@ -227,7 +240,8 @@
     "fuente": "ITV Patagonia",
     "url": "https://itvpatagonia.com/noticias/regional/28-10-2026/proyecto-hnh-energy-enfrenta-dos-reclamaciones-antes-de-avanzar-en-magallanes",
     "traducida": false,
-    "alcance": "magallanes"
+    "alcance": "magallanes",
+    "seguimiento": "HNH Energy"
   },
   {
     "titulo": "Corfo pone la primera piedra del Centro de Manufactura Avanzada e Industria 4.0 en Huachipato",
@@ -417,7 +431,8 @@
     "fuente": "El Mostrador",
     "url": "https://www.elmostrador.cl/aqui-magallanes/2026/10/14/del-carbon-al-hidrogeno-verde-la-apuesta-por-reconvertir-el-muelle-de-la-mina-invierno/",
     "traducida": false,
-    "alcance": "magallanes"
+    "alcance": "magallanes",
+    "seguimiento": "Puerto Otway"
   },
   {
     "titulo": "HIF Global y el piloto Nicolás Pino se unen para promover los e-combustibles en el automovilismo",
@@ -457,7 +472,8 @@
     "fuente": "Ovejero Noticias",
     "url": "https://www.ovejeronoticias.cl/2026/09/comision-de-evaluacion-ambiental-aprobo-proyecto-hnh-energy-de-hidrogeno-verde-en-magallanes/",
     "traducida": false,
-    "alcance": "magallanes"
+    "alcance": "magallanes",
+    "seguimiento": "HNH Energy"
   },
   {
     "titulo": "Punta Arenas tendrá 130 buses eléctricos en su transporte público",
