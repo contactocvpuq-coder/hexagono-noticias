@@ -1,5 +1,6 @@
 [
   {
+    "id": "2026-11-04-gore-observa-puerto-otway",
     "titulo": "Gobierno Regional objeta la declaración ambiental del puerto Otway de US$80 millones en isla Riesco",
     "resumen": "El GORE de Magallanes se pronunció desfavorablemente sobre la DIA de Portuaria Otway, ligada a Ultranav, porque no analiza su relación con el Plan de Zonas Extremas y dos políticas regionales. El proyecto reactivaría el muelle de Punta Lackwater para carga de proyectos de hidrógeno verde, con obras desde 2028. La empresa deberá responder en el SEIA.",
     "fecha": "2026-11-04",
@@ -11,6 +12,7 @@
     "seguimiento": "Puerto Otway"
   },
   {
+    "id": "2026-11-04-magellan-discoverer-llega-punta-arenas",
     "titulo": "El crucero polar Magellan Discoverer llega a Punta Arenas tras navegar desde Valdivia",
     "resumen": "El buque de Antarctica21, construido en Chile por ASENAV, fue recibido por la comunidad en el Muelle Prat. Tiene propulsión eléctrica, capacidad para más de 82 pasajeros y 67 tripulantes, y apoyará diez proyectos científicos en la Antártica. Hará viajes de prueba a Ushuaia y las Falkland antes de su viaje inaugural, el 15 de diciembre.",
     "fecha": "2026-11-04",
@@ -23,6 +25,7 @@
     "video": "https://youtu.be/gdircDDkodQ"
   },
   {
+    "id": "2026-11-04-brasil-anodos-laser-microondas-h2",
     "titulo": "Científicos brasileños usan láser y microondas para fabricar ánodos más baratos para hidrógeno verde",
     "resumen": "El CINE de la Universidade Federal de São Carlos, con la Universidade Tiradentes, fabricó ánodos de titanio con óxidos de rutenio y manganeso tratados con microondas y láser en vez de horno. El proceso es más rápido y gasta menos energía, y los ánodos fueron más activos en pruebas tipo PEM y con agua de mar real, según Electrochimica Acta.",
     "fecha": "2026-11-04",
@@ -33,6 +36,7 @@
     "alcance": "mundo"
   },
   {
+    "id": "2026-11-03-reciclaje-litio-baterias-autonoma",
     "titulo": "Investigadores chilenos recuperan hasta 97% del litio de baterías de autos eléctricos con ácidos orgánicos",
     "resumen": "Un equipo de la Universidad Autónoma de Chile, con Hidronor y Jungheinrich y fondos Fondef de ANID por $230 millones, recuperó 97,7% del litio y 95,7% del hierro de baterías LFP en una planta piloto (TRL 5), usando ácidos cítrico, ascórbico y oxálico. Tratar estas baterías en Chile reduciría su huella de carbono en 39% frente a exportarlas.",
     "fecha": "2026-11-03",
@@ -43,6 +47,7 @@
     "alcance": "chile"
   },
   {
+    "id": "2026-11-03-datacenters-turbinas-jet-reconvertidas",
     "titulo": "Centros de datos de IA recurren a turbinas de avión reconvertidas ante la espera por conexión eléctrica",
     "resumen": "xAI instaló ocho turbinas de origen aeronáutico de ProEnergy para su centro de datos Colossus 2, y Crusoe y OpenAI también usan turbinas a gas en Texas. Conectar 100 MW a la red en Virginia del Norte puede tardar unos siete años, según la AIE, pero estos equipos son menos eficientes y más contaminantes que las turbinas convencionales.",
     "fecha": "2026-11-03",
@@ -54,6 +59,7 @@
     "seguimiento": "Datacenters y emisiones"
   },
   {
+    "id": "2026-11-02-punta-arenas-muelles-armada-antartica",
     "titulo": "Punta Arenas proyecta ampliar sus muelles y un nuevo muelle de 240 m para la Armada y la logística antártica",
     "resumen": "En el Comité Asesor Antártico, el gobernador Jorge Flies, la Empresa Portuaria Austral y la Armada revisaron un nuevo terminal de pasajeros, la extensión del muelle Prat y el reforzamiento del muelle Mardones, con una solicitud inicial de $20 mil millones. La Armada propone además un muelle de hasta 240 m en la Base Naval, hoy en diseño, que también recibiría buques científicos antárticos extranjeros.",
     "fecha": "2026-11-02",
@@ -64,6 +70,7 @@
     "alcance": "magallanes"
   },
   {
+    "id": "2026-11-02-xai-colossus-ley-aire-limpio",
     "titulo": "Jueza rechaza archivar demanda contra xAI por contaminación de la planta a gas de su datacenter Colossus 2",
     "resumen": "Una jueza federal de Mississippi dejó seguir la demanda de la NAACP contra xAI, que opera sin permisos de la Ley de Aire Limpio una planta de turbinas a gas en Southaven para su centro de datos. Los demandantes estiman más de 5.000 toneladas anuales de óxidos de nitrógeno. El fallo no impone multas ni ordena cerrar la planta.",
     "fecha": "2026-11-02",
@@ -75,6 +82,7 @@
     "seguimiento": "Datacenters y emisiones"
   },
   {
+    "id": "2026-11-02-puerto-williams-obras-portuarias",
     "titulo": "Infraestructura portuaria multipropósito de Puerto Williams supera el 85% de avance",
     "resumen": "El seremi de Obras Públicas, Alejandro Marusic, y el delegado provincial inspeccionaron la segunda etapa de la obra en Cabo de Hornos, parte del Plan Especial de Desarrollo de Zonas Extremas. Apoyará la conectividad, la logística, el turismo de cruceros, la ciencia y el soporte a la Antártica. También revisaron la rampa Navarino.",
     "fecha": "2026-11-02",
@@ -85,6 +93,7 @@
     "alcance": "magallanes"
   },
   {
+    "id": "2026-11-02-comite-ministros-san-antonio-los-portones",
     "titulo": "Comité de Ministros ratifica Puerto Exterior de San Antonio y Parque Eólico Los Portones por US$4.250 millones",
     "resumen": "El comité confirmó las aprobaciones ambientales del Puerto Exterior de San Antonio (US$4.000 millones, dos terminales) y del parque eólico de Engie en Calbuco y Maullín (US$250 millones), con 24 aerogeneradores, una línea de 220 kV de 23 km y baterías. Las reclamaciones contra el puerto se acogieron solo en parte.",
     "fecha": "2026-11-02",
@@ -95,6 +104,7 @@
     "alcance": "chile"
   },
   {
+    "id": "2026-11-02-antarctica21-magellan-discoverer",
     "titulo": "Antarctica21 bautizará en Punta Arenas su crucero polar híbrido-eléctrico construido en Chile",
     "resumen": "El Magellan Discoverer, de 94 m y 48 cabinas, fue construido por ASENAV en Valdivia y combina motores eléctricos, generadores diésel y baterías. La empresa magallánica lo bautizará el 6 de noviembre y zarpará a la Antártica el 15 de diciembre. Un estudio estima un impacto regional de US$574 millones entre 2026 y 2036.",
     "fecha": "2026-11-02",
@@ -106,6 +116,7 @@
     "seguimiento": "Magellan Discoverer"
   },
   {
+    "id": "2026-11-01-pueblos-indigenas-transicion-energetica-punta-arenas",
     "titulo": "Pueblos indígenas de Magallanes y Aysén se reúnen en Punta Arenas por la transición energética",
     "resumen": "La Seremi de Energía encabezó el encuentro de la Macrozona Austral de la Plataforma de Pueblos Indígenas para la Transición Energética, con representantes kawésqar, yagán y mapuche-huilliche. Se abordó el acceso a fondos para proyectos energéticos, la adaptación al cambio climático y capacitaciones sobre biocombustibles sólidos, y se acordaron nuevas sesiones de trabajo.",
     "fecha": "2026-11-01",
@@ -116,6 +127,7 @@
     "alcance": "magallanes"
   },
   {
+    "id": "2026-11-01-sargento-aldea-carga-muelle-antartico",
     "titulo": "Armada moverá más de 11.000 toneladas para construir nuevo muelle en Bahía Fildes",
     "resumen": "El buque multipropósito Sargento Aldea y tres remolcadores harán 19 viajes en la 63ª Expedición Científica Antártica, casi el doble de carga que la temporada anterior. Los materiales son para el nuevo muelle de isla Rey Jorge, fase II de la Operación Base Soberanía, con faenas de noviembre a marzo de 2027.",
     "fecha": "2026-11-01",
@@ -126,6 +138,7 @@
     "alcance": "magallanes"
   },
   {
+    "id": "2026-10-31-malvinas-plan-inversiones-fondo-petrolero",
     "titulo": "Malvinas presenta un plan de inversiones por más de US$400 millones y un futuro fondo petrolero",
     "resumen": "La administración británica de las islas aprobó el Plan 2026-2030, con más de 300 millones de libras en infraestructura: un nuevo puerto en Stanley para 2028, energía, vivienda, residuos y telecomunicaciones. Propone además un fondo soberano para las regalías del proyecto petrolero Sea Lion, que Argentina impugna ante el Tribunal del Mar.",
     "fecha": "2026-10-31",
@@ -136,6 +149,7 @@
     "alcance": "mundo"
   },
   {
+    "id": "2026-10-31-hidrogenios-feria-mundial-ciencias",
     "titulo": "Estudiantes de Punta Arenas llevan un bote a hidrógeno verde a la Feria Mundial de Ciencias en Colombia",
     "resumen": "El grupo escolar Hidrogenios, de los liceos Industrial Armando Quezada y María Behety, presentará en Colombia del 9 al 14 de noviembre un prototipo de bote impulsado por hidrógeno verde y un biocombustible hecho con residuos de la industria salmonera. La gira incluye pasantías técnicas en plantas automotrices.",
     "fecha": "2026-10-31",
@@ -146,6 +160,7 @@
     "alcance": "magallanes"
   },
   {
+    "id": "2026-10-31-air-liquide-normandhy",
     "titulo": "Air Liquide termina la construcción de Normand'Hy, electrolizador de 200 MW en Francia",
     "resumen": "La planta PEM de Port-Jérôme, en Normandía, producirá unas 28.000 toneladas anuales de hidrógeno renovable y bajo en carbono, sobre todo para refinación e industria. Air Liquide informó el 29 de octubre que la obra está terminada y que la primera producción es inminente. Participan Siemens Energy y TotalEnergies.",
     "fecha": "2026-10-31",
@@ -156,6 +171,7 @@
     "alcance": "mundo"
   },
   {
+    "id": "2026-10-30-universidades-propulsion-maritima-h2v",
     "titulo": "Universidades chilenas modelan remolcadores con hidrógeno verde, baterías y gemelos digitales",
     "resumen": "La USM, la PUC y la Universidad de O'Higgins, con fondos de ANID, desarrollaron un simulador que integra unos 50 componentes de un buque para comparar propulsión diésel, híbrida y eléctrica en remolcadores. El proyecto, junto a la Armada, SAAM Towage y la startup Thems, avanzará hacia pruebas en tiempo real, gemelos digitales y plataformas Hardware-in-the-Loop hasta 2028.",
     "fecha": "2026-10-30",
@@ -166,6 +182,7 @@
     "alcance": "chile"
   },
   {
+    "id": "2026-10-30-punta-arenas-iluminacion-led",
     "titulo": "Punta Arenas licitará 236 luminarias LED por $179 millones para siete unidades vecinales",
     "resumen": "La Municipalidad de Punta Arenas iniciará la licitación de un proyecto de iluminación LED de alta eficiencia financiado por el Programa de Mejoramiento de Barrios de la Subdere. Contempla 236 luminarias y unos 12 km de cableado aéreo en sectores como Camino ENAP, Argüelles y Calafate, con 180 días de obras y beneficio para más de 7.500 hogares.",
     "fecha": "2026-10-30",
@@ -176,6 +193,7 @@
     "alcance": "magallanes"
   },
   {
+    "id": "2026-10-30-petrobras-saf-hidrogeno",
     "titulo": "Petrobras reduce 23,8% la intensidad de carbono de su SAF optimizando el uso de hidrógeno",
     "resumen": "La refinería Duque de Caxias de Petrobras, en Río de Janeiro, recertificó bajo ISCC CORSIA su combustible sostenible de aviación, con una baja de 23,8% en intensidad de carbono gracias a una mejor gestión del hidrógeno, cuya huella cayó 29%. La planta proyecta vender hasta 50.000 m³ mensuales de SAF coprocesado con aceite de maíz.",
     "fecha": "2026-10-30",
@@ -186,6 +204,7 @@
     "alcance": "mundo"
   },
   {
+    "id": "2026-10-29-qualitas-energy-financiamiento-chile",
     "titulo": "Qualitas Energy asegura US$286 millones para 259 MW renovables y 840 MWh de baterías en Chile",
     "resumen": "La firma obtuvo financiamiento verde de BNP Paribas y Banco Santander para ocho activos en Chile: 66 MW hidroeléctricos de pasada en operación, un proyecto solar de 154 MWp con 840 MWh de almacenamiento y 39 MW eólicos. Los proyectos en construcción entrarían en operación comercial en 2028.",
     "fecha": "2026-10-29",
@@ -196,6 +215,7 @@
     "alcance": "chile"
   },
   {
+    "id": "2026-10-29-huatacondo-ciberataque",
     "titulo": "Planta solar Huatacondo y su batería siguen fuera de servicio dos meses después de un ciberataque",
     "resumen": "El parque de 103 MW y su sistema de almacenamiento de 98 MW/312 MWh fueron desconectados el 27 de agosto tras un ciberataque registrado por el Coordinador Eléctrico Nacional, y seguían detenidos al 27 de octubre. Ese mismo día otras dos centrales térmicas en Los Vilos perdieron su control remoto por un ataque informático. El caso pone foco en la ciberseguridad de las plantas renovables.",
     "fecha": "2026-10-29",
@@ -206,6 +226,7 @@
     "alcance": "chile"
   },
   {
+    "id": "2026-10-29-expedicion-antartica-63-punta-arenas",
     "titulo": "Expedición Antártica N°63 parte desde Punta Arenas con 50 proyectos y energía solar e hidrógeno verde",
     "resumen": "El canciller lanzó en Punta Arenas la Expedición Científica Antártica Estival N°63 del INACH, con unos 50 proyectos y 150 profesionales entre noviembre y marzo. La temporada avanza en la renovación de la base Julio Escudero, que incorporará energía solar e hidrógeno verde con apoyo de GIZ y la Unión Europea, reforzando a Magallanes como puerta de entrada a la Antártica.",
     "fecha": "2026-10-29",
@@ -216,6 +237,7 @@
     "alcance": "magallanes"
   },
   {
+    "id": "2026-10-29-estudio-costo-inaccion-climatica-chile",
     "titulo": "Estudio estima que la inacción climática costaría a Chile más de US$4.100 millones al año hacia 2050",
     "resumen": "La Alianza Unidos por la Acción Climática (Acción Empresas, CCS, Pacto Global y otros) calcula que los riesgos climáticos no gestionados equivaldrían al 1,46% del PIB, con fuerte impacto en minería y agro. Propone 56 medidas de adaptación para el sector privado e indicadores para 12 sectores, incluidos energía y minería.",
     "fecha": "2026-10-29",
@@ -226,6 +248,7 @@
     "alcance": "chile"
   },
   {
+    "id": "2026-10-29-abb-unirec-h2-rectificador",
     "titulo": "ABB lanza UNIREC H2, rectificador modular para electrolizadores que escala hasta 1 GW",
     "resumen": "El equipo convierte la corriente alterna de la red en la corriente continua que requieren los electrolizadores, con hasta 7,5 MW por unidad y 99,6% de eficiencia. Como la electricidad pesa entre 60% y 70% del costo operativo de la electrólisis, reducir pérdidas ayuda a bajar el costo del hidrógeno verde.",
     "fecha": "2026-10-29",
@@ -236,6 +259,7 @@
     "alcance": "mundo"
   },
   {
+    "id": "2026-10-28-pacifico-mexinol-epc-electrolizador",
     "titulo": "Pacifico Mexinol firma con Siemens Energy y Techint la construcción de un electrolizador de 210 MW en México",
     "resumen": "Transition Industries cerró el contrato EPC para la planta de electrólisis del complejo Pacifico Mexinol, en Sinaloa, que producirá 6.130 toneladas diarias de metanol de muy bajas emisiones. Usará tecnología Elyzer P-300 de Siemens Energy y su avance depende de cerrar el financiamiento del proyecto.",
     "fecha": "2026-10-28",
@@ -246,6 +270,7 @@
     "alcance": "mundo"
   },
   {
+    "id": "2026-10-28-hnh-energy-reclamaciones",
     "titulo": "HNH Energy enfrenta dos reclamaciones ante el Comité de Ministros antes de avanzar en Magallanes",
     "resumen": "El proyecto de amoníaco verde de HNH Energy, con inversión sobre US$11.000 millones en San Gregorio, Laguna Blanca y Punta Arenas, recibió dos reclamaciones contra su aprobación ambiental: una por una zona típica y otra por avifauna. El Comité de Ministros tiene 60 días hábiles para resolver; la empresa apunta a iniciar obras el próximo año.",
     "fecha": "2026-10-28",
@@ -257,6 +282,7 @@
     "seguimiento": "HNH Energy"
   },
   {
+    "id": "2026-10-28-corfo-centro-manufactura-4-0-huachipato",
     "titulo": "Corfo pone la primera piedra del Centro de Manufactura Avanzada e Industria 4.0 en Huachipato",
     "resumen": "El centro, liderado por la Universidad de Concepción, ocupará 2.500 m² en la ex siderúrgica y ofrecerá a pymes pilotajes en robótica, fabricación avanzada y transformación digital. La primera etapa invierte más de $16.497 millones, con 52% de aporte Corfo, y apunta a 1.360 servicios tecnológicos en diez años.",
     "fecha": "2026-10-28",
@@ -267,6 +293,7 @@
     "alcance": "chile"
   },
   {
+    "id": "2026-10-28-brasil-corredor-etanol-buques",
     "titulo": "Brasil inicia en Santos el primer corredor de etanol verde para abastecer buques",
     "resumen": "Desde el 19 de octubre el puerto de Santos suministra bioetanol de caña a portacontenedores de CMA CGM con motores tricombustible, tras pilotos en julio. La primera carga fue de 500.000 litros y Copersucar prevé unos 10 millones de litros antes de fin de año, una vía concreta para descarbonizar el transporte marítimo.",
     "fecha": "2026-10-28",
@@ -277,6 +304,7 @@
     "alcance": "mundo"
   },
   {
+    "id": "2026-10-27-transforma-h2v-herramienta-incentivos",
     "titulo": "Transforma H2V lanza herramienta para aprovechar los incentivos tributarios de Magallanes",
     "resumen": "El Programa Transforma Hidrógeno Verde y GDS Consultores presentaron una plataforma que reúne seis instrumentos de la región, entre ellos la Ley Austral, la Ley Navarino, el DFL 15 y la Zona Franca. Está dirigida a inversionistas, pymes y proveedores locales, e incluye estimaciones descargables en Excel.",
     "fecha": "2026-10-27",
@@ -287,6 +315,7 @@
     "alcance": "magallanes"
   },
   {
+    "id": "2026-10-27-sener-senhy-plantas-hidrogeno",
     "titulo": "Sener y Tekniker lanzan plataforma digital para diseñar y optimizar plantas de hidrógeno verde",
     "resumen": "La plataforma SenHy, desarrollada por Sener con apoyo de Tekniker en el País Vasco, simula y optimiza plantas de electrólisis PEM y alcalina evaluando más de 200 parámetros. Integra un sistema de gestión que ajusta la producción a la disponibilidad de energía renovable. Es parte de un proyecto IPCEI europeo (según comunicado de la empresa).",
     "fecha": "2026-10-27",
@@ -297,6 +326,7 @@
     "alcance": "mundo"
   },
   {
+    "id": "2026-10-27-kier-electrodo-niquel-cobalto",
     "titulo": "Investigadores coreanos crean un electrodo sin platino que abarata la producción de hidrógeno verde",
     "resumen": "El KIER de Corea del Sur desarrolló un electrodo de óxido de níquel y aleación níquel-cobalto para electrólisis alcalina que supera al de platino y reduce en 99% el costo de materiales. Por ahora es un resultado de laboratorio y buscan escalarlo a electrolizadores de nivel megavatio.",
     "fecha": "2026-10-27",
@@ -307,6 +337,7 @@
     "alcance": "mundo"
   },
   {
+    "id": "2026-10-27-ebara-centro-pruebas-hidrogeno-liquido",
     "titulo": "Ebara Elliott abre en Japón un centro para probar bombas de hidrógeno líquido a escala real",
     "resumen": "El complejo de Futtsu, en Chiba, une un centro de pruebas y una planta de fabricación criogénica donde bombas y sopladores se ensayan a plena carga con hidrógeno líquido a -253 °C. Pocas instalaciones en el mundo pueden hacerlo, lo que acorta el camino para equipos de las primeras cadenas de suministro de hidrógeno.",
     "fecha": "2026-10-27",
@@ -317,6 +348,7 @@
     "alcance": "mundo"
   },
   {
+    "id": "2026-10-27-costo-marginal-minimo-2002",
     "titulo": "Costo marginal de la electricidad en Chile marca su menor promedio semanal desde 2002",
     "resumen": "Según un informe de DNV, entre el 12 y el 18 de octubre la barra Polpaico promedió US$3,4/MWh, con 74 horas a costo cero. El vertimiento solar y eólico llegó a 25,5% (231,5 GWh), mientras las baterías aportaron hasta 26,3% de la generación en la noche. En Puerto Montt el costo subió a US$83,4/MWh por congestión de transmisión.",
     "fecha": "2026-10-27",
@@ -327,6 +359,7 @@
     "alcance": "chile"
   },
   {
+    "id": "2026-10-26-gemelo-digital-ductos",
     "titulo": "Startup chilena crea un gemelo digital que detecta fugas en ductos mineros en segundos",
     "resumen": "SPF Ingeniería, seleccionada por el programa Open Aster de Escondida | BHP, desarrolló Pipeline-RTO, una plataforma que combina IA, modelos físicos y sensorización virtual. En pruebas emitió la primera alerta en menos de 45 segundos y ya opera en más de cinco faenas del país.",
     "fecha": "2026-10-26",
@@ -337,6 +370,7 @@
     "alcance": "chile"
   },
   {
+    "id": "2026-10-26-sma-cargos-enap-aconcagua",
     "titulo": "SMA formula cargos gravísimos a Enap por informar datos ambientales falsos en Refinería Aconcagua",
     "resumen": "La Superintendencia del Medio Ambiente acusó a Enap Refinerías de subreportar emisiones en Concón: la recuperación de azufre habría bajado a 90% frente a la meta de 98% y el SO2 superó el tope anual en 2023 y 2024. También cuestiona su sistema de monitoreo continuo de emisiones. Arriesga multas por más de US$19 millones.",
     "fecha": "2026-10-26",
@@ -347,6 +381,7 @@
     "alcance": "chile"
   },
   {
+    "id": "2026-10-26-china-gasoducto-hidrogeno-baotou",
     "titulo": "China completa el primer gasoducto de hidrógeno verde de alta presión y larga distancia",
     "resumen": "El ducto de 195 km entre Damao Banner y Baotou, en Mongolia Interior, terminó la etapa de reemplazo con nitrógeno, paso previo a su puesta en marcha. Diseñado por CPECC, abastecerá de hidrógeno a la industria de Baotou y podría extenderse a la zona de Beijing-Tianjin-Hebei. Es parte de los pilotos de hidrógeno de la Administración Nacional de Energía.",
     "fecha": "2026-10-26",
@@ -357,6 +392,7 @@
     "alcance": "mundo"
   },
   {
+    "id": "2026-10-26-hylog-biobio-corredor-hidrogeno",
     "titulo": "Chile formaliza HyLog–Biobío, corredor de camiones a hidrógeno verde entre Santiago y el Biobío",
     "resumen": "Marval y la Universidad de Concepción pusieron en marcha el proyecto de US$9,4 millones, con US$5 millones de Corfo. Incluye una estación en Talcahuano de hasta 350 toneladas anuales, con electrolizadores de 5 MW ampliables a 15 MW, y diez camiones con 700 km de autonomía desde 2028.",
     "fecha": "2026-10-26",
@@ -367,6 +403,7 @@
     "alcance": "chile"
   },
   {
+    "id": "2026-10-24-h2v-camiones-mineros",
     "titulo": "El hidrógeno verde gana terreno para reemplazar el diésel en camiones mineros",
     "resumen": "La minería chilena evalúa el hidrógeno verde para sus camiones de alto tonelaje, con varias iniciativas en Antofagasta. Destacan el estudio de Marval Clean Logistics y H2 Green Mining entre Calama y los puertos, y un prototipo de camión híbrido apoyado por Corfo con hasta 600 km de autonomía.",
     "fecha": "2026-10-24",
@@ -377,6 +414,7 @@
     "alcance": "chile"
   },
   {
+    "id": "2026-10-22-omv-electrolizadores",
     "titulo": "Austria: Siemens Energy entrega los primeros electrolizadores para la planta de 140 MW de OMV",
     "resumen": "Comenzó la instalación del núcleo de la planta de hidrógeno verde de OMV en Bruck an der Leitha, que producirá hasta 23.000 toneladas al año desde fines de 2027. El proyecto cuenta con financiamiento del Banco Europeo de Inversiones y OMV sigue adelante en solitario tras la salida de Masdar.",
     "fecha": "2026-10-22",
@@ -387,6 +425,7 @@
     "alcance": "mundo"
   },
   {
+    "id": "2026-10-21-china-songyuan-amoniaco-fase-2",
     "titulo": "China inicia la segunda fase del mayor complejo de amoníaco verde del mundo",
     "resumen": "China Energy Engineering comenzó a construir la fase 2 del parque de hidrógeno de Songyuan, en la provincia de Jilin, con una inversión de US$1.620 millones. La ampliación elevará la capacidad a 600.000 toneladas anuales de amoníaco verde y duplicará la energía renovable del proyecto a 1.600 MW.",
     "fecha": "2026-10-21",
@@ -397,6 +436,7 @@
     "alcance": "mundo"
   },
   {
+    "id": "2026-10-20-enex-planta-aviacion-punta-arenas",
     "titulo": "Enex inaugura nueva planta de combustible de aviación en el aeropuerto de Punta Arenas",
     "resumen": "La instalación en el aeropuerto Carlos Ibáñez del Campo moderniza la recepción, almacenamiento y abastecimiento de combustible, bajo una concesión de 30 años. Busca reforzar la conectividad aérea de Magallanes y el apoyo logístico a las misiones antárticas.",
     "fecha": "2026-10-20",
@@ -407,6 +447,7 @@
     "alcance": "magallanes"
   },
   {
+    "id": "2026-10-20-balance-h2-chile-2026",
     "titulo": "Balance 2026 del hidrógeno verde en Chile: 62 iniciativas y Magallanes con el 19%",
     "resumen": "Según H2 Chile, el país suma 62 iniciativas de hidrógeno verde, 17 de ellas piloto, con una cartera de US$36.800 millones y 8,6 GW de electrólisis. Magallanes concentra el 19% y destaca el proyecto Cabo Negro de HIF Global en Punta Arenas, de US$830 millones.",
     "fecha": "2026-10-20",
@@ -417,6 +458,7 @@
     "alcance": "chile"
   },
   {
+    "id": "2026-10-18-corfo-turismo-sostenible",
     "titulo": "Corfo financia programa de turismo sostenible para 24 empresas de Magallanes",
     "resumen": "Con más de $82 millones, Corfo cofinancia un programa de difusión tecnológica que durante 12 meses acompañará a empresas turísticas de Puerto Natales, Torres del Paine, Punta Arenas, Cabo de Hornos y Timaukel. Incluye economía circular, apoyo al Sello S de Sernatur y medición de huella de carbono.",
     "fecha": "2026-10-18",
@@ -427,6 +469,7 @@
     "alcance": "magallanes"
   },
   {
+    "id": "2026-10-16-corfo-potencia-incubadora",
     "titulo": "Corfo impulsa a 13 empresas de Magallanes con Potencia Incubadora",
     "resumen": "En la Semana de la Pyme, en Punta Arenas, 13 empresas regionales seleccionadas entre más de 40 postulantes iniciaron el programa. Recibirán mentorías, asesoría técnica, validación comercial y preparación para financiamiento, con MEB Patagonia y Socialab como ejecutores.",
     "fecha": "2026-10-16",
@@ -437,6 +480,7 @@
     "alcance": "magallanes"
   },
   {
+    "id": "2026-10-14-muelle-mina-invierno",
     "titulo": "Proponen reconvertir el muelle de Mina Invierno en plataforma logística para el hidrógeno verde",
     "resumen": "La Empresa Portuaria Otway ingresó a evaluación ambiental una inversión de US$80 millones para transformar el antiguo muelle carbonero de Río Verde en un puerto de apoyo a proyectos industriales y energéticos. Las obras comenzarían en el segundo semestre de 2028.",
     "fecha": "2026-10-14",
@@ -448,6 +492,7 @@
     "seguimiento": "Puerto Otway"
   },
   {
+    "id": "2026-10-07-hif-nicolas-pino-ecombustibles",
     "titulo": "HIF Global y el piloto Nicolás Pino se unen para promover los e-combustibles en el automovilismo",
     "resumen": "El piloto chileno colaborará con HIF Global en proyectos de combustibles sintéticos. Los e-combustibles de la planta Haru Oni, en Punta Arenas, ya se han usado en más de 30 vehículos en ocho carreras de la Porsche Mobil 1 Supercup.",
     "fecha": "2026-10-07",
@@ -458,6 +503,7 @@
     "alcance": "chile"
   },
   {
+    "id": "2026-09-09-magallanes-logistics-summit",
     "titulo": "Magallanes Logistics Summit reunirá a expertos internacionales para debatir el futuro logístico de la región",
     "resumen": "Organizado por GEDES con financiamiento del instrumento Viraliza de Corfo, el encuentro del 6 y 7 de octubre en Punta Arenas abordará conectividad, multimodalidad, infraestructura y tecnología, con especialistas de Colombia, México y Argentina.",
     "fecha": "2026-09-09",
@@ -468,6 +514,7 @@
     "alcance": "magallanes"
   },
   {
+    "id": "2026-09-07-acuerdo-corfo-hidrogeno-renovable",
     "titulo": "Corfo y ocho empresas firman acuerdo para impulsar el hidrógeno renovable en Chile",
     "resumen": "Colbún, Copec, Abastible, Arauco, Fosfoquim, Marval, Comasa H2V y Walmart Chile firmaron con Corfo, en Hyvolution 2026, un acuerdo para acelerar la inversión y la demanda local de hidrógeno verde, incluido su uso en fertilizantes verdes para el agro.",
     "fecha": "2026-09-07",
@@ -478,6 +525,7 @@
     "alcance": "chile"
   },
   {
+    "id": "2026-09-07-hnh-energy-aprobado",
     "titulo": "Aprueban ambientalmente HNH Energy, megaproyecto de amoníaco verde en Magallanes",
     "resumen": "La Comisión de Evaluación Ambiental de Magallanes aprobó el proyecto HNH Energy, que producirá amoníaco a partir de hidrógeno verde. Con una inversión estimada de US$11.400 millones, es una de las mayores iniciativas energéticas de la región.",
     "fecha": "2026-09-07",
@@ -489,6 +537,7 @@
     "seguimiento": "HNH Energy"
   },
   {
+    "id": "2026-09-03-punta-arenas-130-buses-electricos",
     "titulo": "Punta Arenas tendrá 130 buses eléctricos en su transporte público",
     "resumen": "El Ministerio de Transportes amplió de 100 a 130 los buses eléctricos para Punta Arenas sin cambiar el presupuesto, con nueve servicios y retiro de las máquinas más antiguas. La operación comenzaría a fines de 2028 y el convenio regional se extiende a 120 meses.",
     "fecha": "2026-09-03",
@@ -499,6 +548,7 @@
     "alcance": "magallanes"
   },
   {
+    "id": "2026-09-01-hyvolution-hidrogeno-mineria",
     "titulo": "Hyvolution 2026 muestra proyectos de hidrógeno verde para descarbonizar la minería",
     "resumen": "H2 Green Mining presentó una planta cerca de Calama con 40 MW de electrólisis en su primera fase, para producir hasta 3.000 toneladas anuales de hidrógeno verde. Norquim expuso un proyecto de metanol sintético de 400.000 toneladas al año para reemplazar diésel en la gran minería.",
     "fecha": "2026-09-01",
