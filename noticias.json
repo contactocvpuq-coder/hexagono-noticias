@@ -11,6 +11,18 @@
     "seguimiento": "Puerto Otway"
   },
   {
+    "titulo": "El crucero polar Magellan Discoverer llega a Punta Arenas tras navegar desde Valdivia",
+    "resumen": "El buque de Antarctica21, construido en Chile por ASENAV, fue recibido por la comunidad en el Muelle Prat. Tiene propulsión eléctrica, capacidad para más de 82 pasajeros y 67 tripulantes, y apoyará diez proyectos científicos en la Antártica. Hará viajes de prueba a Ushuaia y las Falkland antes de su viaje inaugural, el 15 de diciembre.",
+    "fecha": "2026-11-04",
+    "categoria": "industria",
+    "fuente": "ITV Patagonia",
+    "url": "https://www.itvpatagonia.com/noticias/regional/04-11-2026/magellan-discoverer-arribo-a-punta-arenas-y-fue-recibido-por-la-comunidad-en-el-muelle-prat/",
+    "traducida": false,
+    "alcance": "magallanes",
+    "seguimiento": "Magellan Discoverer",
+    "video": "https://youtu.be/gdircDDkodQ"
+  },
+  {
     "titulo": "Científicos brasileños usan láser y microondas para fabricar ánodos más baratos para hidrógeno verde",
     "resumen": "El CINE de la Universidade Federal de São Carlos, con la Universidade Tiradentes, fabricó ánodos de titanio con óxidos de rutenio y manganeso tratados con microondas y láser en vez de horno. El proceso es más rápido y gasta menos energía, y los ánodos fueron más activos en pruebas tipo PEM y con agua de mar real, según Electrochimica Acta.",
     "fecha": "2026-11-04",
@@ -90,7 +102,8 @@
     "fuente": "ITV Patagonia",
     "url": "https://www.itvpatagonia.com/noticias/regional/02-11-2026/empresa-magallanica-antarctica21-crucero-magellan-discoverer/",
     "traducida": false,
-    "alcance": "magallanes"
+    "alcance": "magallanes",
+    "seguimiento": "Magellan Discoverer"
   },
   {
     "titulo": "Pueblos indígenas de Magallanes y Aysén se reúnen en Punta Arenas por la transición energética",
