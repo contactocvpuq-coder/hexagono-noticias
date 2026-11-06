@@ -1,5 +1,52 @@
 [
   {
+    "id": "2026-11-06-google-datacenter-wyoming-celdas-combustible",
+    "titulo": "Google invertirá US$17.000 millones en un centro de datos en Wyoming con 702 MW de celdas de combustible",
+    "resumen": "Google construirá su primer centro de datos en Wyoming, en el condado de Laramie, con refrigeración por aire y un sistema de generación propia de 702 MW en celdas de combustible de Bloom Energy. La empresa pagará toda la electricidad del campus y las mejoras de red necesarias; espera operar plenamente a fines de 2028.",
+    "fecha": "2026-11-06",
+    "categoria": "digital",
+    "fuente": "Dataconomy",
+    "url": "https://dataconomy.com/2026/11/06/google-to-invest-17-billion-in-first-wyoming-data-center",
+    "traducida": true,
+    "alcance": "mundo"
+  },
+  {
+    "id": "2026-11-06-dia-antartica-chilena-86-anos",
+    "titulo": "Día de la Antártica Chilena: Magallanes conmemora 86 años del decreto que fijó el territorio",
+    "resumen": "Este 6 de noviembre se cumplen 86 años del Decreto Supremo N° 1.747, firmado por Pedro Aguirre Cerda en 1940, que fijó los límites del Territorio Chileno Antártico entre los meridianos 53° y 90° oeste. Punta Arenas lo conmemoró con un acto en el Teatro Municipal José Bohr y un desfile en el Monumento al Piloto Pardo. Diario El Pingüino publicó un suplemento especial que repasa la historia antártica, la ciencia del INACH y las obras en curso: el aeródromo Teniente Marsh (cerca de 80% de avance), el muelle de bahía Fildes y la plataforma aeronaval de Puerto Williams (más de $3.500 millones), además de la futura planta piloto de energías renovables e hidrógeno verde en la Base Profesor Julio Escudero.",
+    "fecha": "2026-11-06",
+    "categoria": "innovacion",
+    "fuente": "Diario El Pingüino (edición 6-11-2026 y suplemento especial)",
+    "url": "https://www.elpinguino.com/ediciondigital/?doc=06-11-2026.pdf&subfolder=2026%2FNOVIEMBRE%2F#page=8",
+    "traducida": false,
+    "alcance": "magallanes",
+    "seguimiento": "Antártica",
+    "documento": "https://suplementos.elpinguino.com/visor.php?s=dia-de-la-antartica-chilena&e=dia-de-la-antartica-chilena-historia-soberania-y-conciencia-dia-de-la-antartica-chilena#page=1",
+    "documentoTitulo": "suplemento"
+  },
+  {
+    "id": "2026-11-05-magallanes-temporada-turistica-infraestructura",
+    "titulo": "Magallanes prepara la temporada turística con obras en aeródromos y el muelle de Puerto Williams",
+    "resumen": "Autoridades regionales anunciaron obras de conservación en el aeródromo de Natales, la pavimentación de la pista de Cerro Castillo y destacaron el muelle multipropósito de Puerto Williams. Conaf sumará 195 brigadistas para proteger Torres del Paine, y Turismo y ProChile formarán una alianza para revertir la baja de visitantes internacionales.",
+    "fecha": "2026-11-05",
+    "categoria": "industria",
+    "fuente": "Radio Polar",
+    "url": "https://www.radiopolar.com/autoridades-proyectan-mejoras-infraestructura-prevencion-temporada-turistica-region-magallanes",
+    "traducida": false,
+    "alcance": "magallanes"
+  },
+  {
+    "id": "2026-11-05-australia-arena-electrolisis-acero-verde",
+    "titulo": "Australia financia piloto de electrólisis de óxido sólido para hidrógeno verde en la siderurgia",
+    "resumen": "La agencia australiana ARENA aportará 15 millones de dólares a un piloto de 30 millones que probará la tecnología de óxido sólido de Hadean Energy, que usaría 30% menos electricidad que los electrolizadores convencionales. La planta, en el sitio de BOC en Hastings (Victoria), producirá hasta 7 kg de hidrógeno verde por hora; la tecnología fue desarrollada por CSIRO.",
+    "fecha": "2026-11-05",
+    "categoria": "energias",
+    "fuente": "AAP / The Courier",
+    "url": "https://www.thecourier.com.au/story/9386750/optimism-for-hydrogen-pilot-in-race-to-green-steel/",
+    "traducida": true,
+    "alcance": "mundo"
+  },
+  {
     "id": "2026-11-04-rewilding-dona-terrenos-cabo-froward",
     "titulo": "Rewilding Chile donará 22.333 hectáreas al Estado para crear el Parque Nacional Cabo Froward",
     "resumen": "La fundación firmó un protocolo con los ministerios de Medio Ambiente y Bienes Nacionales para traspasar los terrenos al Fisco. El parque proyectado cubriría unas 183 mil hectáreas de bosques subantárticos y turberas en Magallanes. Está en consulta indígena y el Gobierno apunta a firmar el decreto de creación en octubre de 2027.",
