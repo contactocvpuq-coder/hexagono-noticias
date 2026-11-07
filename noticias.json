@@ -50,6 +50,17 @@
     "documentoTitulo": "suplemento"
   },
   {
+    "id": "2026-11-05-europa-protestas-datacenters",
+    "titulo": "Más de 100 organizaciones en 15 países europeos piden congelar nuevos data centers",
+    "resumen": "La campaña «Stop Dirty Data Centres» convoca protestas el 6 y 7 de noviembre en Irlanda, Polonia, Dinamarca, España, Francia y Reino Unido, entre otros, y pide una moratoria a los grandes proyectos por su consumo de energía y agua. Según PwC, la inversión europea en data centers pasó de €12.000 millones en 2020 a unos €25.000 millones este año.",
+    "fecha": "2026-11-05",
+    "categoria": "digital",
+    "fuente": "Euronews",
+    "url": "https://euronews.com/2026/11/05/protesters-across-europe-to-call-for-freeze-on-energy-hungry-data-centres",
+    "traducida": true,
+    "alcance": "mundo"
+  },
+  {
     "id": "2026-11-05-magellan-discoverer-crucero-hibrido",
     "titulo": "Magellan Discoverer: así es por dentro el nuevo crucero eléctrico de Antarctica21",
     "resumen": "El nuevo buque de Antarctica21 abrió sus puertas en Punta Arenas. Mide 94 metros de largo y 17 de ancho, y su propulsión es completamente eléctrica con sistema Azipod, más silenciosa y cerca de un 20% más eficiente que un buque convencional de su tamaño. Lleva laboratorios científicos donde la Fundación A21 desarrollará diez proyectos, nueve chilenos y uno canadiense; uno de ellos, con el INACH, medirá diez parámetros del océano cada minuto durante los cuatro meses de temporada. Suma doce botes Zodiac para desembarcos y una tripulación de ocho nacionalidades.",
@@ -83,6 +94,17 @@
     "url": "https://www.thecourier.com.au/story/9386750/optimism-for-hydrogen-pilot-in-race-to-green-steel/",
     "traducida": true,
     "alcance": "mundo"
+  },
+  {
+    "id": "2026-11-04-startup-chile-big13",
+    "titulo": "Start-Up Chile abre BIG13 con fondos sin participación de hasta $75 millones para startups",
+    "resumen": "La aceleradora de Corfo abrió la convocatoria BIG13 para startups tecnológicas de Chile y el extranjero, con postulación hasta el 24 de noviembre. Ofrece $15 millones (Build), $30 millones (Ignite) y $75 millones (Growth), con incentivos para proyectos liderados por mujeres; la aceleración parte el primer semestre de 2027.",
+    "fecha": "2026-11-04",
+    "categoria": "innovacion",
+    "fuente": "Emol",
+    "url": "https://www.emol.com/noticias/Economia/2026/11/04/1216042/startup-chile-convocatoria.html",
+    "traducida": false,
+    "alcance": "chile"
   },
   {
     "id": "2026-11-04-rewilding-dona-terrenos-cabo-froward",
