@@ -1,5 +1,18 @@
 [
   {
+    "id": "2026-11-06-desfile-antartico-costanera-punta-arenas",
+    "titulo": "Magallanes celebró el Día de la Antártica con el primer desfile en la Costanera",
+    "resumen": "Por primera vez el desfile cívico-militar del Día de la Antártica Chilena se hizo en la Costanera del Estrecho, frente al monumento al piloto Pardo. La ceremonia en el Teatro Municipal la encabezó la delegada Ericka Farías, con la subsecretaria Paula Estévez, el gobernador Jorge Flies y el director del INACH, Gino Casassa. Se entregó el Premio a la Trayectoria Científica Antártica al doctor Anelio Aguayo, hubo enlaces en directo con bases antárticas y el INACH entregó orientaciones para llevar la Antártica al currículo escolar. Flies destacó el rompehielos Almirante Viel, el muelle de bahía Fildes y el preproyecto de fibra óptica antártica.",
+    "fecha": "2026-11-06",
+    "categoria": "innovacion",
+    "fuente": "ITV Patagonia",
+    "url": "https://www.itvpatagonia.com/noticias/regional/06-11-2026/magallanes-conmemoro-el-dia-de-la-antartica-chilena-con-desfile-inedito-en-la-costanera-y-actividades-ciudadanas/",
+    "traducida": false,
+    "alcance": "magallanes",
+    "seguimiento": "Antártica",
+    "video": "https://youtu.be/tzzaMSaDFdQ"
+  },
+  {
     "id": "2026-11-06-google-datacenter-wyoming-celdas-combustible",
     "titulo": "Google invertirá US$17.000 millones en un centro de datos en Wyoming con 702 MW de celdas de combustible",
     "resumen": "Google construirá su primer centro de datos en Wyoming, en el condado de Laramie, con refrigeración por aire y un sistema de generación propia de 702 MW en celdas de combustible de Bloom Energy. La empresa pagará toda la electricidad del campus y las mejoras de red necesarias; espera operar plenamente a fines de 2028.",
@@ -23,6 +36,19 @@
     "seguimiento": "Antártica",
     "documento": "https://suplementos.elpinguino.com/visor.php?s=dia-de-la-antartica-chilena&e=dia-de-la-antartica-chilena-historia-soberania-y-conciencia-dia-de-la-antartica-chilena#page=1",
     "documentoTitulo": "suplemento"
+  },
+  {
+    "id": "2026-11-05-magellan-discoverer-crucero-hibrido",
+    "titulo": "Magellan Discoverer: así es por dentro el nuevo crucero eléctrico de Antarctica21",
+    "resumen": "El nuevo buque de Antarctica21 abrió sus puertas en Punta Arenas. Mide 94 metros de largo y 17 de ancho, y su propulsión es completamente eléctrica con sistema Azipod, más silenciosa y cerca de un 20% más eficiente que un buque convencional de su tamaño. Lleva laboratorios científicos donde la Fundación A21 desarrollará diez proyectos, nueve chilenos y uno canadiense; uno de ellos, con el INACH, medirá diez parámetros del océano cada minuto durante los cuatro meses de temporada. Suma doce botes Zodiac para desembarcos y una tripulación de ocho nacionalidades.",
+    "fecha": "2026-11-05",
+    "categoria": "industria",
+    "fuente": "ITV Patagonia",
+    "url": "https://www.itvpatagonia.com/noticias/regional/05-11-2026/magellan-discoverer-asi-es-el-nuevo-crucero-hibrido-de-antarctica-21-que-llego-a-punta-arenas/",
+    "traducida": false,
+    "alcance": "magallanes",
+    "seguimiento": "Magellan Discoverer",
+    "video": "https://youtu.be/UN90R1CFh5o"
   },
   {
     "id": "2026-11-05-magallanes-temporada-turistica-infraestructura",
