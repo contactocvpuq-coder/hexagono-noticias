@@ -10,20 +10,16 @@
             "url": "https://h2businessnews.com/hacen-historia-bajo-el-mar-primer-pozo-geotermico-submarino-y-primera-planta-con-balance-neto-positivo-en-un-volcan-activo/",
             "alcance": "mundo",
             "traducida": false
-        },
-        {
-            "id": "2026-11-06-relaves-mineros-agua-cambio-climatico",
-            "titulo": "Nuevas tecnologías para recuperar agua y dar seguridad a los relaves mineros",
-            "resumen": "Investigadores del AMTC de la Universidad de Chile y la Universidad de Antofagasta presentaron reactivos químicos para consolidar relaves, sistemas de monitoreo geotécnico continuo y modelos de riesgo ante sismos, lluvias extremas y drenaje ácido. El desafío pendiente es bajar el costo de producir esas moléculas.",
-            "fecha": "2026-11-06",
-            "categoria": "medioambiente",
-            "fuente": "Reporte Sostenible",
-            "url": "https://reportesostenible.cl/blog/nuevas-tecnologias-buscan-recuperar-mas-agua-y-mejorar-la-seguridad-de-los-relaves-mineros-frente-al-cambio-climatico/",
-            "alcance": "chile",
-            "traducida": false
         }
     ],
     "decisiones": [
+        {
+            "id": "2026-11-06-relaves-mineros-agua-cambio-climatico",
+            "estado": "descartada",
+            "categoria": "medioambiente",
+            "alcance": "chile",
+            "fecha": "2026-11-08T12:18:05+00:00"
+        },
         {
             "id": "2026-11-06-electroestacion-copelec-enel-nuble",
             "estado": "publicada",
