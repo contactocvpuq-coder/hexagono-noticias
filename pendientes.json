@@ -1,17 +1,6 @@
 {
     "pendientes": [
         {
-            "id": "2026-11-06-electroestacion-copelec-enel-nuble",
-            "titulo": "Copelec y Enel abren electroestación en Ñuble para la carretera eléctrica de Chile",
-            "resumen": "En el km 407 de la Ruta 5 Sur, en Chillán Viejo, comenzó a operar una electroestación con 10 puntos de carga de hasta 600 kW para buses y camiones eléctricos. Es el segundo eslabón de la Carretera Eléctrica de Alta Potencia tras Itahue, y la red busca llegar a Coquimbo y Los Lagos.",
-            "fecha": "2026-11-06",
-            "categoria": "energias",
-            "fuente": "Reporte Sostenible",
-            "url": "https://reportesostenible.cl/blog/copelec-y-enel-inauguran-electroestacion-en-nuble-y-suman-nuevo-eslabon-a-la-carretera-electrica-de-chile/",
-            "alcance": "chile",
-            "traducida": false
-        },
-        {
             "id": "2026-11-06-primer-pozo-geotermico-submarino",
             "titulo": "Primer pozo geotérmico submarino: prueba en un volcán activo frente a Oregón",
             "resumen": "Endurance Energy perforó el primer pozo geotérmico offshore en Axial Seamount, a 480 km de Oregón, y operó su planta de prueba Adélie desde Seattle por fibra óptica, logrando generación neta positiva por algunos segundos. Es una demostración, no una planta comercial: su primer proyecto comercial sería en Tonga en 2027.",
@@ -35,6 +24,13 @@
         }
     ],
     "decisiones": [
+        {
+            "id": "2026-11-06-electroestacion-copelec-enel-nuble",
+            "estado": "publicada",
+            "categoria": "energias",
+            "alcance": "chile",
+            "fecha": "2026-11-08T12:17:35+00:00"
+        },
         {
             "id": "2026-11-07-muelle-puerto-williams-85-avance",
             "estado": "publicada",
