@@ -1,33 +1,33 @@
 {
-    "pendientes": [],
-    "decisiones": [
-        {
-            "id": "2026-11-06-primer-pozo-geotermico-submarino",
-            "estado": "descartada",
-            "categoria": "energias",
-            "alcance": "mundo",
-            "fecha": "2026-11-08T12:18:12+00:00"
-        },
-        {
-            "id": "2026-11-06-relaves-mineros-agua-cambio-climatico",
-            "estado": "descartada",
-            "categoria": "medioambiente",
-            "alcance": "chile",
-            "fecha": "2026-11-08T12:18:05+00:00"
-        },
-        {
-            "id": "2026-11-06-electroestacion-copelec-enel-nuble",
-            "estado": "publicada",
-            "categoria": "energias",
-            "alcance": "chile",
-            "fecha": "2026-11-08T12:17:35+00:00"
-        },
-        {
-            "id": "2026-11-07-muelle-puerto-williams-85-avance",
-            "estado": "publicada",
-            "categoria": "industria",
-            "alcance": "magallanes",
-            "fecha": "2026-11-08T12:17:23+00:00"
-        }
-    ]
+  "pendientes": [],
+  "decisiones": [
+    {
+      "id": "2026-11-06-primer-pozo-geotermico-submarino",
+      "estado": "descartada",
+      "categoria": "energias",
+      "alcance": "mundo",
+      "fecha": "2026-11-08T12:18:12+00:00"
+    },
+    {
+      "id": "2026-11-06-relaves-mineros-agua-cambio-climatico",
+      "estado": "descartada",
+      "categoria": "medioambiente",
+      "alcance": "chile",
+      "fecha": "2026-11-08T12:18:05+00:00"
+    },
+    {
+      "id": "2026-11-06-electroestacion-copelec-enel-nuble",
+      "estado": "publicada",
+      "categoria": "energias",
+      "alcance": "chile",
+      "fecha": "2026-11-08T12:17:35+00:00"
+    },
+    {
+      "id": "2026-11-07-muelle-puerto-williams-85-avance",
+      "estado": "publicada",
+      "categoria": "industria",
+      "alcance": "magallanes",
+      "fecha": "2026-11-08T12:17:23+00:00"
+    }
+  ]
 }
