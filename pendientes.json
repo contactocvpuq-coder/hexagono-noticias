@@ -1,4 +1,53 @@
 {
-  "pendientes": [],
+  "pendientes": [
+    {
+      "id": "2026-11-06-falkland-creditos-pymes-industria-petrolera",
+      "titulo": "Gobierno de Falkland/Malvinas aprueba créditos para pymes y proveedores de la industria petrolera",
+      "resumen": "El Consejo Ejecutivo aprobó nuevos fondos en forma de préstamos para pequeñas y medianas empresas y para negocios vinculados a los hidrocarburos, con el fin de preparar a la economía local para el desarrollo petrolero costa afuera.",
+      "fecha": "2026-11-06",
+      "categoria": "energias",
+      "fuente": "FITV",
+      "url": "https://fitv.co.fk/news-and-events/executive-council-approves-new-funding-for-small-medium-enterprises-and-falklands-oil-industry/",
+      "alcance": "mundo",
+      "traducida": true,
+      "sugeridaPor": "Carlos"
+    },
+    {
+      "id": "2026-11-02-tribunal-mar-hamburgo-sea-lion",
+      "titulo": "Tribunal del Mar en Hamburgo escuchará a Argentina contra el proyecto petrolero Sea Lion",
+      "resumen": "El Tribunal Internacional del Derecho del Mar (ITLOS) oirá el 10 y 11 de noviembre la solicitud argentina contra la explotación de hidrocarburos al norte de las Falkland/Malvinas, donde Navitas y Rockhopper desarrollan Sea Lion con primer petróleo previsto para 2028. Expertos advierten que el caso podría caer por falta de competencia, ya que el tribunal no decide soberanía.",
+      "fecha": "2026-11-02",
+      "categoria": "energias",
+      "fuente": "MercoPress",
+      "url": "https://en.mercopress.com/2026/11/02/an-oxford-professor-to-sit-as-the-uk-s-chosen-judge-in-the-falklands-dispute-in-hamburg",
+      "alcance": "mundo",
+      "traducida": true,
+      "sugeridaPor": "Carlos"
+    },
+    {
+      "id": "2026-10-28-falkland-reglamento-derrames-offshore",
+      "titulo": "Falkland/Malvinas aprueba normas de emergencia por derrames en instalaciones petroleras offshore",
+      "resumen": "El Consejo Ejecutivo de las islas modificó el reglamento de 2019 sobre contaminación por hidrocarburos: los operadores de instalaciones costa afuera deberán tener planes de emergencia ante derrames e informar toda descarga de petróleo. La autoridad competente será la Dirección de Recursos Minerales, en la antesala de la producción de Sea Lion.",
+      "fecha": "2026-10-28",
+      "categoria": "medioambiente",
+      "fuente": "MercoPress",
+      "url": "https://en.mercopress.com/2026/10/28/falklands-approves-bill-on-oil-pollution-emergencies-in-relation-to-offshore-installations-and-responsibilities",
+      "alcance": "mundo",
+      "traducida": true,
+      "sugeridaPor": "Carlos"
+    },
+    {
+      "id": "2026-10-12-buque-danstar-punta-arenas-stanley",
+      "titulo": "Buque chileno Danstar retomará la ruta de carga Punta Arenas–Stanley",
+      "resumen": "El carguero Danstar, de unas 1.400 toneladas, restablecería el enlace marítimo entre Punta Arenas y las Malvinas/Falkland, suspendido desde 2011, tras un acuerdo entre la Corporación de Desarrollo de las islas y la Municipalidad de Punta Arenas. El primer viaje se prevé entre fines de noviembre e inicios de diciembre, y parlamentarios piden prevenir roces con Argentina.",
+      "fecha": "2026-10-12",
+      "categoria": "industria",
+      "fuente": "Emol",
+      "url": "https://www.emol.com/noticias/Nacional/2026/10/11/1213836/nuevo-barco-islas-malvinas-cancilleria.html",
+      "alcance": "magallanes",
+      "traducida": false,
+      "sugeridaPor": "Carlos"
+    }
+  ],
   "decisiones": []
 }
