@@ -1,18 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-06-primer-pozo-geotermico-submarino",
-            "titulo": "Primer pozo geotérmico submarino: prueba en un volcán activo frente a Oregón",
-            "resumen": "Endurance Energy perforó el primer pozo geotérmico offshore en Axial Seamount, a 480 km de Oregón, y operó su planta de prueba Adélie desde Seattle por fibra óptica, logrando generación neta positiva por algunos segundos. Es una demostración, no una planta comercial: su primer proyecto comercial sería en Tonga en 2027.",
-            "fecha": "2026-11-06",
+            "estado": "descartada",
             "categoria": "energias",
-            "fuente": "H2 Business News",
-            "url": "https://h2businessnews.com/hacen-historia-bajo-el-mar-primer-pozo-geotermico-submarino-y-primera-planta-con-balance-neto-positivo-en-un-volcan-activo/",
             "alcance": "mundo",
-            "traducida": false
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-08T12:18:12+00:00"
+        },
         {
             "id": "2026-11-06-relaves-mineros-agua-cambio-climatico",
             "estado": "descartada",
