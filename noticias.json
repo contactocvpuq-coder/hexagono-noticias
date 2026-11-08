@@ -1,5 +1,18 @@
 [
   {
+    "id": "2026-10-19-magellan-discoverer-pruebas-mar-valdivia",
+    "titulo": "Fabricado en Chile: Magellan Discoverer, el primer crucero polar híbrido-eléctrico, supera sus pruebas de mar",
+    "resumen": "El crucero de la magallánica Antarctica21, construido íntegramente en el astillero ASENAV de Valdivia con una inversión cercana a US$90 millones, completó cinco días de pruebas de mar con buenos resultados. Mide 94 metros, lleva hasta 100 pasajeros y combina motores diésel con baterías marinas para operar en la Antártica desde Punta Arenas.",
+    "fecha": "2026-11-08",
+    "categoria": "industria",
+    "fuente": "Meganoticias",
+    "url": "https://www.meganoticias.cl/nacional/534289-primer-crucero-polar-hibrido-electrico-construido-en-astillero-de-valdivia-trabajo-alcanzo-cerca-de-90-millones-de-dolares-19-10-2026.html",
+    "traducida": false,
+    "alcance": "chile",
+    "seguimiento": "Magellan Discoverer",
+    "video": "https://youtu.be/N5liqvb0A4A"
+  },
+  {
     "id": "2026-11-07-muelle-puerto-williams-85-avance",
     "titulo": "Muelle multipropósito de Puerto Williams llega al 85% y operaría en marzo de 2027",
     "resumen": "La segunda etapa del muelle de Puerto Williams, a cargo de Obras Portuarias del MOP, alcanza un 85% de avance con una inversión cercana a $22 mil millones y unos 90 trabajadores. Recibirá naves de pasajeros y carga para el turismo, la ciencia y la conexión con la Antártica; una tercera etapa sumará terminal de pasajeros y control migratorio.",
@@ -658,19 +671,6 @@
     "url": "https://h2businessnews.com/el-balance-2026-del-hidrogeno-verde-en-chile-62-iniciativas-86-gw-y-us36-800-millones/",
     "traducida": false,
     "alcance": "chile"
-  },
-  {
-    "id": "2026-10-19-magellan-discoverer-pruebas-mar-valdivia",
-    "titulo": "Fabricado en Chile: Magellan Discoverer, el primer crucero polar híbrido-eléctrico, supera sus pruebas de mar",
-    "resumen": "El crucero de la magallánica Antarctica21, construido íntegramente en el astillero ASENAV de Valdivia con una inversión cercana a US$90 millones, completó cinco días de pruebas de mar con buenos resultados. Mide 94 metros, lleva hasta 100 pasajeros y combina motores diésel con baterías marinas para operar en la Antártica desde Punta Arenas.",
-    "fecha": "2026-10-19",
-    "categoria": "industria",
-    "fuente": "Meganoticias",
-    "url": "https://www.meganoticias.cl/nacional/534289-primer-crucero-polar-hibrido-electrico-construido-en-astillero-de-valdivia-trabajo-alcanzo-cerca-de-90-millones-de-dolares-19-10-2026.html",
-    "traducida": false,
-    "alcance": "chile",
-    "seguimiento": "Magellan Discoverer",
-    "video": "https://youtu.be/N5liqvb0A4A"
   },
   {
     "id": "2026-10-18-corfo-turismo-sostenible",
