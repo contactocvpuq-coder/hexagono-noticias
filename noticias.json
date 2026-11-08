@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026-11-07-datacenters-centrales-gas-emisiones",
+    "titulo": "Los data centers impulsan grandes centrales a gas que podrían fijar emisiones por décadas",
+    "resumen": "Según The Washington Post, Amazon, Meta, Microsoft, Google y proyectos ligados a OpenAI impulsan nuevas centrales a gas en EE.UU. para sus centros de datos. La huella de Amazon llegó a 80,85 millones de toneladas de CO2 el último año, y un informe de Allianz proyecta que las emisiones de los data centers se dupliquen a 643 millones de toneladas anuales entre 2020 y 2030.",
+    "fecha": "2026-11-07",
+    "categoria": "energias",
+    "fuente": "The Washington Post (vía Slashdot)",
+    "url": "https://hardware.slashdot.org/story/26/11/07/2153213/data-centers-are-being-powered-by-giant-gas-plants-possibly-increasing-carbon-pollution-for-decades",
+    "traducida": true,
+    "alcance": "mundo"
+  },
+  {
+    "id": "2026-11-07-antartica-avance-obras-marsh-fildes",
+    "titulo": "Antártica chilena: aeródromo Teniente Marsh supera 80% de avance y muelle de Bahía Fildes llega a 43%",
+    "resumen": "En el Día de la Antártica Chilena, la delegada regional Ericka Farías repasó la cartera de obras en el territorio: ampliación de la plataforma aeronaval de Puerto Williams, el aeródromo Teniente Marsh (más de 80%), el muelle de Bahía Fildes (43%), el reemplazo de la base científica Profesor Julio Escudero y una planta piloto de energía renovable e hidrógeno verde.",
+    "fecha": "2026-11-07",
+    "categoria": "industria",
+    "fuente": "La Prensa Austral",
+    "url": "https://laprensaaustral.cl/2026/11/07/en-el-dia-de-la-antartica-chilena-delegada-regional-repaso-las-inversiones-en-infraestructura-en-dicho-territorio/",
+    "traducida": false,
+    "alcance": "magallanes"
+  },
+  {
     "id": "2026-11-06-puerto-williams-hotel-150-habitaciones",
     "titulo": "Puerto Williams estrena hotel de 150 habitaciones para el turismo antártico",
     "resumen": "Puerto Williams inauguró The Cormorant at 55 South, un hotel de 150 habitaciones pensado para el turismo de expedición hacia la Antártica. A la ceremonia asistieron la subsecretaria de Turismo, María Paz Lagos; la subsecretaria de Relaciones Económicas Internacionales, Paula Estévez; el subsecretario de Obras Públicas, Nicolás Balmaceda, y la delegada presidencial regional, Ericka Farías. El proyecto busca afianzar a Puerto Williams como puerta de entrada al continente blanco y ampliar la oferta turística de Magallanes en el mercado internacional.",
