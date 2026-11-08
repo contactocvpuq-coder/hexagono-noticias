@@ -1,19 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-10-12-buque-danstar-punta-arenas-stanley",
-            "titulo": "Buque chileno Danstar retomará la ruta de carga Punta Arenas–Stanley",
-            "resumen": "El carguero Danstar, de unas 1.400 toneladas, restablecería el enlace marítimo entre Punta Arenas y las Malvinas/Falkland, suspendido desde 2011, tras un acuerdo entre la Corporación de Desarrollo de las islas y la Municipalidad de Punta Arenas. El primer viaje se prevé entre fines de noviembre e inicios de diciembre, y parlamentarios piden prevenir roces con Argentina.",
-            "fecha": "2026-10-12",
+            "estado": "publicada",
             "categoria": "industria",
-            "fuente": "Emol",
-            "url": "https://www.emol.com/noticias/Nacional/2026/10/11/1213836/nuevo-barco-islas-malvinas-cancilleria.html",
             "alcance": "magallanes",
-            "traducida": false,
-            "sugeridaPor": "Carlos"
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-08T15:47:41+00:00"
+        },
         {
             "id": "2026-10-28-falkland-reglamento-derrames-offshore",
             "estado": "publicada",
