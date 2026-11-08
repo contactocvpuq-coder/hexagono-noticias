@@ -1,18 +1,6 @@
 {
     "pendientes": [
         {
-            "id": "2026-11-02-tribunal-mar-hamburgo-sea-lion",
-            "titulo": "Tribunal del Mar en Hamburgo escuchará a Argentina contra el proyecto petrolero Sea Lion",
-            "resumen": "El Tribunal Internacional del Derecho del Mar (ITLOS) oirá el 10 y 11 de noviembre la solicitud argentina contra la explotación de hidrocarburos al norte de las Falkland/Malvinas, donde Navitas y Rockhopper desarrollan Sea Lion con primer petróleo previsto para 2028. Expertos advierten que el caso podría caer por falta de competencia, ya que el tribunal no decide soberanía.",
-            "fecha": "2026-11-02",
-            "categoria": "energias",
-            "fuente": "MercoPress",
-            "url": "https://en.mercopress.com/2026/11/02/an-oxford-professor-to-sit-as-the-uk-s-chosen-judge-in-the-falklands-dispute-in-hamburg",
-            "alcance": "mundo",
-            "traducida": true,
-            "sugeridaPor": "Carlos"
-        },
-        {
             "id": "2026-10-28-falkland-reglamento-derrames-offshore",
             "titulo": "Falkland/Malvinas aprueba normas de emergencia por derrames en instalaciones petroleras offshore",
             "resumen": "El Consejo Ejecutivo de las islas modificó el reglamento de 2019 sobre contaminación por hidrocarburos: los operadores de instalaciones costa afuera deberán tener planes de emergencia ante derrames e informar toda descarga de petróleo. La autoridad competente será la Dirección de Recursos Minerales, en la antesala de la producción de Sea Lion.",
@@ -38,6 +26,13 @@
         }
     ],
     "decisiones": [
+        {
+            "id": "2026-11-02-tribunal-mar-hamburgo-sea-lion",
+            "estado": "publicada",
+            "categoria": "energias",
+            "alcance": "mundo",
+            "fecha": "2026-11-08T15:47:10+00:00"
+        },
         {
             "id": "2026-11-06-falkland-creditos-pymes-industria-petrolera",
             "estado": "publicada",
