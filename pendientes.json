@@ -1,26 +1,4 @@
 {
   "pendientes": [],
-  "decisiones": [
-    {
-      "id": "2026-11-08-vicuna-yendegaia-2029-aerodromo-natales",
-      "estado": "publicada",
-      "categoria": "industria",
-      "alcance": "magallanes",
-      "fecha": "2026-11-09T11:05:54+00:00"
-    },
-    {
-      "id": "2026-11-08-datacenters-calor-residual-calefaccion",
-      "estado": "publicada",
-      "categoria": "energias",
-      "alcance": "mundo",
-      "fecha": "2026-11-09T11:05:39+00:00"
-    },
-    {
-      "id": "2026-11-08-almirante-viel-zarpa-campana-antartica",
-      "estado": "publicada",
-      "categoria": "industria",
-      "alcance": "magallanes",
-      "fecha": "2026-11-09T11:05:26+00:00"
-    }
-  ]
+  "decisiones": []
 }
