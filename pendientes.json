@@ -1,17 +1,6 @@
 {
     "pendientes": [
         {
-            "id": "2026-11-10-core-5700-millones-rio-de-las-minas",
-            "titulo": "Core de Magallanes aprueba $5.774 millones para nuevas obras de contención en el Río de las Minas",
-            "resumen": "El Consejo Regional aprobó por unanimidad $5.774 millones para una nueva etapa de obras de protección contra crecidas del Río de las Minas en Punta Arenas: dos barreras de retención de sedimentos aguas arriba del Puente Frei y unos 400 metros de revestimiento de hormigón. Las obras terminarían entre 2028 y 2029.",
-            "fecha": "2026-11-10",
-            "categoria": "industria",
-            "fuente": "El Pingüino",
-            "url": "https://www.elpinguino.com/regional/consejo-regional-aprueba-mas-de-5-700-millones-para-nuevas-obras-de-contencion-en-el-rio-de-las-minas",
-            "alcance": "magallanes",
-            "traducida": false
-        },
-        {
             "id": "2026-11-10-cormag-prioriza-nueve-iniciativas",
             "titulo": "Directorio de Cormag prioriza nueve iniciativas estratégicas para el desarrollo de Magallanes",
             "resumen": "La Corporación de Desarrollo de Magallanes, encabezada por el gobernador Jorge Flies, priorizó nueve iniciativas en capacitación, turismo, ganadería, acuicultura, economía circular, desarrollo marítimo-portuario e identidad regional, con alcance en las cuatro provincias. Al directorio se sumaron representantes de la CPC, del sindicato de ENAP Magallanes y de la Cámara de Turismo de Última Esperanza.",
@@ -24,6 +13,13 @@
         }
     ],
     "decisiones": [
+        {
+            "id": "2026-11-10-core-5700-millones-rio-de-las-minas",
+            "estado": "descartada",
+            "categoria": "industria",
+            "alcance": "magallanes",
+            "fecha": "2026-11-10T17:59:27+00:00"
+        },
         {
             "id": "2026-11-10-ciencia-financia-expediciones-almirante-viel",
             "estado": "publicada",
