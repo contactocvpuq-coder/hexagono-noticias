@@ -1,4 +1,38 @@
 {
-  "pendientes": [],
+  "pendientes": [
+    {
+      "id": "2026-11-10-ciencia-financia-expediciones-almirante-viel",
+      "titulo": "Ministerio de Ciencia financia con $1.000 millones tres expediciones antárticas del rompehielos Almirante Viel",
+      "resumen": "A través de ANID, el Ministerio de Ciencia aportará $1.000 millones al SHOA de la Armada para tres expediciones científicas del rompehielos Almirante Viel. Podrán participar hasta 59 científicos en el Mar de Weddell, Bahía Margarita y el Estrecho Bransfield, coordinados por INACH, y un concurso elegirá a cuatro profesores que zarparán en febrero.",
+      "fecha": "2026-11-10",
+      "categoria": "innovacion",
+      "fuente": "Diálogo Sur",
+      "url": "https://dialogosur.cl/2026/11/ministerio-de-ciencia-financia-con-1-000-millones-tres-expediciones-antarticas-del-rompehielos-almirante-viel/",
+      "alcance": "magallanes",
+      "traducida": false
+    },
+    {
+      "id": "2026-11-10-core-5700-millones-rio-de-las-minas",
+      "titulo": "Core de Magallanes aprueba $5.774 millones para nuevas obras de contención en el Río de las Minas",
+      "resumen": "El Consejo Regional aprobó por unanimidad $5.774 millones para una nueva etapa de obras de protección contra crecidas del Río de las Minas en Punta Arenas: dos barreras de retención de sedimentos aguas arriba del Puente Frei y unos 400 metros de revestimiento de hormigón. Las obras terminarían entre 2028 y 2029.",
+      "fecha": "2026-11-10",
+      "categoria": "industria",
+      "fuente": "El Pingüino",
+      "url": "https://www.elpinguino.com/regional/consejo-regional-aprueba-mas-de-5-700-millones-para-nuevas-obras-de-contencion-en-el-rio-de-las-minas",
+      "alcance": "magallanes",
+      "traducida": false
+    },
+    {
+      "id": "2026-11-10-cormag-prioriza-nueve-iniciativas",
+      "titulo": "Directorio de Cormag prioriza nueve iniciativas estratégicas para el desarrollo de Magallanes",
+      "resumen": "La Corporación de Desarrollo de Magallanes, encabezada por el gobernador Jorge Flies, priorizó nueve iniciativas en capacitación, turismo, ganadería, acuicultura, economía circular, desarrollo marítimo-portuario e identidad regional, con alcance en las cuatro provincias. Al directorio se sumaron representantes de la CPC, del sindicato de ENAP Magallanes y de la Cámara de Turismo de Última Esperanza.",
+      "fecha": "2026-11-10",
+      "categoria": "innovacion",
+      "fuente": "Radio Polar",
+      "url": "https://www.radiopolar.com/directorio-cormag-prioriza-iniciativas-estrategicas-desarrollo-magallanes",
+      "alcance": "magallanes",
+      "traducida": false
+    }
+  ],
   "decisiones": []
 }
