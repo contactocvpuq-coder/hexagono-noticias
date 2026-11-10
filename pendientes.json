@@ -1,19 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-09-incendio-forestal-seno-obstruccion",
-            "titulo": "Controlan incendio forestal en Seno Obstrucción tras afectar 1,6 hectáreas",
-            "resumen": "Brigadistas de Conaf y Bomberos combatieron desde el 8 de noviembre un incendio forestal en el sector de Seno Obstrucción, en Magallanes, y las autoridades reforzaron las brigadas con apoyo aéreo. El fuego fue controlado tras quemar 1,6 hectáreas, al inicio de la temporada de mayor riesgo.",
-            "fecha": "2026-11-09",
+            "estado": "publicada",
             "categoria": "medioambiente",
-            "fuente": "ITV Patagonia",
-            "url": "https://www.itvpatagonia.com/noticias/regional/09-11-2026/incendio-forestal-en-seno-obstruccion-fue-controlado-tras-afectar-16-hectareas/",
             "alcance": "magallanes",
-            "traducida": false,
-            "sugeridaPor": "Carlos"
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-10T18:09:45+00:00"
+        },
         {
             "id": "2026-11-10-hamburgo-audiencia-sea-lion-comienza",
             "estado": "publicada",
