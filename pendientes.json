@@ -1,47 +1,19 @@
 {
-    "pendientes": [],
-    "decisiones": [
-        {
-            "id": "2026-11-09-incendio-forestal-seno-obstruccion",
-            "estado": "publicada",
-            "categoria": "medioambiente",
-            "alcance": "magallanes",
-            "fecha": "2026-11-10T18:09:45+00:00"
-        },
-        {
-            "id": "2026-11-10-hamburgo-audiencia-sea-lion-comienza",
-            "estado": "publicada",
-            "categoria": "energias",
-            "alcance": "mundo",
-            "fecha": "2026-11-10T18:09:29+00:00"
-        },
-        {
-            "id": "2026-11-10-alza-combustibles-paro-camioneros-magallanes",
-            "estado": "descartada",
-            "categoria": "energias",
-            "alcance": "magallanes",
-            "fecha": "2026-11-10T18:09:03+00:00"
-        },
-        {
-            "id": "2026-11-10-cormag-prioriza-nueve-iniciativas",
-            "estado": "publicada",
-            "categoria": "innovacion",
-            "alcance": "magallanes",
-            "fecha": "2026-11-10T17:59:43+00:00"
-        },
-        {
-            "id": "2026-11-10-core-5700-millones-rio-de-las-minas",
-            "estado": "descartada",
-            "categoria": "industria",
-            "alcance": "magallanes",
-            "fecha": "2026-11-10T17:59:27+00:00"
-        },
-        {
-            "id": "2026-11-10-ciencia-financia-expediciones-almirante-viel",
-            "estado": "publicada",
-            "categoria": "innovacion",
-            "alcance": "magallanes",
-            "fecha": "2026-11-10T17:59:14+00:00"
-        }
-    ]
+  "pendientes": [],
+  "decisiones": [
+    {
+      "id": "2026-11-09-incendio-forestal-seno-obstruccion",
+      "estado": "publicada",
+      "categoria": "medioambiente",
+      "alcance": "magallanes",
+      "fecha": "2026-11-10T18:09:45+00:00"
+    },
+    {
+      "id": "2026-11-10-hamburgo-audiencia-sea-lion-comienza",
+      "estado": "publicada",
+      "categoria": "energias",
+      "alcance": "mundo",
+      "fecha": "2026-11-10T18:09:29+00:00"
+    }
+  ]
 }
