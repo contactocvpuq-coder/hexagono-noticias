@@ -1,18 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-10-cormag-prioriza-nueve-iniciativas",
-            "titulo": "Directorio de Cormag prioriza nueve iniciativas estratégicas para el desarrollo de Magallanes",
-            "resumen": "La Corporación de Desarrollo de Magallanes, encabezada por el gobernador Jorge Flies, priorizó nueve iniciativas en capacitación, turismo, ganadería, acuicultura, economía circular, desarrollo marítimo-portuario e identidad regional, con alcance en las cuatro provincias. Al directorio se sumaron representantes de la CPC, del sindicato de ENAP Magallanes y de la Cámara de Turismo de Última Esperanza.",
-            "fecha": "2026-11-10",
+            "estado": "publicada",
             "categoria": "innovacion",
-            "fuente": "Radio Polar",
-            "url": "https://www.radiopolar.com/directorio-cormag-prioriza-iniciativas-estrategicas-desarrollo-magallanes",
             "alcance": "magallanes",
-            "traducida": false
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-10T17:59:43+00:00"
+        },
         {
             "id": "2026-11-10-core-5700-millones-rio-de-las-minas",
             "estado": "descartada",
