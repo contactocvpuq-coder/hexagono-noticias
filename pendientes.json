@@ -1,18 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-10-zona-franca-punta-arenas-balance-core",
-            "titulo": "Zona Franca de Punta Arenas presenta su balance: ventas por $300 mil millones y 2.770 empleos en 2025",
-            "resumen": "Ante el Consejo Regional, la concesionaria informó que las ventas de la Zona Franca pasaron de $77.766 millones en 2007 a $300.287 millones en 2025, el empleo de 1.461 a 2.770 personas y las visitas de 3,9 a 10,6 millones. El aporte anual al Gobierno Regional subió de $734 millones en 2008 a $4.714 millones en 2025.",
-            "fecha": "2026-11-10",
+            "estado": "descartada",
             "categoria": "industria",
-            "fuente": "ITV Patagonia",
-            "url": "https://www.itvpatagonia.com/noticias/regional/10-11-2026/zona-franca-de-punta-arenas-presento-ante-el-core-su-balance-de-gestion-inversiones-y-aportes-a-magallanes/",
             "alcance": "magallanes",
-            "traducida": false
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-11T11:20:38+00:00"
+        },
         {
             "id": "2026-11-10-chile-960-especies-amenazadas",
             "estado": "publicada",
