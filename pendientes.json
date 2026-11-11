@@ -1,17 +1,6 @@
 {
     "pendientes": [
         {
-            "id": "2026-11-11-punta-arenas-valdivia-industria-naval",
-            "titulo": "Punta Arenas y Valdivia fortalecen alianza para impulsar la industria naval",
-            "resumen": "Los alcaldes Claudio Radonich y Carla Amtmann visitaron ASMAR Magallanes en el marco de la Red de Ciudades Navales, que busca potenciar la construcción y reparación naval en el sur. El astillero de Punta Arenas emplea a más de 200 personas.",
-            "fecha": "2026-11-11",
-            "categoria": "industria",
-            "fuente": "Radio Magallanes",
-            "url": "https://radiomagallanes.cl/punta-arenas-y-valdivia-fortalecen-alianza-para-impulsar-el-desarrollo-de-la-industria-naval/",
-            "alcance": "magallanes",
-            "traducida": false
-        },
-        {
             "id": "2026-11-10-chile-960-especies-amenazadas",
             "titulo": "Chile suma 960 especies amenazadas y la mitad de sus anfibios está en riesgo",
             "resumen": "Según el Ministerio del Medio Ambiente, Chile tiene 960 especies amenazadas: 330 vulnerables, 445 en peligro y 185 en peligro crítico. La investigadora Daniela Poo (UFRO) advierte que la mitad de las 60 especies de anfibios del país está amenazada, y apunta a la fragmentación del hábitat y a perros y gatos sin control como causas principales.",
@@ -35,6 +24,13 @@
         }
     ],
     "decisiones": [
+        {
+            "id": "2026-11-11-punta-arenas-valdivia-industria-naval",
+            "estado": "publicada",
+            "categoria": "industria",
+            "alcance": "magallanes",
+            "fecha": "2026-11-11T11:20:15+00:00"
+        },
         {
             "id": "2026-11-11-glaciar-union-dotacion-campana-antartica",
             "estado": "publicada",
