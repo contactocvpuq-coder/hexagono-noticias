@@ -1,33 +1,33 @@
 {
-    "pendientes": [],
-    "decisiones": [
-        {
-            "id": "2026-11-10-zona-franca-punta-arenas-balance-core",
-            "estado": "descartada",
-            "categoria": "industria",
-            "alcance": "magallanes",
-            "fecha": "2026-11-11T11:20:38+00:00"
-        },
-        {
-            "id": "2026-11-10-chile-960-especies-amenazadas",
-            "estado": "publicada",
-            "categoria": "medioambiente",
-            "alcance": "chile",
-            "fecha": "2026-11-11T11:20:27+00:00"
-        },
-        {
-            "id": "2026-11-11-punta-arenas-valdivia-industria-naval",
-            "estado": "publicada",
-            "categoria": "industria",
-            "alcance": "magallanes",
-            "fecha": "2026-11-11T11:20:15+00:00"
-        },
-        {
-            "id": "2026-11-11-glaciar-union-dotacion-campana-antartica",
-            "estado": "publicada",
-            "categoria": "industria",
-            "alcance": "magallanes",
-            "fecha": "2026-11-11T11:20:05+00:00"
-        }
-    ]
+  "pendientes": [],
+  "decisiones": [
+    {
+      "id": "2026-11-10-zona-franca-punta-arenas-balance-core",
+      "estado": "descartada",
+      "categoria": "industria",
+      "alcance": "magallanes",
+      "fecha": "2026-11-11T11:20:38+00:00"
+    },
+    {
+      "id": "2026-11-10-chile-960-especies-amenazadas",
+      "estado": "publicada",
+      "categoria": "medioambiente",
+      "alcance": "chile",
+      "fecha": "2026-11-11T11:20:27+00:00"
+    },
+    {
+      "id": "2026-11-11-punta-arenas-valdivia-industria-naval",
+      "estado": "publicada",
+      "categoria": "industria",
+      "alcance": "magallanes",
+      "fecha": "2026-11-11T11:20:15+00:00"
+    },
+    {
+      "id": "2026-11-11-glaciar-union-dotacion-campana-antartica",
+      "estado": "publicada",
+      "categoria": "industria",
+      "alcance": "magallanes",
+      "fecha": "2026-11-11T11:20:05+00:00"
+    }
+  ]
 }
