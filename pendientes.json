@@ -1,17 +1,6 @@
 {
     "pendientes": [
         {
-            "id": "2026-11-10-chile-960-especies-amenazadas",
-            "titulo": "Chile suma 960 especies amenazadas y la mitad de sus anfibios está en riesgo",
-            "resumen": "Según el Ministerio del Medio Ambiente, Chile tiene 960 especies amenazadas: 330 vulnerables, 445 en peligro y 185 en peligro crítico. La investigadora Daniela Poo (UFRO) advierte que la mitad de las 60 especies de anfibios del país está amenazada, y apunta a la fragmentación del hábitat y a perros y gatos sin control como causas principales.",
-            "fecha": "2026-11-10",
-            "categoria": "medioambiente",
-            "fuente": "BioBioChile",
-            "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/medio-ambiente-cyt/2026/11/10/experta-advierte-que-en-chile-ya-hay-casi-mil-especies-amenazadas-mas-de-400-estan-en-peligro.shtml",
-            "alcance": "chile",
-            "traducida": false
-        },
-        {
             "id": "2026-11-10-zona-franca-punta-arenas-balance-core",
             "titulo": "Zona Franca de Punta Arenas presenta su balance: ventas por $300 mil millones y 2.770 empleos en 2025",
             "resumen": "Ante el Consejo Regional, la concesionaria informó que las ventas de la Zona Franca pasaron de $77.766 millones en 2007 a $300.287 millones en 2025, el empleo de 1.461 a 2.770 personas y las visitas de 3,9 a 10,6 millones. El aporte anual al Gobierno Regional subió de $734 millones en 2008 a $4.714 millones en 2025.",
@@ -24,6 +13,13 @@
         }
     ],
     "decisiones": [
+        {
+            "id": "2026-11-10-chile-960-especies-amenazadas",
+            "estado": "publicada",
+            "categoria": "medioambiente",
+            "alcance": "chile",
+            "fecha": "2026-11-11T11:20:27+00:00"
+        },
         {
             "id": "2026-11-11-punta-arenas-valdivia-industria-naval",
             "estado": "publicada",
