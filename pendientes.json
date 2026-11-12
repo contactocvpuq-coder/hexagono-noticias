@@ -1,19 +1,19 @@
 {
-    "pendientes": [],
-    "decisiones": [
-        {
-            "id": "2026-11-11-punta-arenas-curso-inspectores-pesqueros-antartica",
-            "estado": "publicada",
-            "categoria": "medioambiente",
-            "alcance": "magallanes",
-            "fecha": "2026-11-12T10:48:00+00:00"
-        },
-        {
-            "id": "2026-11-11-datacenters-demanda-electrica-cuadruplicar-2035",
-            "estado": "publicada",
-            "categoria": "energias",
-            "alcance": "mundo",
-            "fecha": "2026-11-12T10:47:42+00:00"
-        }
-    ]
+  "pendientes": [],
+  "decisiones": [
+    {
+      "id": "2026-11-11-punta-arenas-curso-inspectores-pesqueros-antartica",
+      "estado": "publicada",
+      "categoria": "medioambiente",
+      "alcance": "magallanes",
+      "fecha": "2026-11-12T10:48:00+00:00"
+    },
+    {
+      "id": "2026-11-11-datacenters-demanda-electrica-cuadruplicar-2035",
+      "estado": "publicada",
+      "categoria": "energias",
+      "alcance": "mundo",
+      "fecha": "2026-11-12T10:47:42+00:00"
+    }
+  ]
 }
