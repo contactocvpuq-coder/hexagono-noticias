@@ -1,27 +1,24 @@
 {
-  "pendientes": [
-    {
-      "id": "2026-11-11-datacenters-demanda-electrica-cuadruplicar-2035",
-      "titulo": "BloombergNEF: la demanda eléctrica de los data centers podría cuadruplicarse al 2035",
-      "resumen": "Un informe de BloombergNEF presentado en la COP31 estima que el consumo eléctrico de los centros de datos podría cuadruplicarse al 2035 y llegar a cerca del 7% de la electricidad mundial. La CDP advierte que las brechas en el reporte de emisiones hacen difícil medir el impacto climático del auge de la IA.",
-      "fecha": "2026-11-11",
-      "categoria": "energias",
-      "fuente": "Bloomberg (vía Energy Connects)",
-      "url": "https://www.energyconnects.com/news/utilities/2026/november/data-center-carbon-disclosure-gaps-make-ai-boom-s-climate-impact-tough-to-assess/",
-      "alcance": "mundo",
-      "traducida": true
-    },
-    {
-      "id": "2026-11-11-punta-arenas-curso-inspectores-pesqueros-antartica",
-      "titulo": "Punta Arenas acoge curso internacional de inspectores pesqueros de la Antártica",
-      "resumen": "La Armada inició en Punta Arenas el curso internacional de inspectores de la CCRVMA (CCAMLR), que vigila la conservación de los recursos marinos antárticos. Participan la Prefectura Naval argentina, la Guardia Costera de EE.UU., Sernapesca y la dotación del OPV-83 Marinero Fuentealba, y el curso cierra el 12 de noviembre a bordo de la lancha Casma.",
-      "fecha": "2026-11-11",
-      "categoria": "medioambiente",
-      "fuente": "El Pingüino",
-      "url": "https://www.elpinguino.com/regional/armada-de-chile-inicia-en-punta-arenas-curso-internacional-para-inspectores-pesqueros-de-la-antartica",
-      "alcance": "magallanes",
-      "traducida": false
-    }
-  ],
-  "decisiones": []
+    "pendientes": [
+        {
+            "id": "2026-11-11-punta-arenas-curso-inspectores-pesqueros-antartica",
+            "titulo": "Punta Arenas acoge curso internacional de inspectores pesqueros de la Antártica",
+            "resumen": "La Armada inició en Punta Arenas el curso internacional de inspectores de la CCRVMA (CCAMLR), que vigila la conservación de los recursos marinos antárticos. Participan la Prefectura Naval argentina, la Guardia Costera de EE.UU., Sernapesca y la dotación del OPV-83 Marinero Fuentealba, y el curso cierra el 12 de noviembre a bordo de la lancha Casma.",
+            "fecha": "2026-11-11",
+            "categoria": "medioambiente",
+            "fuente": "El Pingüino",
+            "url": "https://www.elpinguino.com/regional/armada-de-chile-inicia-en-punta-arenas-curso-internacional-para-inspectores-pesqueros-de-la-antartica",
+            "alcance": "magallanes",
+            "traducida": false
+        }
+    ],
+    "decisiones": [
+        {
+            "id": "2026-11-11-datacenters-demanda-electrica-cuadruplicar-2035",
+            "estado": "publicada",
+            "categoria": "energias",
+            "alcance": "mundo",
+            "fecha": "2026-11-12T10:47:42+00:00"
+        }
+    ]
 }
