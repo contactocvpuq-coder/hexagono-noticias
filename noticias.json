@@ -67,6 +67,17 @@
         "alcance": "magallanes"
     },
     {
+        "id": "2026-11-12-uniper-bad-lauchstadt-hidrogeno-verde",
+        "titulo": "Alemania: parque energético de Bad Lauchstädt inicia producción de hidrógeno verde",
+        "resumen": "Uniper y VNG comenzaron a producir hidrógeno renovable con un electrolizador de 30 MW alimentado por un parque eólico de unos 50 MW. El gas viaja por un gasoducto de 25 km reconvertido a hidrógeno hasta la refinería de Leuna, y un cliente ancla comprará unas 3.000 toneladas el próximo año.",
+        "fecha": "2026-11-12",
+        "categoria": "energias",
+        "fuente": "Rigzone",
+        "url": "https://www.rigzone.com/news/uniper_starts_green_hydrogen_production_at_central_german_energy_park-12-nov-2026-185068-article/",
+        "traducida": true,
+        "alcance": "mundo"
+    },
+    {
         "id": "2026-11-11-punta-arenas-valdivia-industria-naval",
         "titulo": "Punta Arenas y Valdivia fortalecen alianza para impulsar la industria naval",
         "resumen": "Los alcaldes Claudio Radonich y Carla Amtmann visitaron ASMAR Magallanes en el marco de la Red de Ciudades Navales, que busca potenciar la construcción y reparación naval en el sur. El astillero de Punta Arenas emplea a más de 200 personas.",
