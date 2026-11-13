@@ -1,4 +1,38 @@
 {
-  "pendientes": [],
+  "pendientes": [
+    {
+      "id": "2026-11-13-totalenergies-desiste-h2-magallanes",
+      "titulo": "TotalEnergies desiste del megaproyecto H2 Magallanes en San Gregorio",
+      "resumen": "TotalEnergies abandonó H2 Magallanes, el mayor proyecto de hidrógeno y amoníaco verde planificado en la región, que contemplaba más de 600 aerogeneradores, planta de amoníaco, puerto, desaladora y cinco datacenters en San Gregorio. La empresa citó la falta de contratos de compra a largo plazo y costos de equipos que no bajaron como se esperaba.",
+      "fecha": "2026-11-13",
+      "categoria": "energias",
+      "fuente": "El Pingüino",
+      "url": "https://www.elpinguino.com/regional/totalenergies-desiste-de-megaproyecto-de-hidrogeno-h2-magallanes-y-reabre-debate-sobre-viabilidad-de-la-industria",
+      "alcance": "magallanes",
+      "traducida": false
+    },
+    {
+      "id": "2026-11-13-twin-otter-fach-glaciar-union",
+      "titulo": "Aviones Twin Otter de la FACh despegan desde Punta Arenas hacia Glaciar Unión",
+      "resumen": "Dos DHC-6 Twin Otter del Grupo de Aviación N°6 despegaron el 12 de noviembre desde la Base Aérea Chabunco para iniciar la nueva campaña de la Estación Polar Científica Conjunta Glaciar Unión. Hicieron escala en la base Presidente Frei, en isla Rey Jorge, antes de seguir al interior antártico, a unos 1.129 km del Polo Sur.",
+      "fecha": "2026-11-13",
+      "categoria": "innovacion",
+      "fuente": "La Prensa Austral",
+      "url": "https://laprensaaustral.cl/2026/11/13/twin-otter-de-la-fach-despegaron-rumbo-al-glaciar-union/",
+      "alcance": "magallanes",
+      "traducida": false
+    },
+    {
+      "id": "2026-11-12-uniper-bad-lauchstadt-hidrogeno-verde",
+      "titulo": "Alemania: parque energético de Bad Lauchstädt inicia producción de hidrógeno verde",
+      "resumen": "Uniper y VNG comenzaron a producir hidrógeno renovable con un electrolizador de 30 MW alimentado por un parque eólico de unos 50 MW. El gas viaja por un gasoducto de 25 km reconvertido a hidrógeno hasta la refinería de Leuna, y un cliente ancla comprará unas 3.000 toneladas el próximo año.",
+      "fecha": "2026-11-12",
+      "categoria": "energias",
+      "fuente": "Rigzone",
+      "url": "https://www.rigzone.com/news/uniper_starts_green_hydrogen_production_at_central_german_energy_park-12-nov-2026-185068-article/",
+      "alcance": "mundo",
+      "traducida": true
+    }
+  ],
   "decisiones": []
 }
