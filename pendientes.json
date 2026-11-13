@@ -1,33 +1,4 @@
 {
   "pendientes": [],
-  "decisiones": [
-    {
-      "id": "2026-11-12-texas-regulacion-datacenters",
-      "estado": "publicada",
-      "categoria": "digital",
-      "alcance": "mundo",
-      "fecha": "2026-11-13T10:52:12+00:00"
-    },
-    {
-      "id": "2026-11-12-prisma-austral-estrecho-corredor-logistico",
-      "estado": "publicada",
-      "categoria": "industria",
-      "alcance": "magallanes",
-      "fecha": "2026-11-13T10:52:01+00:00"
-    },
-    {
-      "id": "2026-11-12-falkland-sea-lion-fallo-28-noviembre",
-      "estado": "publicada",
-      "categoria": "energias",
-      "alcance": "mundo",
-      "fecha": "2026-11-13T10:51:38+00:00"
-    },
-    {
-      "id": "2026-11-12-base-escudero-hidrogeno-renovables",
-      "estado": "publicada",
-      "categoria": "energias",
-      "alcance": "magallanes",
-      "fecha": "2026-11-13T10:51:27+00:00"
-    }
-  ]
+  "decisiones": []
 }
