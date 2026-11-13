@@ -1,18 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-12-texas-regulacion-datacenters",
-            "titulo": "Texas se prepara para regular los data centers tras el cambio de gobierno estatal",
-            "resumen": "La gobernadora electa Gina Hinojosa prometió una moratoria a nuevos centros de datos, eliminar sus beneficios tributarios y dar más voz a las comunidades locales. En septiembre, el gobernador Greg Abbott ya había pausado nuevos permisos mientras se realiza una auditoría estatal.",
-            "fecha": "2026-11-12",
+            "estado": "publicada",
             "categoria": "digital",
-            "fuente": "KUT (NPR)",
-            "url": "https://www.kut.org/energy-environment/2026-11-12/data-centers-regulation-texas-ai-legislation-democrats",
             "alcance": "mundo",
-            "traducida": true
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-13T10:52:12+00:00"
+        },
         {
             "id": "2026-11-12-prisma-austral-estrecho-corredor-logistico",
             "estado": "publicada",
