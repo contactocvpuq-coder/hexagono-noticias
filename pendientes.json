@@ -1,4 +1,50 @@
 {
-  "pendientes": [],
+  "pendientes": [
+    {
+      "id": "2026-11-12-base-escudero-hidrogeno-renovables",
+      "titulo": "Base Escudero busca reducir 65% su diésel con energía eólica, solar e hidrógeno",
+      "resumen": "En un seminario en Punta Arenas con más de 50 actores, INACH y GIZ presentaron el proyecto para dotar a la base antártica Profesor Julio Escudero de generación eólica y solar, baterías, electrolizadores y celdas de combustible, con la meta de bajar 65% el uso de diésel. INACH apunta a obtener la aprobación técnica del Ministerio de Energía antes de fin de año.",
+      "fecha": "2026-11-12",
+      "categoria": "energias",
+      "fuente": "Ovejero Noticias",
+      "url": "https://www.ovejeronoticias.cl/2026/11/el-hidrogeno-verde-se-acerca-a-la-antartica-chilena-concurrido-seminario-concentro-a-actores-relevantes-para-el-desarrollo-de-nuevas-energias-en-el-continente-blanco/",
+      "alcance": "magallanes",
+      "traducida": false
+    },
+    {
+      "id": "2026-11-12-falkland-sea-lion-fallo-28-noviembre",
+      "titulo": "Tribunal del Mar fija para el 28 de noviembre su decisión sobre el proyecto petrolero Sea Lion",
+      "resumen": "El Tribunal Internacional del Derecho del Mar, en Hamburgo, leerá el 28 de noviembre su orden sobre la solicitud argentina de frenar los trabajos del proyecto Sea Lion, al norte de las Falkland/Malvinas. Las audiencias se realizaron el 10 y 11 de noviembre; una medida provisional no resolvería la soberanía.",
+      "fecha": "2026-11-12",
+      "categoria": "energias",
+      "fuente": "The Rio Times",
+      "url": "https://www.riotimesonline.com/falklands-oil-sea-tribunal-ruling-28-november/",
+      "alcance": "mundo",
+      "traducida": true,
+      "seguimiento": "Falkland / Malvinas"
+    },
+    {
+      "id": "2026-11-12-prisma-austral-estrecho-corredor-logistico",
+      "titulo": "Estudio propone convertir el Estrecho de Magallanes en un corredor logístico internacional",
+      "resumen": "La Fundación Prisma Austral proyecta 150 naves operando de forma permanente en Magallanes al 2028 y propone un gravamen de 2% a nuevas actividades de régimen especial, repartido entre el Gobierno Regional, infraestructura e I+D. El estudio menciona un puerto de aguas profundas de US$1.500 a 2.000 millones y zonas francas remotas, como una antártica en Puerto Williams.",
+      "fecha": "2026-11-12",
+      "categoria": "industria",
+      "fuente": "Radio Polar",
+      "url": "https://www.radiopolar.com/estudio-fundacion-prisma-austral-identifica-oportunidades-convertir-estrecho-magallanes-corredor-logistico-internacional",
+      "alcance": "magallanes",
+      "traducida": false
+    },
+    {
+      "id": "2026-11-12-texas-regulacion-datacenters",
+      "titulo": "Texas se prepara para regular los data centers tras el cambio de gobierno estatal",
+      "resumen": "La gobernadora electa Gina Hinojosa prometió una moratoria a nuevos centros de datos, eliminar sus beneficios tributarios y dar más voz a las comunidades locales. En septiembre, el gobernador Greg Abbott ya había pausado nuevos permisos mientras se realiza una auditoría estatal.",
+      "fecha": "2026-11-12",
+      "categoria": "digital",
+      "fuente": "KUT (NPR)",
+      "url": "https://www.kut.org/energy-environment/2026-11-12/data-centers-regulation-texas-ai-legislation-democrats",
+      "alcance": "mundo",
+      "traducida": true
+    }
+  ],
   "decisiones": []
 }
