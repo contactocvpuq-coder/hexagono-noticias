@@ -1,18 +1,6 @@
 {
     "pendientes": [
         {
-            "id": "2026-11-12-falkland-sea-lion-fallo-28-noviembre",
-            "titulo": "Tribunal del Mar fija para el 28 de noviembre su decisión sobre el proyecto petrolero Sea Lion",
-            "resumen": "El Tribunal Internacional del Derecho del Mar, en Hamburgo, leerá el 28 de noviembre su orden sobre la solicitud argentina de frenar los trabajos del proyecto Sea Lion, al norte de las Falkland/Malvinas. Las audiencias se realizaron el 10 y 11 de noviembre; una medida provisional no resolvería la soberanía.",
-            "fecha": "2026-11-12",
-            "categoria": "energias",
-            "fuente": "The Rio Times",
-            "url": "https://www.riotimesonline.com/falklands-oil-sea-tribunal-ruling-28-november/",
-            "alcance": "mundo",
-            "traducida": true,
-            "seguimiento": "Falkland / Malvinas"
-        },
-        {
             "id": "2026-11-12-prisma-austral-estrecho-corredor-logistico",
             "titulo": "Estudio propone convertir el Estrecho de Magallanes en un corredor logístico internacional",
             "resumen": "La Fundación Prisma Austral proyecta 150 naves operando de forma permanente en Magallanes al 2028 y propone un gravamen de 2% a nuevas actividades de régimen especial, repartido entre el Gobierno Regional, infraestructura e I+D. El estudio menciona un puerto de aguas profundas de US$1.500 a 2.000 millones y zonas francas remotas, como una antártica en Puerto Williams.",
@@ -36,6 +24,13 @@
         }
     ],
     "decisiones": [
+        {
+            "id": "2026-11-12-falkland-sea-lion-fallo-28-noviembre",
+            "estado": "publicada",
+            "categoria": "energias",
+            "alcance": "mundo",
+            "fecha": "2026-11-13T10:51:38+00:00"
+        },
         {
             "id": "2026-11-12-base-escudero-hidrogeno-renovables",
             "estado": "publicada",
