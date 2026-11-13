@@ -1,26 +1,26 @@
 {
-    "pendientes": [],
-    "decisiones": [
-        {
-            "id": "2026-11-12-uniper-bad-lauchstadt-hidrogeno-verde",
-            "estado": "publicada",
-            "categoria": "energias",
-            "alcance": "mundo",
-            "fecha": "2026-11-13T16:01:39+00:00"
-        },
-        {
-            "id": "2026-11-13-twin-otter-fach-glaciar-union",
-            "estado": "publicada",
-            "categoria": "innovacion",
-            "alcance": "magallanes",
-            "fecha": "2026-11-13T16:01:31+00:00"
-        },
-        {
-            "id": "2026-11-13-totalenergies-desiste-h2-magallanes",
-            "estado": "publicada",
-            "categoria": "energias",
-            "alcance": "magallanes",
-            "fecha": "2026-11-13T16:01:19+00:00"
-        }
-    ]
+  "pendientes": [],
+  "decisiones": [
+    {
+      "id": "2026-11-12-uniper-bad-lauchstadt-hidrogeno-verde",
+      "estado": "publicada",
+      "categoria": "energias",
+      "alcance": "mundo",
+      "fecha": "2026-11-13T16:01:39+00:00"
+    },
+    {
+      "id": "2026-11-13-twin-otter-fach-glaciar-union",
+      "estado": "publicada",
+      "categoria": "innovacion",
+      "alcance": "magallanes",
+      "fecha": "2026-11-13T16:01:31+00:00"
+    },
+    {
+      "id": "2026-11-13-totalenergies-desiste-h2-magallanes",
+      "estado": "publicada",
+      "categoria": "energias",
+      "alcance": "magallanes",
+      "fecha": "2026-11-13T16:01:19+00:00"
+    }
+  ]
 }
