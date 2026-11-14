@@ -1,4 +1,17 @@
 {
-  "pendientes": [],
+  "pendientes": [
+    {
+      "id": "2026-11-13-danstar-ruta-punta-arenas-falkland-diciembre",
+      "titulo": "Chile confirma que el buque Danstar reabrirá en diciembre la ruta de carga Punta Arenas–Falkland/Malvinas",
+      "resumen": "El canciller Francisco Pérez Mackenna afirmó que Chile no pedirá autorización a Argentina para el viaje del Danstar, un carguero chileno de 72 metros que retomará la ruta comercial entre Punta Arenas y las islas, suspendida hace unos 15 años. Llevará alimentos, maquinaria y materiales de construcción como alternativa a los suministros desde Montevideo.",
+      "fecha": "2026-11-13",
+      "categoria": "industria",
+      "fuente": "MercoPress",
+      "url": "https://en.mercopress.com/2026/11/13/chile-tells-argentina-countries-do-not-ask-permission-for-its-ship-bound-for-the-falklands",
+      "alcance": "magallanes",
+      "traducida": true,
+      "seguimiento": "Falkland / Malvinas"
+    }
+  ],
   "decisiones": []
 }
