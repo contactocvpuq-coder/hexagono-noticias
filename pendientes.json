@@ -1,12 +1,12 @@
 {
-    "pendientes": [],
-    "decisiones": [
-        {
-            "id": "2026-11-13-danstar-ruta-punta-arenas-falkland-diciembre",
-            "estado": "publicada",
-            "categoria": "industria",
-            "alcance": "magallanes",
-            "fecha": "2026-11-14T11:11:01+00:00"
-        }
-    ]
+  "pendientes": [],
+  "decisiones": [
+    {
+      "id": "2026-11-13-danstar-ruta-punta-arenas-falkland-diciembre",
+      "estado": "publicada",
+      "categoria": "industria",
+      "alcance": "magallanes",
+      "fecha": "2026-11-14T11:11:01+00:00"
+    }
+  ]
 }
