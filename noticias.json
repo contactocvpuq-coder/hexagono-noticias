@@ -68,6 +68,17 @@
         "alcance": "mundo"
     },
     {
+        "id": "2026-11-12-senado-eeuu-ley-permisos-datacenters-transmision",
+        "titulo": "Senado de EE.UU. avanza ley que haría pagar a los datacenters sus mejoras de transmisión eléctrica",
+        "resumen": "El Senado de EE.UU. aprobó avanzar la ley de permisos BAAJA, que obligaría a los desarrolladores de centros de datos a pagar el costo total de las mejoras de transmisión que generan, unos US$55.000 millones en 10 años según un estudio. Los proyectos de gas para datacenters en EE.UU. pasaron de 4 GW a inicios de 2024 a 189 GW en desarrollo a mediados de 2026.",
+        "fecha": "2026-11-12",
+        "categoria": "energias",
+        "fuente": "Dataconomy",
+        "url": "https://dataconomy.com/2026/11/12/senate-advances-energy-permitting-bill-amid-ai-data-center/",
+        "traducida": true,
+        "alcance": "mundo"
+    },
+    {
         "id": "2026-11-12-prisma-austral-estrecho-corredor-logistico",
         "titulo": "Estudio propone convertir el Estrecho de Magallanes en un corredor logístico internacional",
         "resumen": "La Fundación Prisma Austral proyecta 150 naves operando de forma permanente en Magallanes al 2028 y propone un gravamen de 2% a nuevas actividades de régimen especial, repartido entre el Gobierno Regional, infraestructura e I+D. El estudio menciona un puerto de aguas profundas de US$1.500 a 2.000 millones y zonas francas remotas, como una antártica en Puerto Williams.",
