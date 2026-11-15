@@ -1,19 +1,19 @@
 {
-    "pendientes": [],
-    "decisiones": [
-        {
-            "id": "2026-11-12-senado-eeuu-ley-permisos-datacenters-transmision",
-            "estado": "publicada",
-            "categoria": "energias",
-            "alcance": "mundo",
-            "fecha": "2026-11-15T11:36:49+00:00"
-        },
-        {
-            "id": "2026-11-14-fpa-clubes-ambientales-magallanes",
-            "estado": "publicada",
-            "categoria": "medioambiente",
-            "alcance": "magallanes",
-            "fecha": "2026-11-15T11:36:33+00:00"
-        }
-    ]
+  "pendientes": [],
+  "decisiones": [
+    {
+      "id": "2026-11-12-senado-eeuu-ley-permisos-datacenters-transmision",
+      "estado": "publicada",
+      "categoria": "energias",
+      "alcance": "mundo",
+      "fecha": "2026-11-15T11:36:49+00:00"
+    },
+    {
+      "id": "2026-11-14-fpa-clubes-ambientales-magallanes",
+      "estado": "publicada",
+      "categoria": "medioambiente",
+      "alcance": "magallanes",
+      "fecha": "2026-11-15T11:36:33+00:00"
+    }
+  ]
 }
