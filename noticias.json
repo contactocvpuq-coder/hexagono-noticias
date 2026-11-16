@@ -46,6 +46,18 @@
         "seguimiento": "Falkland / Malvinas"
     },
     {
+        "id": "2026-11-13-chile-data-centers-cuellos-botella-transmision",
+        "titulo": "Chile busca atraer data centers, pero la transmisión eléctrica y el agua frenan proyectos",
+        "resumen": "Seis solicitudes de conexión por 1.420 MW en la Región Metropolitana recibieron respuesta desfavorable del Coordinador Eléctrico por falta de capacidad en subestaciones. Chile tiene unos 36 centros de datos con 255 MW instalados; expertos recomiendan ubicarlos cerca de la generación renovable o más al sur, y advierten su bajo impacto en empleo.",
+        "fecha": "2026-11-13",
+        "categoria": "digital",
+        "fuente": "El Dínamo",
+        "url": "https://www.eldinamo.cl/reportajes/2026/11/13/la-batalla-por-los-data-centers-chile-busca-atraer-inversion-pero-enfrenta-dos-grandes-cuellos-de-botella/",
+        "traducida": false,
+        "alcance": "chile",
+        "seguimiento": "Datacenters y emisiones"
+    },
+    {
         "id": "2026-11-13-twin-otter-fach-glaciar-union",
         "titulo": "Aviones Twin Otter de la FACh despegan desde Punta Arenas hacia Glaciar Unión",
         "resumen": "Dos DHC-6 Twin Otter del Grupo de Aviación N°6 despegaron el 12 de noviembre desde la Base Aérea Chabunco para iniciar la nueva campaña de la Estación Polar Científica Conjunta Glaciar Unión. Hicieron escala en la base Presidente Frei, en isla Rey Jorge, antes de seguir al interior antártico, a unos 1.129 km del Polo Sur.",
