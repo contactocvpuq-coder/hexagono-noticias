@@ -1,18 +1,6 @@
 {
     "pendientes": [
         {
-            "id": "2026-11-13-chile-data-centers-cuellos-botella-transmision",
-            "titulo": "Chile busca atraer data centers, pero la transmisión eléctrica y el agua frenan proyectos",
-            "resumen": "Seis solicitudes de conexión por 1.420 MW en la Región Metropolitana recibieron respuesta desfavorable del Coordinador Eléctrico por falta de capacidad en subestaciones. Chile tiene unos 36 centros de datos con 255 MW instalados; expertos recomiendan ubicarlos cerca de la generación renovable o más al sur, y advierten su bajo impacto en empleo.",
-            "fecha": "2026-11-13",
-            "categoria": "digital",
-            "fuente": "El Dínamo",
-            "url": "https://www.eldinamo.cl/reportajes/2026/11/13/la-batalla-por-los-data-centers-chile-busca-atraer-inversion-pero-enfrenta-dos-grandes-cuellos-de-botella/",
-            "alcance": "chile",
-            "traducida": false,
-            "seguimiento": "Datacenters y emisiones"
-        },
-        {
             "id": "2026-11-13-inach-manual-pedagogico-antartica-aulas",
             "titulo": "INACH lanza manual gratuito para integrar la Antártica en las aulas de todo Chile",
             "resumen": "El Instituto Antártico Chileno publicó, junto al Ministerio de Educación, el manual 'Orientaciones para la integración de la Antártica en el currículum educativo chileno', con 39 actividades interdisciplinarias para educación parvularia, básica y media. Se basa en el Estatuto Antártico y el Plan Estratégico Antártico 2026-2030 y se presentó en Punta Arenas.",
@@ -26,6 +14,13 @@
         }
     ],
     "decisiones": [
+        {
+            "id": "2026-11-13-chile-data-centers-cuellos-botella-transmision",
+            "estado": "publicada",
+            "categoria": "digital",
+            "alcance": "chile",
+            "fecha": "2026-11-16T10:45:45+00:00"
+        },
         {
             "id": "2026-11-15-danstar-malvinas-argentina-ofensiva-sea-lion",
             "estado": "publicada",
