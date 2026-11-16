@@ -1,26 +1,26 @@
 {
-    "pendientes": [],
-    "decisiones": [
-        {
-            "id": "2026-11-13-inach-manual-pedagogico-antartica-aulas",
-            "estado": "publicada",
-            "categoria": "innovacion",
-            "alcance": "magallanes",
-            "fecha": "2026-11-16T10:46:01+00:00"
-        },
-        {
-            "id": "2026-11-13-chile-data-centers-cuellos-botella-transmision",
-            "estado": "publicada",
-            "categoria": "digital",
-            "alcance": "chile",
-            "fecha": "2026-11-16T10:45:45+00:00"
-        },
-        {
-            "id": "2026-11-15-danstar-malvinas-argentina-ofensiva-sea-lion",
-            "estado": "publicada",
-            "categoria": "industria",
-            "alcance": "magallanes",
-            "fecha": "2026-11-16T10:45:34+00:00"
-        }
-    ]
+  "pendientes": [],
+  "decisiones": [
+    {
+      "id": "2026-11-13-inach-manual-pedagogico-antartica-aulas",
+      "estado": "publicada",
+      "categoria": "innovacion",
+      "alcance": "magallanes",
+      "fecha": "2026-11-16T10:46:01+00:00"
+    },
+    {
+      "id": "2026-11-13-chile-data-centers-cuellos-botella-transmision",
+      "estado": "publicada",
+      "categoria": "digital",
+      "alcance": "chile",
+      "fecha": "2026-11-16T10:45:45+00:00"
+    },
+    {
+      "id": "2026-11-15-danstar-malvinas-argentina-ofensiva-sea-lion",
+      "estado": "publicada",
+      "categoria": "industria",
+      "alcance": "magallanes",
+      "fecha": "2026-11-16T10:45:34+00:00"
+    }
+  ]
 }
