@@ -1,19 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-13-inach-manual-pedagogico-antartica-aulas",
-            "titulo": "INACH lanza manual gratuito para integrar la Antártica en las aulas de todo Chile",
-            "resumen": "El Instituto Antártico Chileno publicó, junto al Ministerio de Educación, el manual 'Orientaciones para la integración de la Antártica en el currículum educativo chileno', con 39 actividades interdisciplinarias para educación parvularia, básica y media. Se basa en el Estatuto Antártico y el Plan Estratégico Antártico 2026-2030 y se presentó en Punta Arenas.",
-            "fecha": "2026-11-13",
+            "estado": "publicada",
             "categoria": "innovacion",
-            "fuente": "INACH",
-            "url": "https://www.inach.cl/inach-presenta-nuevo-manual-pedagogico-para-integrar-las-tematicas-antarticas-en-las-aulas-de-todo-chile/",
             "alcance": "magallanes",
-            "traducida": false,
-            "seguimiento": "Antártica"
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-16T10:46:01+00:00"
+        },
         {
             "id": "2026-11-13-chile-data-centers-cuellos-botella-transmision",
             "estado": "publicada",
