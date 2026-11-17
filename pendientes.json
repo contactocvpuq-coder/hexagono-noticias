@@ -1,18 +1,6 @@
 {
     "pendientes": [
         {
-            "id": "2026-11-16-danstar-llega-punta-arenas-asmar",
-            "titulo": "Danstar llega a Punta Arenas y prepara en Asmar su zarpe a Falkland/Malvinas del 17 de diciembre",
-            "resumen": "El buque Danstar arribó el 16 de noviembre a Punta Arenas, con retraso por mal tiempo, para trabajos técnicos en los astilleros de Asmar. Su zarpe a las islas está programado para el 17 de diciembre con alimentos, bienes de consumo y materiales de construcción, mientras Argentina mantiene su ofensiva contra el proyecto petrolero Sea Lion.",
-            "fecha": "2026-11-16",
-            "categoria": "industria",
-            "fuente": "BioBioChile",
-            "url": "https://www.biobiochile.cl/noticias/nacional/region-de-magallanes/2026/11/16/danstar-arriba-a-punta-arenas-en-medio-de-disputa-entre-chile-y-argentina-por-su-viaje-a-las-malvinas.shtml",
-            "alcance": "magallanes",
-            "traducida": false,
-            "seguimiento": "Falkland / Malvinas"
-        },
-        {
             "id": "2026-11-16-harvard-datacenters-electricidad-emisiones-eeuu",
             "titulo": "Estudio de Harvard: grandes datacenters de EE.UU. usan 1,8% de la electricidad y emiten como Dinamarca",
             "resumen": "Un estudio publicado en Nature Sustainability analizó 403 centros de datos hiperescala de EE.UU. entre mayo de 2024 y abril de 2025: consumieron unos 82 TWh, cerca del 1,8% de la electricidad del país, y se les atribuyen unos 28 millones de toneladas de CO2. El 54% de esa energía provino de combustibles fósiles, sobre todo gas natural.",
@@ -37,6 +25,13 @@
         }
     ],
     "decisiones": [
+        {
+            "id": "2026-11-16-danstar-llega-punta-arenas-asmar",
+            "estado": "publicada",
+            "categoria": "industria",
+            "alcance": "magallanes",
+            "fecha": "2026-11-17T11:27:10+00:00"
+        },
         {
             "id": "2026-11-16-almirante-viel-reaprovisionamiento-bases-antarticas",
             "estado": "publicada",
