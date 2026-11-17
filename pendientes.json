@@ -1,18 +1,6 @@
 {
     "pendientes": [
         {
-            "id": "2026-11-16-harvard-datacenters-electricidad-emisiones-eeuu",
-            "titulo": "Estudio de Harvard: grandes datacenters de EE.UU. usan 1,8% de la electricidad y emiten como Dinamarca",
-            "resumen": "Un estudio publicado en Nature Sustainability analizó 403 centros de datos hiperescala de EE.UU. entre mayo de 2024 y abril de 2025: consumieron unos 82 TWh, cerca del 1,8% de la electricidad del país, y se les atribuyen unos 28 millones de toneladas de CO2. El 54% de esa energía provino de combustibles fósiles, sobre todo gas natural.",
-            "fecha": "2026-11-16",
-            "categoria": "energias",
-            "fuente": "Gizmodo",
-            "url": "https://gizmodo.com/scientists-finally-know-how-much-power-americas-biggest-data-centers-use-and-its-worse-than-we-thought-2000839941",
-            "alcance": "mundo",
-            "traducida": true,
-            "seguimiento": "Datacenters y emisiones"
-        },
-        {
             "id": "2026-11-16-sbap-inversion-areas-protegidas-chile",
             "titulo": "SBAP invierte más de US$1 millón en áreas protegidas antes de asumir su administración en 2027",
             "resumen": "El Servicio de Biodiversidad y Áreas Protegidas destina $1.213 millones de su presupuesto 2026 a parques y reservas que hoy administra Conaf, para viviendas de guardaparques, agua, energía, vehículos e infraestructura de visitantes. Entre los sitios incluidos está Torres del Paine (abastecimiento de agua); el traspaso está previsto para el 1 de marzo de 2027.",
@@ -25,6 +13,13 @@
         }
     ],
     "decisiones": [
+        {
+            "id": "2026-11-16-harvard-datacenters-electricidad-emisiones-eeuu",
+            "estado": "publicada",
+            "categoria": "energias",
+            "alcance": "mundo",
+            "fecha": "2026-11-17T11:27:20+00:00"
+        },
         {
             "id": "2026-11-16-danstar-llega-punta-arenas-asmar",
             "estado": "publicada",
