@@ -1,33 +1,4 @@
 {
   "pendientes": [],
-  "decisiones": [
-    {
-      "id": "2026-11-16-sbap-inversion-areas-protegidas-chile",
-      "estado": "publicada",
-      "categoria": "medioambiente",
-      "alcance": "chile",
-      "fecha": "2026-11-17T11:27:30+00:00"
-    },
-    {
-      "id": "2026-11-16-harvard-datacenters-electricidad-emisiones-eeuu",
-      "estado": "publicada",
-      "categoria": "energias",
-      "alcance": "mundo",
-      "fecha": "2026-11-17T11:27:20+00:00"
-    },
-    {
-      "id": "2026-11-16-danstar-llega-punta-arenas-asmar",
-      "estado": "publicada",
-      "categoria": "industria",
-      "alcance": "magallanes",
-      "fecha": "2026-11-17T11:27:10+00:00"
-    },
-    {
-      "id": "2026-11-16-almirante-viel-reaprovisionamiento-bases-antarticas",
-      "estado": "publicada",
-      "categoria": "industria",
-      "alcance": "magallanes",
-      "fecha": "2026-11-17T11:27:05+00:00"
-    }
-  ]
+  "decisiones": []
 }
