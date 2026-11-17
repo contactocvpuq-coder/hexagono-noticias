@@ -12,6 +12,18 @@
         "seguimiento": "Antártica"
     },
     {
+        "id": "2026-11-16-harvard-datacenters-electricidad-emisiones-eeuu",
+        "titulo": "Estudio de Harvard: grandes datacenters de EE.UU. usan 1,8% de la electricidad y emiten como Dinamarca",
+        "resumen": "Un estudio publicado en Nature Sustainability analizó 403 centros de datos hiperescala de EE.UU. entre mayo de 2024 y abril de 2025: consumieron unos 82 TWh, cerca del 1,8% de la electricidad del país, y se les atribuyen unos 28 millones de toneladas de CO2. El 54% de esa energía provino de combustibles fósiles, sobre todo gas natural.",
+        "fecha": "2026-11-16",
+        "categoria": "energias",
+        "fuente": "Gizmodo",
+        "url": "https://gizmodo.com/scientists-finally-know-how-much-power-americas-biggest-data-centers-use-and-its-worse-than-we-thought-2000839941",
+        "traducida": true,
+        "alcance": "mundo",
+        "seguimiento": "Datacenters y emisiones"
+    },
+    {
         "id": "2026-11-16-danstar-llega-punta-arenas-asmar",
         "titulo": "Danstar llega a Punta Arenas y prepara en Asmar su zarpe a Falkland/Malvinas del 17 de diciembre",
         "resumen": "El buque Danstar arribó el 16 de noviembre a Punta Arenas, con retraso por mal tiempo, para trabajos técnicos en los astilleros de Asmar. Su zarpe a las islas está programado para el 17 de diciembre con alimentos, bienes de consumo y materiales de construcción, mientras Argentina mantiene su ofensiva contra el proyecto petrolero Sea Lion.",
