@@ -1,18 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-16-sbap-inversion-areas-protegidas-chile",
-            "titulo": "SBAP invierte más de US$1 millón en áreas protegidas antes de asumir su administración en 2027",
-            "resumen": "El Servicio de Biodiversidad y Áreas Protegidas destina $1.213 millones de su presupuesto 2026 a parques y reservas que hoy administra Conaf, para viviendas de guardaparques, agua, energía, vehículos e infraestructura de visitantes. Entre los sitios incluidos está Torres del Paine (abastecimiento de agua); el traspaso está previsto para el 1 de marzo de 2027.",
-            "fecha": "2026-11-16",
+            "estado": "publicada",
             "categoria": "medioambiente",
-            "fuente": "Portal Agro Chile",
-            "url": "https://www.portalagrochile.cl/2026/11/16/sbap-anticipa-inversion-de-mas-de-us1-millon-para-mejorar-areas-protegidas-en-todo-chile/",
             "alcance": "chile",
-            "traducida": false
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-17T11:27:30+00:00"
+        },
         {
             "id": "2026-11-16-harvard-datacenters-electricidad-emisiones-eeuu",
             "estado": "publicada",
