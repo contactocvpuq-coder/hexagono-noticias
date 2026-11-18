@@ -1,18 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-15-hotel-costa-australis-ampliacion-puerto-natales",
-            "titulo": "Hotel Costa Australis invertirá más de US$20 millones para llegar a 200 habitaciones en Puerto Natales",
-            "resumen": "El hotel de Puerto Natales pasará de 110 a 200 habitaciones e incorporará restaurante, salones y spa, lo que lo convertiría en el mayor de la Región de Magallanes. La ampliación apunta también al turismo antártico. Según la nota, en 2026 al menos 12 proyectos turísticos presentaron consultas ante el SEA, ocho de ellos en Torres del Paine.",
-            "fecha": "2026-11-15",
+            "estado": "publicada",
             "categoria": "industria",
-            "fuente": "La Prensa Austral",
-            "url": "https://laprensaaustral.cl/2026/11/15/hotel-costa-australis-invertira-mas-de-20-millones-de-dolares-para-duplicar-su-capacidad-de-habitaciones/",
             "alcance": "magallanes",
-            "traducida": false
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-18T10:45:34+00:00"
+        },
         {
             "id": "2026-11-17-hesperides-campana-antartica-punta-arenas",
             "estado": "publicada",
