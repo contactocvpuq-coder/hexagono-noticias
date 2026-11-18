@@ -1,4 +1,40 @@
 {
-  "pendientes": [],
+  "pendientes": [
+    {
+      "id": "2026-11-17-glaciar-union-equipo-avanzada-habilita-estacion",
+      "titulo": "Equipo de avanzada llega a Glaciar Unión y comienza a habilitar la estación antártica",
+      "resumen": "Un equipo encabezado por el comandante de grupo Víctor Yantén, de la FACh, llegó el 12 de noviembre a la Estación Polar Científica Conjunta Glaciar Unión, a 1.129 km del Polo Sur. Ya despejó la nieve de los módulos y restableció las telecomunicaciones. La estación recibirá esta temporada a 52 personas de INACH, las Fuerzas Armadas y la DGAC.",
+      "fecha": "2026-11-17",
+      "categoria": "industria",
+      "fuente": "La Prensa Austral",
+      "url": "https://laprensaaustral.cl/2026/11/17/equipo-de-avanzada-llega-al-glaciar-union-y-comienza-a-habilitar-la-estacion-antartica/",
+      "alcance": "magallanes",
+      "traducida": false,
+      "seguimiento": "Antártica"
+    },
+    {
+      "id": "2026-11-17-hesperides-campana-antartica-punta-arenas",
+      "titulo": "Buque español Hespérides inicia su 31.ª campaña antártica con escala en Punta Arenas",
+      "resumen": "El buque oceanográfico Hespérides de la Armada española zarpó de Cartagena para una campaña de más de cuatro meses en apoyo de las bases Juan Carlos I y Gabriel de Castilla. Tras escalas en Río de Janeiro y Punta Arenas operará en las islas Livingston y Decepción, y cruzará hasta seis veces el mar de Hoces. Volverá a España en abril de 2027.",
+      "fecha": "2026-11-17",
+      "categoria": "industria",
+      "fuente": "Infodefensa",
+      "url": "https://www.infodefensa.com/texto-diario/mostrar/6094309/buque-hesperides-armada-inicia-nueva-campana-antartica-cruzara-seis-veces-peligroso-mar-hoces",
+      "alcance": "mundo",
+      "traducida": false,
+      "seguimiento": "Antártica"
+    },
+    {
+      "id": "2026-11-15-hotel-costa-australis-ampliacion-puerto-natales",
+      "titulo": "Hotel Costa Australis invertirá más de US$20 millones para llegar a 200 habitaciones en Puerto Natales",
+      "resumen": "El hotel de Puerto Natales pasará de 110 a 200 habitaciones e incorporará restaurante, salones y spa, lo que lo convertiría en el mayor de la Región de Magallanes. La ampliación apunta también al turismo antártico. Según la nota, en 2026 al menos 12 proyectos turísticos presentaron consultas ante el SEA, ocho de ellos en Torres del Paine.",
+      "fecha": "2026-11-15",
+      "categoria": "industria",
+      "fuente": "La Prensa Austral",
+      "url": "https://laprensaaustral.cl/2026/11/15/hotel-costa-australis-invertira-mas-de-20-millones-de-dolares-para-duplicar-su-capacidad-de-habitaciones/",
+      "alcance": "magallanes",
+      "traducida": false
+    }
+  ],
   "decisiones": []
 }
