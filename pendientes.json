@@ -1,26 +1,4 @@
 {
   "pendientes": [],
-  "decisiones": [
-    {
-      "id": "2026-11-16-sir-david-attenborough-zarpa-antartica-temporada-bas",
-      "estado": "publicada",
-      "categoria": "industria",
-      "alcance": "mundo",
-      "fecha": "2026-11-19T11:11:06+00:00"
-    },
-    {
-      "id": "2026-11-17-gascade-hyrow-hidroducto-rostock-tramitacion",
-      "estado": "publicada",
-      "categoria": "energias",
-      "alcance": "mundo",
-      "fecha": "2026-11-19T11:10:47+00:00"
-    },
-    {
-      "id": "2026-11-18-delegacion-iurc-mexico-finlandia-portugal-gobernador-flies",
-      "estado": "publicada",
-      "categoria": "energias",
-      "alcance": "magallanes",
-      "fecha": "2026-11-19T11:10:36+00:00"
-    }
-  ]
+  "decisiones": []
 }
