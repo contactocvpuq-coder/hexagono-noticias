@@ -1,19 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-16-sir-david-attenborough-zarpa-antartica-temporada-bas",
-            "titulo": "Buque polar británico Sir David Attenborough zarpa de Montevideo e inicia la temporada antártica",
-            "resumen": "El RRS Sir David Attenborough salió de Montevideo el 14 de noviembre rumbo a la isla Signy (Orcadas del Sur) para la temporada 2026/27 del British Antarctic Survey. Su calendario prevé Rothera entre el 28 de noviembre y el 4 de diciembre y escala en las Falkland/Malvinas del 8 al 13 de diciembre. Este año el Reino Unido no contará con el patrullero HMS Protector.",
-            "fecha": "2026-11-16",
+            "estado": "publicada",
             "categoria": "industria",
-            "fuente": "MercoPress",
-            "url": "https://en.mercopress.com/2026/11/16/british-polar-ship-sir-david-attenborough-sails-from-montevideo-for-antarctica",
             "alcance": "mundo",
-            "traducida": true,
-            "seguimiento": "Antártica"
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-19T11:11:06+00:00"
+        },
         {
             "id": "2026-11-17-gascade-hyrow-hidroducto-rostock-tramitacion",
             "estado": "publicada",
