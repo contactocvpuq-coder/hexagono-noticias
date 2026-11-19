@@ -1,4 +1,39 @@
 {
-  "pendientes": [],
+  "pendientes": [
+    {
+      "id": "2026-11-18-delegacion-iurc-mexico-finlandia-portugal-gobernador-flies",
+      "titulo": "Delegación de México, Finlandia y Portugal analiza energía y puertos con el gobernador de Magallanes",
+      "resumen": "Representantes del programa europeo de cooperación urbana y regional IURC, entre ellos el alcalde de Sines (Portugal) y agencias de Yucatán y Ostrobotnia, se reunieron con el gobernador Jorge Flies en Punta Arenas. Conversaron sobre energías renovables, hidrógeno verde, desarrollo portuario, sostenibilidad alimentaria e intercambios con la Universidad de Magallanes.",
+      "fecha": "2026-11-18",
+      "categoria": "energias",
+      "fuente": "El Pingüino",
+      "url": "https://www.elpinguino.com/politica/delegacion-internacional-de-mexico-finlandia-y-portugal-se-reune-con-el-gobernador-jorge-flies-en-punta-arenas/",
+      "alcance": "magallanes",
+      "traducida": false
+    },
+    {
+      "id": "2026-11-17-gascade-hyrow-hidroducto-rostock-tramitacion",
+      "titulo": "Alemania: Gascade inicia la tramitación del hidroducto HYROW de unos 115 km desde Rostock",
+      "resumen": "El operador Gascade comenzó el proceso de aprobación del hidroducto HYROW, parte de la red troncal alemana de hidrógeno, que unirá el puerto de Rostock con Wrangelsburg en Pomerania Occidental. La línea, de cerca de un metro de diámetro, conectará polos industriales al eje norte-sur Flow; la construcción se prevé desde 2027 y la puesta en marcha a fines de 2028.",
+      "fecha": "2026-11-17",
+      "categoria": "energias",
+      "fuente": "Quantum Commodity Intelligence / Nordkurier",
+      "url": "https://www.qcintel.com/hydrogen/article/gascade-begins-planning-approval-process-for-hyrow-hydrogen-pipeline-77746.html",
+      "alcance": "mundo",
+      "traducida": true
+    },
+    {
+      "id": "2026-11-16-sir-david-attenborough-zarpa-antartica-temporada-bas",
+      "titulo": "Buque polar británico Sir David Attenborough zarpa de Montevideo e inicia la temporada antártica",
+      "resumen": "El RRS Sir David Attenborough salió de Montevideo el 14 de noviembre rumbo a la isla Signy (Orcadas del Sur) para la temporada 2026/27 del British Antarctic Survey. Su calendario prevé Rothera entre el 28 de noviembre y el 4 de diciembre y escala en las Falkland/Malvinas del 8 al 13 de diciembre. Este año el Reino Unido no contará con el patrullero HMS Protector.",
+      "fecha": "2026-11-16",
+      "categoria": "industria",
+      "fuente": "MercoPress",
+      "url": "https://en.mercopress.com/2026/11/16/british-polar-ship-sir-david-attenborough-sails-from-montevideo-for-antarctica",
+      "alcance": "mundo",
+      "traducida": true,
+      "seguimiento": "Antártica"
+    }
+  ],
   "decisiones": []
 }
