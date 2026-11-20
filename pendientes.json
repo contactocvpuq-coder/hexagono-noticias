@@ -1,26 +1,4 @@
 {
   "pendientes": [],
-  "decisiones": [
-    {
-      "id": "2026-11-19-plan-chile-despega-1773-empleos-magallanes",
-      "estado": "publicada",
-      "categoria": "industria",
-      "alcance": "magallanes",
-      "fecha": "2026-11-20T12:12:38+00:00"
-    },
-    {
-      "id": "2026-11-19-ejercito-glaciar-union-exploracion-vinson",
-      "estado": "publicada",
-      "categoria": "industria",
-      "alcance": "magallanes",
-      "fecha": "2026-11-20T12:12:22+00:00"
-    },
-    {
-      "id": "2026-11-19-base-escudero-65-menos-diesel-viento-sol-h2v",
-      "estado": "publicada",
-      "categoria": "energias",
-      "alcance": "magallanes",
-      "fecha": "2026-11-20T12:12:10+00:00"
-    }
-  ]
+  "decisiones": []
 }
