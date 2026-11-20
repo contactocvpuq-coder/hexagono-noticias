@@ -1,4 +1,40 @@
 {
-  "pendientes": [],
+  "pendientes": [
+    {
+      "id": "2026-11-19-base-escudero-65-menos-diesel-viento-sol-h2v",
+      "titulo": "Base antártica Escudero podría reducir 65% su consumo de diésel con viento, sol e hidrógeno verde",
+      "resumen": "Un proyecto piloto de GIZ busca abastecer la base Profesor Julio Escudero de INACH, en isla Rey Jorge, con ocho pequeños aerogeneradores, baterías y electrolizadores, con 20 años de vida útil. Sus impulsores esperan la aprobación técnica del Ministerio de Energía antes de fin de año, paso previo a buscar financiamiento, y el Gobierno Regional evaluará apoyarlo.",
+      "fecha": "2026-11-19",
+      "categoria": "energias",
+      "fuente": "La Prensa Austral",
+      "url": "https://laprensaaustral.cl/2026/11/19/base-antartica-escudero-podria-reducir-en-65-su-consumo-de-diesel-con-viento-sol-e-hidrogeno-verde/",
+      "alcance": "magallanes",
+      "traducida": false,
+      "seguimiento": "Antártica"
+    },
+    {
+      "id": "2026-11-19-ejercito-glaciar-union-exploracion-vinson",
+      "titulo": "Ejército apoyará exploración y ciencia en la XI campaña de la estación Glaciar Unión",
+      "resumen": "Doce especialistas del Ejército participan en la XI campaña de la Estación Polar Científica Conjunta Glaciar Unión, a más de 1.100 km del Polo Sur, que reúne a 52 personas de los cuatro operadores antárticos del Estado. Harán reconocimiento de rutas y grietas, y un ascenso al monte Vinson (4.892 m) con investigadores de INACH para instalar instrumentos atmosféricos.",
+      "fecha": "2026-11-19",
+      "categoria": "industria",
+      "fuente": "Radio Polar",
+      "url": "https://www.radiopolar.com/exploraciones-apoyo-ciencia-marcaran-participacion-ejercito-glaciar-union",
+      "alcance": "magallanes",
+      "traducida": false,
+      "seguimiento": "Antártica"
+    },
+    {
+      "id": "2026-11-19-plan-chile-despega-1773-empleos-magallanes",
+      "titulo": "Plan Chile Despega proyecta 1.773 empleos en Magallanes con obras del MOP y Minvu",
+      "resumen": "Según el Gobierno, la cartera regional del MOP suma 12 proyectos por $14.905 millones y 898 empleos, incluida la pista del aeródromo de Cerro Castillo ($5.908 millones). El Minvu proyecta 875 empleos, con unos 200 más ligados a proyectos pendientes como El Trébol D en Punta Arenas (185 viviendas).",
+      "fecha": "2026-11-19",
+      "categoria": "industria",
+      "fuente": "Ovejero Noticias",
+      "url": "https://www.ovejeronoticias.cl/2026/11/1-773-empleos-proyecta-el-plan-chile-despega-en-la-region-de-magallanes/",
+      "alcance": "magallanes",
+      "traducida": false
+    }
+  ],
   "decisiones": []
 }
