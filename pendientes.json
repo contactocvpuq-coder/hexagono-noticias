@@ -1,18 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-19-plan-chile-despega-1773-empleos-magallanes",
-            "titulo": "Plan Chile Despega proyecta 1.773 empleos en Magallanes con obras del MOP y Minvu",
-            "resumen": "Según el Gobierno, la cartera regional del MOP suma 12 proyectos por $14.905 millones y 898 empleos, incluida la pista del aeródromo de Cerro Castillo ($5.908 millones). El Minvu proyecta 875 empleos, con unos 200 más ligados a proyectos pendientes como El Trébol D en Punta Arenas (185 viviendas).",
-            "fecha": "2026-11-19",
+            "estado": "publicada",
             "categoria": "industria",
-            "fuente": "Ovejero Noticias",
-            "url": "https://www.ovejeronoticias.cl/2026/11/1-773-empleos-proyecta-el-plan-chile-despega-en-la-region-de-magallanes/",
             "alcance": "magallanes",
-            "traducida": false
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-20T12:12:38+00:00"
+        },
         {
             "id": "2026-11-19-ejercito-glaciar-union-exploracion-vinson",
             "estado": "publicada",
