@@ -1,17 +1,6 @@
 {
     "pendientes": [
         {
-            "id": "2026-11-20-freno-inversiones-megaproyectos-h2v-magallanes",
-            "titulo": "Freno a las inversiones mantiene en pausa los megaproyectos de hidrógeno verde en Magallanes",
-            "resumen": "Tras el retiro de H2 Magallanes de TotalEnergies (US$16.000 millones), se suman las pausas de EVA de EDF e INNA de AES Andes, y HNH Energy cerró su oficina pese a tener aprobación ambiental. HIF Global tiene permisos para Cabo Negro y Faro del Sur, pero sin decisión final de inversión. De 77 iniciativas anunciadas, ninguna ha llegado a esa etapa.",
-            "fecha": "2026-11-20",
-            "categoria": "energias",
-            "fuente": "Diario Financiero",
-            "url": "https://www.df.cl/senal-df/el-deal/freno-a-las-inversiones-mantiene-en-vilo-a-los-megaproyectos-de-hidrogeno",
-            "alcance": "magallanes",
-            "traducida": false
-        },
-        {
             "id": "2026-11-20-mesa-regional-infraestructura-magallanes",
             "titulo": "Se constituye la primera Mesa Regional de Infraestructura de Magallanes para acelerar proyectos estratégicos",
             "resumen": "La instancia, liderada por la Seremi de Obras Públicas con la Dirección de Planeamiento como secretaría técnica, reúne a los servicios públicos regionales para coordinar la planificación y el seguimiento de las inversiones del Estado e identificar cuellos de botella. Busca alinear las prioridades locales con el Plan Nacional de Infraestructura Pública.",
@@ -24,6 +13,13 @@
         }
     ],
     "decisiones": [
+        {
+            "id": "2026-11-20-freno-inversiones-megaproyectos-h2v-magallanes",
+            "estado": "publicada",
+            "categoria": "energias",
+            "alcance": "magallanes",
+            "fecha": "2026-11-21T11:36:25+00:00"
+        },
         {
             "id": "2026-11-20-espana-real-decreto-centros-datos-80-renovables",
             "estado": "publicada",
