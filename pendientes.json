@@ -1,26 +1,26 @@
 {
-    "pendientes": [],
-    "decisiones": [
-        {
-            "id": "2026-11-20-mesa-regional-infraestructura-magallanes",
-            "estado": "publicada",
-            "categoria": "industria",
-            "alcance": "magallanes",
-            "fecha": "2026-11-21T11:36:33+00:00"
-        },
-        {
-            "id": "2026-11-20-freno-inversiones-megaproyectos-h2v-magallanes",
-            "estado": "publicada",
-            "categoria": "energias",
-            "alcance": "magallanes",
-            "fecha": "2026-11-21T11:36:25+00:00"
-        },
-        {
-            "id": "2026-11-20-espana-real-decreto-centros-datos-80-renovables",
-            "estado": "publicada",
-            "categoria": "energias",
-            "alcance": "mundo",
-            "fecha": "2026-11-21T11:36:02+00:00"
-        }
-    ]
+  "pendientes": [],
+  "decisiones": [
+    {
+      "id": "2026-11-20-mesa-regional-infraestructura-magallanes",
+      "estado": "publicada",
+      "categoria": "industria",
+      "alcance": "magallanes",
+      "fecha": "2026-11-21T11:36:33+00:00"
+    },
+    {
+      "id": "2026-11-20-freno-inversiones-megaproyectos-h2v-magallanes",
+      "estado": "publicada",
+      "categoria": "energias",
+      "alcance": "magallanes",
+      "fecha": "2026-11-21T11:36:25+00:00"
+    },
+    {
+      "id": "2026-11-20-espana-real-decreto-centros-datos-80-renovables",
+      "estado": "publicada",
+      "categoria": "energias",
+      "alcance": "mundo",
+      "fecha": "2026-11-21T11:36:02+00:00"
+    }
+  ]
 }
