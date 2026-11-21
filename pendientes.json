@@ -1,39 +1,35 @@
 {
-  "pendientes": [
-    {
-      "id": "2026-11-20-espana-real-decreto-centros-datos-80-renovables",
-      "titulo": "España aprueba decreto que exige a centros de datos 80% de energía renovable y limita su consumo de agua",
-      "resumen": "El Consejo de Ministros aprobó un real decreto para centros de datos de 10 MW o más: deberán acreditar 80% de consumo renovable con casación horaria y no superar 0,1 litros de agua por kWh. Madrid y Aragón anunciaron recursos judiciales y la patronal SpainDC estima en riesgo inversiones por 67.000 millones de euros.",
-      "fecha": "2026-11-20",
-      "categoria": "energias",
-      "fuente": "Qué!",
-      "url": "https://www.que.es/2026/11/20/real-decreto-centros-datos-luz-2030/",
-      "alcance": "mundo",
-      "traducida": false,
-      "seguimiento": "Datacenters y emisiones"
-    },
-    {
-      "id": "2026-11-20-freno-inversiones-megaproyectos-h2v-magallanes",
-      "titulo": "Freno a las inversiones mantiene en pausa los megaproyectos de hidrógeno verde en Magallanes",
-      "resumen": "Tras el retiro de H2 Magallanes de TotalEnergies (US$16.000 millones), se suman las pausas de EVA de EDF e INNA de AES Andes, y HNH Energy cerró su oficina pese a tener aprobación ambiental. HIF Global tiene permisos para Cabo Negro y Faro del Sur, pero sin decisión final de inversión. De 77 iniciativas anunciadas, ninguna ha llegado a esa etapa.",
-      "fecha": "2026-11-20",
-      "categoria": "energias",
-      "fuente": "Diario Financiero",
-      "url": "https://www.df.cl/senal-df/el-deal/freno-a-las-inversiones-mantiene-en-vilo-a-los-megaproyectos-de-hidrogeno",
-      "alcance": "magallanes",
-      "traducida": false
-    },
-    {
-      "id": "2026-11-20-mesa-regional-infraestructura-magallanes",
-      "titulo": "Se constituye la primera Mesa Regional de Infraestructura de Magallanes para acelerar proyectos estratégicos",
-      "resumen": "La instancia, liderada por la Seremi de Obras Públicas con la Dirección de Planeamiento como secretaría técnica, reúne a los servicios públicos regionales para coordinar la planificación y el seguimiento de las inversiones del Estado e identificar cuellos de botella. Busca alinear las prioridades locales con el Plan Nacional de Infraestructura Pública.",
-      "fecha": "2026-11-20",
-      "categoria": "industria",
-      "fuente": "Ovejero Noticias",
-      "url": "https://www.ovejeronoticias.cl/2026/11/se-constituyo-la-primera-mesa-regional-de-infraestructura-en-magallanes-para-acelerar-proyectos-estrategicos-y-fortalecer-la-conectividad/",
-      "alcance": "magallanes",
-      "traducida": false
-    }
-  ],
-  "decisiones": []
+    "pendientes": [
+        {
+            "id": "2026-11-20-freno-inversiones-megaproyectos-h2v-magallanes",
+            "titulo": "Freno a las inversiones mantiene en pausa los megaproyectos de hidrógeno verde en Magallanes",
+            "resumen": "Tras el retiro de H2 Magallanes de TotalEnergies (US$16.000 millones), se suman las pausas de EVA de EDF e INNA de AES Andes, y HNH Energy cerró su oficina pese a tener aprobación ambiental. HIF Global tiene permisos para Cabo Negro y Faro del Sur, pero sin decisión final de inversión. De 77 iniciativas anunciadas, ninguna ha llegado a esa etapa.",
+            "fecha": "2026-11-20",
+            "categoria": "energias",
+            "fuente": "Diario Financiero",
+            "url": "https://www.df.cl/senal-df/el-deal/freno-a-las-inversiones-mantiene-en-vilo-a-los-megaproyectos-de-hidrogeno",
+            "alcance": "magallanes",
+            "traducida": false
+        },
+        {
+            "id": "2026-11-20-mesa-regional-infraestructura-magallanes",
+            "titulo": "Se constituye la primera Mesa Regional de Infraestructura de Magallanes para acelerar proyectos estratégicos",
+            "resumen": "La instancia, liderada por la Seremi de Obras Públicas con la Dirección de Planeamiento como secretaría técnica, reúne a los servicios públicos regionales para coordinar la planificación y el seguimiento de las inversiones del Estado e identificar cuellos de botella. Busca alinear las prioridades locales con el Plan Nacional de Infraestructura Pública.",
+            "fecha": "2026-11-20",
+            "categoria": "industria",
+            "fuente": "Ovejero Noticias",
+            "url": "https://www.ovejeronoticias.cl/2026/11/se-constituyo-la-primera-mesa-regional-de-infraestructura-en-magallanes-para-acelerar-proyectos-estrategicos-y-fortalecer-la-conectividad/",
+            "alcance": "magallanes",
+            "traducida": false
+        }
+    ],
+    "decisiones": [
+        {
+            "id": "2026-11-20-espana-real-decreto-centros-datos-80-renovables",
+            "estado": "publicada",
+            "categoria": "energias",
+            "alcance": "mundo",
+            "fecha": "2026-11-21T11:36:02+00:00"
+        }
+    ]
 }
