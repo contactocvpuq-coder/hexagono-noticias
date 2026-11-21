@@ -1,18 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-20-mesa-regional-infraestructura-magallanes",
-            "titulo": "Se constituye la primera Mesa Regional de Infraestructura de Magallanes para acelerar proyectos estratégicos",
-            "resumen": "La instancia, liderada por la Seremi de Obras Públicas con la Dirección de Planeamiento como secretaría técnica, reúne a los servicios públicos regionales para coordinar la planificación y el seguimiento de las inversiones del Estado e identificar cuellos de botella. Busca alinear las prioridades locales con el Plan Nacional de Infraestructura Pública.",
-            "fecha": "2026-11-20",
+            "estado": "publicada",
             "categoria": "industria",
-            "fuente": "Ovejero Noticias",
-            "url": "https://www.ovejeronoticias.cl/2026/11/se-constituyo-la-primera-mesa-regional-de-infraestructura-en-magallanes-para-acelerar-proyectos-estrategicos-y-fortalecer-la-conectividad/",
             "alcance": "magallanes",
-            "traducida": false
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-21T11:36:33+00:00"
+        },
         {
             "id": "2026-11-20-freno-inversiones-megaproyectos-h2v-magallanes",
             "estado": "publicada",
