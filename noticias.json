@@ -1,5 +1,16 @@
 [
   {
+    "id": "2026-11-22-boom-chileno-hidrogeno-verde-se-aleja",
+    "titulo": "El boom chileno del hidrógeno verde se aleja cada vez más",
+    "resumen": "La Tercera aborda el enfriamiento de la industria del hidrógeno verde en Chile. El contexto: TotalEnergies retiró H2 Magallanes (US$16.000 millones) por falta de contratos de compra y costos de equipos, EVA de EDF e INNA de AES Andes están en pausa, y de 77 iniciativas anunciadas ninguna ha tomado decisión final de inversión.",
+    "fecha": "2026-11-22",
+    "categoria": "energias",
+    "fuente": "La Tercera",
+    "url": "https://www.latercera.com/pulso/noticia/el-hidrogeno-verde-se-aleja-cada-vez-mas-del-boom-hidrogeno-verde-crecientemente-necesario-pero-cada-vez-mas-lejano/",
+    "traducida": false,
+    "alcance": "chile"
+  },
+  {
     "id": "2026-11-21-meta-revisa-meta-cero-emisiones-2030-centros-datos-ia",
     "titulo": "Meta revisará los plazos de su meta cero emisiones 2030 por el auge de sus centros de datos de IA",
     "resumen": "El informe de sostenibilidad 2026 de Meta, del 19 de noviembre, anuncia que revisará plazos, hitos intermedios y metas de intensidad de emisiones, aunque no fija una nueva fecha ni abandona el objetivo 2030. El aumento relativo de sus emisiones es el mayor entre las grandes tecnológicas de IA, por delante de Microsoft, Google y Amazon.",
