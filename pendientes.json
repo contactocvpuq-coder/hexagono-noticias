@@ -1,19 +1,19 @@
 {
-    "pendientes": [],
-    "decisiones": [
-        {
-            "id": "2026-11-20-armada-hielo-vi-campana-aeronaval-antartica",
-            "estado": "publicada",
-            "categoria": "innovacion",
-            "alcance": "magallanes",
-            "fecha": "2026-11-22T11:55:52+00:00"
-        },
-        {
-            "id": "2026-11-21-meta-revisa-meta-cero-emisiones-2030-centros-datos-ia",
-            "estado": "publicada",
-            "categoria": "energias",
-            "alcance": "mundo",
-            "fecha": "2026-11-22T11:55:39+00:00"
-        }
-    ]
+  "pendientes": [],
+  "decisiones": [
+    {
+      "id": "2026-11-20-armada-hielo-vi-campana-aeronaval-antartica",
+      "estado": "publicada",
+      "categoria": "innovacion",
+      "alcance": "magallanes",
+      "fecha": "2026-11-22T11:55:52+00:00"
+    },
+    {
+      "id": "2026-11-21-meta-revisa-meta-cero-emisiones-2030-centros-datos-ia",
+      "estado": "publicada",
+      "categoria": "energias",
+      "alcance": "mundo",
+      "fecha": "2026-11-22T11:55:39+00:00"
+    }
+  ]
 }
