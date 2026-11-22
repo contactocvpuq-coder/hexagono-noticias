@@ -1,29 +1,25 @@
 {
-  "pendientes": [
-    {
-      "id": "2026-11-21-meta-revisa-meta-cero-emisiones-2030-centros-datos-ia",
-      "titulo": "Meta revisará los plazos de su meta cero emisiones 2030 por el auge de sus centros de datos de IA",
-      "resumen": "El informe de sostenibilidad 2026 de Meta, del 19 de noviembre, anuncia que revisará plazos, hitos intermedios y metas de intensidad de emisiones, aunque no fija una nueva fecha ni abandona el objetivo 2030. El aumento relativo de sus emisiones es el mayor entre las grandes tecnológicas de IA, por delante de Microsoft, Google y Amazon.",
-      "fecha": "2026-11-21",
-      "categoria": "energias",
-      "fuente": "Moncloa.com",
-      "url": "https://www.moncloa.com/2026/11/21/meta-cero-emisiones-ia-centros-datos-3472316/",
-      "alcance": "mundo",
-      "traducida": false,
-      "seguimiento": "Datacenters y emisiones"
-    },
-    {
-      "id": "2026-11-20-armada-hielo-vi-campana-aeronaval-antartica",
-      "titulo": "Armada completa misión aeronaval Hielo VI para medir glaciares y hielo marino antártico",
-      "resumen": "La Armada de Chile y el Instituto de Ciencia y Exploración completaron la sexta campaña aeronaval antártica, Hielo VI. El avión naval P-3 Orión, equipado con instrumentos desarrollados en Chile, hizo dos vuelos de unas 10 horas y 5.000 km entre Punta Arenas y la Península Antártica para recoger datos de glaciares, plataformas de hielo y hielo marino.",
-      "fecha": "2026-11-20",
-      "categoria": "innovacion",
-      "fuente": "G5 Noticias",
-      "url": "https://g5noticias.cl/2026/11/20/armada-e-instituto-de-ciencia-completan-sexta-campana-aeronaval-antartica-para-estudiar-glaciares-y-hielo-marino/",
-      "alcance": "magallanes",
-      "traducida": false,
-      "seguimiento": "Antártica"
-    }
-  ],
-  "decisiones": []
+    "pendientes": [
+        {
+            "id": "2026-11-20-armada-hielo-vi-campana-aeronaval-antartica",
+            "titulo": "Armada completa misión aeronaval Hielo VI para medir glaciares y hielo marino antártico",
+            "resumen": "La Armada de Chile y el Instituto de Ciencia y Exploración completaron la sexta campaña aeronaval antártica, Hielo VI. El avión naval P-3 Orión, equipado con instrumentos desarrollados en Chile, hizo dos vuelos de unas 10 horas y 5.000 km entre Punta Arenas y la Península Antártica para recoger datos de glaciares, plataformas de hielo y hielo marino.",
+            "fecha": "2026-11-20",
+            "categoria": "innovacion",
+            "fuente": "G5 Noticias",
+            "url": "https://g5noticias.cl/2026/11/20/armada-e-instituto-de-ciencia-completan-sexta-campana-aeronaval-antartica-para-estudiar-glaciares-y-hielo-marino/",
+            "alcance": "magallanes",
+            "traducida": false,
+            "seguimiento": "Antártica"
+        }
+    ],
+    "decisiones": [
+        {
+            "id": "2026-11-21-meta-revisa-meta-cero-emisiones-2030-centros-datos-ia",
+            "estado": "publicada",
+            "categoria": "energias",
+            "alcance": "mundo",
+            "fecha": "2026-11-22T11:55:39+00:00"
+        }
+    ]
 }
