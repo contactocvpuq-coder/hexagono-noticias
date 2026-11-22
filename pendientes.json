@@ -1,19 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-20-armada-hielo-vi-campana-aeronaval-antartica",
-            "titulo": "Armada completa misión aeronaval Hielo VI para medir glaciares y hielo marino antártico",
-            "resumen": "La Armada de Chile y el Instituto de Ciencia y Exploración completaron la sexta campaña aeronaval antártica, Hielo VI. El avión naval P-3 Orión, equipado con instrumentos desarrollados en Chile, hizo dos vuelos de unas 10 horas y 5.000 km entre Punta Arenas y la Península Antártica para recoger datos de glaciares, plataformas de hielo y hielo marino.",
-            "fecha": "2026-11-20",
+            "estado": "publicada",
             "categoria": "innovacion",
-            "fuente": "G5 Noticias",
-            "url": "https://g5noticias.cl/2026/11/20/armada-e-instituto-de-ciencia-completan-sexta-campana-aeronaval-antartica-para-estudiar-glaciares-y-hielo-marino/",
             "alcance": "magallanes",
-            "traducida": false,
-            "seguimiento": "Antártica"
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-22T11:55:52+00:00"
+        },
         {
             "id": "2026-11-21-meta-revisa-meta-cero-emisiones-2030-centros-datos-ia",
             "estado": "publicada",
