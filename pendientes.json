@@ -1,51 +1,48 @@
 {
-  "pendientes": [
-    {
-      "id": "2026-11-23-wood-mackenzie-captura-carbono-fase-seleccion",
-      "titulo": "Wood Mackenzie: la captura de carbono pasa de los anuncios a una selección por viabilidad comercial",
-      "resumen": "Un análisis de Wood Mackenzie, basado en su conferencia CCUS de Houston, plantea que el sector entra en una fase en que la pregunta es qué proyectos llegan a decisión final de inversión. La escala y la rentabilidad pesan más que la técnica, y la durabilidad de ingresos como el crédito 45Q de EE.UU. es clave.",
-      "fecha": "2026-11-23",
-      "categoria": "energias",
-      "fuente": "H2 Business News",
-      "url": "https://h2businessnews.com/wood-mackenzie-la-industria-de-la-captura-de-carbono-entra-en-una-fase-de-seleccion-dominada-por-la-viabilidad-comercial/",
-      "alcance": "mundo",
-      "traducida": false
-    },
-    {
-      "id": "2026-11-22-danstar-zarpe-punta-arenas-llegada-stanley-derecho-maritimo",
-      "titulo": "Danstar pedirá solo zarpe en Punta Arenas y arribo en Stanley para su ruta a las Falkland/Malvinas",
-      "resumen": "Easter Island Logistics informó que el carguero chileno Danstar seguirá el derecho marítimo internacional y tramitará solo el zarpe desde Punta Arenas y la llegada a Stanley. El buque está en mantención en ASMAR y operaría desde mediados de diciembre en una ruta de unos 900 km, con alimentos, gas licuado y materiales de construcción.",
-      "fecha": "2026-11-22",
-      "categoria": "industria",
-      "fuente": "MercoPress",
-      "url": "https://en.mercopress.com/2026/11/22/danstar-to-follow-international-maritime-law-will-seek-clearance-only-for-punta-arenas-departure-and-stanley-arrival",
-      "alcance": "magallanes",
-      "traducida": true,
-      "seguimiento": "Falkland / Malvinas"
-    },
-    {
-      "id": "2026-11-22-falkland-comite-cuentas-publicas-puerto-contratos",
-      "titulo": "Falkland/Malvinas: comité fiscalizará el nuevo puerto, el hangar de FIGAS y tres contratos públicos",
-      "resumen": "El Comité de Cuentas Públicas de las Falkland/Malvinas anunció su programa de control 2026/27, que en los próximos dos meses revisará dos obras y tres contratos. Incluye el hangar de FIGAS, el proyecto de nuevo puerto, el arriendo de cinco grúas y los contratos con RSK y Ramboll, y pidió aportes de la comunidad.",
-      "fecha": "2026-11-22",
-      "categoria": "industria",
-      "fuente": "MercoPress",
-      "url": "https://en.mercopress.com/2026/11/22/falklands-public-accounts-committee-to-scrutinize-several-contracts-and-projects",
-      "alcance": "mundo",
-      "traducida": true,
-      "seguimiento": "Falkland / Malvinas"
-    },
-    {
-      "id": "2026-11-22-humberto-vidal-magallanes-giro-amoniaco-fertilizantes",
-      "titulo": "Experto de UMAG descarta fuga de inversionistas en Magallanes y ve giro del H2V hacia amoníaco para fertilizantes",
-      "resumen": "Tras la salida de TotalEnergies, Humberto Vidal, director del CERE de la Universidad de Magallanes, afirmó que los inversionistas hacen una pausa por la incertidumbre geopolítica y no abandonan la región. Según Vidal, nueve de diez empresas internacionales que exploran Magallanes apuntan solo al amoníaco, impulsado por la cadena gas-fertilizantes-alimentos.",
-      "fecha": "2026-11-22",
-      "categoria": "energias",
-      "fuente": "El Pingüino",
-      "url": "https://www.elpinguino.com/cronica/dr-humberto-vidal-descarta-exodo-de-inversionistas-en-magallanes-y-proyecta-giro-hacia-el-amoniaco-para-fertilizantes/",
-      "alcance": "magallanes",
-      "traducida": false
-    }
-  ],
-  "decisiones": []
+    "pendientes": [
+        {
+            "id": "2026-11-22-danstar-zarpe-punta-arenas-llegada-stanley-derecho-maritimo",
+            "titulo": "Danstar pedirá solo zarpe en Punta Arenas y arribo en Stanley para su ruta a las Falkland/Malvinas",
+            "resumen": "Easter Island Logistics informó que el carguero chileno Danstar seguirá el derecho marítimo internacional y tramitará solo el zarpe desde Punta Arenas y la llegada a Stanley. El buque está en mantención en ASMAR y operaría desde mediados de diciembre en una ruta de unos 900 km, con alimentos, gas licuado y materiales de construcción.",
+            "fecha": "2026-11-22",
+            "categoria": "industria",
+            "fuente": "MercoPress",
+            "url": "https://en.mercopress.com/2026/11/22/danstar-to-follow-international-maritime-law-will-seek-clearance-only-for-punta-arenas-departure-and-stanley-arrival",
+            "alcance": "magallanes",
+            "traducida": true,
+            "seguimiento": "Falkland / Malvinas"
+        },
+        {
+            "id": "2026-11-22-falkland-comite-cuentas-publicas-puerto-contratos",
+            "titulo": "Falkland/Malvinas: comité fiscalizará el nuevo puerto, el hangar de FIGAS y tres contratos públicos",
+            "resumen": "El Comité de Cuentas Públicas de las Falkland/Malvinas anunció su programa de control 2026/27, que en los próximos dos meses revisará dos obras y tres contratos. Incluye el hangar de FIGAS, el proyecto de nuevo puerto, el arriendo de cinco grúas y los contratos con RSK y Ramboll, y pidió aportes de la comunidad.",
+            "fecha": "2026-11-22",
+            "categoria": "industria",
+            "fuente": "MercoPress",
+            "url": "https://en.mercopress.com/2026/11/22/falklands-public-accounts-committee-to-scrutinize-several-contracts-and-projects",
+            "alcance": "mundo",
+            "traducida": true,
+            "seguimiento": "Falkland / Malvinas"
+        },
+        {
+            "id": "2026-11-22-humberto-vidal-magallanes-giro-amoniaco-fertilizantes",
+            "titulo": "Experto de UMAG descarta fuga de inversionistas en Magallanes y ve giro del H2V hacia amoníaco para fertilizantes",
+            "resumen": "Tras la salida de TotalEnergies, Humberto Vidal, director del CERE de la Universidad de Magallanes, afirmó que los inversionistas hacen una pausa por la incertidumbre geopolítica y no abandonan la región. Según Vidal, nueve de diez empresas internacionales que exploran Magallanes apuntan solo al amoníaco, impulsado por la cadena gas-fertilizantes-alimentos.",
+            "fecha": "2026-11-22",
+            "categoria": "energias",
+            "fuente": "El Pingüino",
+            "url": "https://www.elpinguino.com/cronica/dr-humberto-vidal-descarta-exodo-de-inversionistas-en-magallanes-y-proyecta-giro-hacia-el-amoniaco-para-fertilizantes/",
+            "alcance": "magallanes",
+            "traducida": false
+        }
+    ],
+    "decisiones": [
+        {
+            "id": "2026-11-23-wood-mackenzie-captura-carbono-fase-seleccion",
+            "estado": "publicada",
+            "categoria": "energias",
+            "alcance": "mundo",
+            "fecha": "2026-11-23T10:49:39+00:00"
+        }
+    ]
 }
