@@ -1,18 +1,6 @@
 {
     "pendientes": [
         {
-            "id": "2026-11-22-danstar-zarpe-punta-arenas-llegada-stanley-derecho-maritimo",
-            "titulo": "Danstar pedirá solo zarpe en Punta Arenas y arribo en Stanley para su ruta a las Falkland/Malvinas",
-            "resumen": "Easter Island Logistics informó que el carguero chileno Danstar seguirá el derecho marítimo internacional y tramitará solo el zarpe desde Punta Arenas y la llegada a Stanley. El buque está en mantención en ASMAR y operaría desde mediados de diciembre en una ruta de unos 900 km, con alimentos, gas licuado y materiales de construcción.",
-            "fecha": "2026-11-22",
-            "categoria": "industria",
-            "fuente": "MercoPress",
-            "url": "https://en.mercopress.com/2026/11/22/danstar-to-follow-international-maritime-law-will-seek-clearance-only-for-punta-arenas-departure-and-stanley-arrival",
-            "alcance": "magallanes",
-            "traducida": true,
-            "seguimiento": "Falkland / Malvinas"
-        },
-        {
             "id": "2026-11-22-falkland-comite-cuentas-publicas-puerto-contratos",
             "titulo": "Falkland/Malvinas: comité fiscalizará el nuevo puerto, el hangar de FIGAS y tres contratos públicos",
             "resumen": "El Comité de Cuentas Públicas de las Falkland/Malvinas anunció su programa de control 2026/27, que en los próximos dos meses revisará dos obras y tres contratos. Incluye el hangar de FIGAS, el proyecto de nuevo puerto, el arriendo de cinco grúas y los contratos con RSK y Ramboll, y pidió aportes de la comunidad.",
@@ -37,6 +25,13 @@
         }
     ],
     "decisiones": [
+        {
+            "id": "2026-11-22-danstar-zarpe-punta-arenas-llegada-stanley-derecho-maritimo",
+            "estado": "publicada",
+            "categoria": "industria",
+            "alcance": "magallanes",
+            "fecha": "2026-11-23T10:49:47+00:00"
+        },
         {
             "id": "2026-11-23-wood-mackenzie-captura-carbono-fase-seleccion",
             "estado": "publicada",
