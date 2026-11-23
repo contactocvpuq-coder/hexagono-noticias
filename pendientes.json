@@ -1,33 +1,4 @@
 {
   "pendientes": [],
-  "decisiones": [
-    {
-      "id": "2026-11-22-humberto-vidal-magallanes-giro-amoniaco-fertilizantes",
-      "estado": "publicada",
-      "categoria": "energias",
-      "alcance": "magallanes",
-      "fecha": "2026-11-23T10:50:31+00:00"
-    },
-    {
-      "id": "2026-11-22-falkland-comite-cuentas-publicas-puerto-contratos",
-      "estado": "publicada",
-      "categoria": "industria",
-      "alcance": "mundo",
-      "fecha": "2026-11-23T10:50:01+00:00"
-    },
-    {
-      "id": "2026-11-22-danstar-zarpe-punta-arenas-llegada-stanley-derecho-maritimo",
-      "estado": "publicada",
-      "categoria": "industria",
-      "alcance": "magallanes",
-      "fecha": "2026-11-23T10:49:47+00:00"
-    },
-    {
-      "id": "2026-11-23-wood-mackenzie-captura-carbono-fase-seleccion",
-      "estado": "publicada",
-      "categoria": "energias",
-      "alcance": "mundo",
-      "fecha": "2026-11-23T10:49:39+00:00"
-    }
-  ]
+  "decisiones": []
 }
