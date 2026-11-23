@@ -1,18 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-22-humberto-vidal-magallanes-giro-amoniaco-fertilizantes",
-            "titulo": "Experto de UMAG descarta fuga de inversionistas en Magallanes y ve giro del H2V hacia amoníaco para fertilizantes",
-            "resumen": "Tras la salida de TotalEnergies, Humberto Vidal, director del CERE de la Universidad de Magallanes, afirmó que los inversionistas hacen una pausa por la incertidumbre geopolítica y no abandonan la región. Según Vidal, nueve de diez empresas internacionales que exploran Magallanes apuntan solo al amoníaco, impulsado por la cadena gas-fertilizantes-alimentos.",
-            "fecha": "2026-11-22",
+            "estado": "publicada",
             "categoria": "energias",
-            "fuente": "El Pingüino",
-            "url": "https://www.elpinguino.com/cronica/dr-humberto-vidal-descarta-exodo-de-inversionistas-en-magallanes-y-proyecta-giro-hacia-el-amoniaco-para-fertilizantes/",
             "alcance": "magallanes",
-            "traducida": false
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-23T10:50:31+00:00"
+        },
         {
             "id": "2026-11-22-falkland-comite-cuentas-publicas-puerto-contratos",
             "estado": "publicada",
