@@ -208,6 +208,18 @@
     "alcance": "magallanes"
   },
   {
+    "id": "2026-11-17-h2powercube-patagonia-datacenter-datco-hidrogeno",
+    "titulo": "Planta en contenedor H2PowerCube dará respaldo con hidrógeno verde a un data center de Datco en la Patagonia",
+    "resumen": "La alemana H2 POWERCELL fabrica un H2PowerCube para la Patagonia chilena: una planta en contenedor que combina baterías, electrolizador, almacenamiento de hidrógeno y celda de combustible para reemplazar generadores diésel de respaldo. Es parte del piloto H2Datacenter para el centro de datos de Datco Chile, con Reiner Lemoine Institut, AHK Chile y la UCSC, por 1,98 millones de euros en tres años.",
+    "fecha": "2026-11-17",
+    "categoria": "energias",
+    "fuente": "FuelCellsWorks",
+    "url": "https://fuelcellsworks.com/2026/11/17/electrolyzer/new-h2powercube-container-power-plant-is-produced-for-patagonia",
+    "traducida": true,
+    "alcance": "chile",
+    "seguimiento": "Datacenters y emisiones"
+  },
+  {
     "id": "2026-11-17-glaciar-union-equipo-avanzada-habilita-estacion",
     "titulo": "Equipo de avanzada llega a Glaciar Unión y comienza a habilitar la estación antártica",
     "resumen": "Un equipo encabezado por el comandante de grupo Víctor Yantén, de la FACh, llegó el 12 de noviembre a la Estación Polar Científica Conjunta Glaciar Unión, a 1.129 km del Polo Sur. Ya despejó la nieve de los módulos y restableció las telecomunicaciones. La estación recibirá esta temporada a 52 personas de INACH, las Fuerzas Armadas y la DGAC.",
