@@ -1,19 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-23-navitas-perforacion-sea-lion-marzo-2027",
-            "titulo": "Navitas iniciará en marzo de 2027 la perforación de desarrollo de Sea Lion, en Falkland/Malvinas",
-            "resumen": "Navitas Petroleum comenzará en marzo de 2027 la perforación de desarrollo de la primera fase del área norte de Sea Lion, frente a las Falkland/Malvinas, y su socio Eco (Atlantic) espera el primer petróleo a mediados de 2028. Navitas evalúa además un pozo exploratorio en la licencia vecina PL001, con prospectos estimados en unos 640 millones de barriles equivalentes.",
-            "fecha": "2026-11-23",
+            "estado": "publicada",
             "categoria": "energias",
-            "fuente": "World Oil",
-            "url": "https://www.worldoil.com/news/2026/11/23/navitas-to-begin-sea-lion-development-drilling-offshore-falklands-in-march-2027/",
             "alcance": "mundo",
-            "traducida": true,
-            "seguimiento": "Falkland / Malvinas"
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-24T11:09:10+00:00"
+        },
         {
             "id": "2026-11-23-corfo-innovacion-de-impacto-11-empresas-patagonia-circular",
             "estado": "publicada",
