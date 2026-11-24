@@ -1,17 +1,6 @@
 {
     "pendientes": [
         {
-            "id": "2026-11-23-corfo-innovacion-de-impacto-11-empresas-patagonia-circular",
-            "titulo": "Corfo premia a 11 empresas con Innovación de Impacto 2026, entre ellas Patagonia Circular de Magallanes",
-            "resumen": "En el ETM Day 2026, Corfo entregó la tercera versión del Reconocimiento Innovación de Impacto a 11 empresas elegidas entre 38 nominadas. Entre las premiadas están Patagonia Circular (Magallanes), Kenko Vida, Botanitec, Myconativa, Vehice, Compañía Eléctrica Santa Juana, Viña Concha y Toro y SK Godelius.",
-            "fecha": "2026-11-23",
-            "categoria": "innovacion",
-            "fuente": "El América",
-            "url": "https://elamerica.cl/2026/11/23/corfo-premio-en-etm-day-a-11-empresas-de-todo-chile-con-el-reconocimiento-innovacion-de-impacto-2026/",
-            "alcance": "chile",
-            "traducida": false
-        },
-        {
             "id": "2026-11-23-navitas-perforacion-sea-lion-marzo-2027",
             "titulo": "Navitas iniciará en marzo de 2027 la perforación de desarrollo de Sea Lion, en Falkland/Malvinas",
             "resumen": "Navitas Petroleum comenzará en marzo de 2027 la perforación de desarrollo de la primera fase del área norte de Sea Lion, frente a las Falkland/Malvinas, y su socio Eco (Atlantic) espera el primer petróleo a mediados de 2028. Navitas evalúa además un pozo exploratorio en la licencia vecina PL001, con prospectos estimados en unos 640 millones de barriles equivalentes.",
@@ -25,6 +14,13 @@
         }
     ],
     "decisiones": [
+        {
+            "id": "2026-11-23-corfo-innovacion-de-impacto-11-empresas-patagonia-circular",
+            "estado": "publicada",
+            "categoria": "innovacion",
+            "alcance": "chile",
+            "fecha": "2026-11-24T11:09:03+00:00"
+        },
         {
             "id": "2026-11-23-chile-367-mw-data-centers-desafio-ambiental",
             "estado": "publicada",
