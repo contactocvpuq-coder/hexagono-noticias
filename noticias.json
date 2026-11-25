@@ -1,5 +1,17 @@
 [
   {
+    "id": "2026-11-25-fach-operacion-estrella-polar-polo-sur",
+    "titulo": "Estrella Polar: la operación con que la FACh llevó por primera vez a un presidente chileno al Polo Sur",
+    "resumen": "En la Operación Estrella Polar III, la FACh voló de Punta Arenas a Unión Glaciar y desde ahí al Polo Sur con dos helicópteros Black Hawk y dos Twin Otter. El 3 de enero de 2025 llegaron el presidente, ministras, los comandantes en jefe y científicos del INACH. Fue la primera vez que un jefe de Estado chileno llegó al Polo Sur.",
+    "fecha": "2026-11-25",
+    "categoria": "industria",
+    "fuente": "Fuerza Aérea de Chile (FACh)",
+    "url": "https://fach.mil.cl/estrella-polar",
+    "traducida": false,
+    "alcance": "magallanes",
+    "seguimiento": "FACh en la Antártica"
+  },
+  {
     "id": "2026-11-24-ue-regula-expansion-centros-datos-etiqueta",
     "titulo": "La UE prepara etiqueta de sostenibilidad para centros de datos mientras planea triplicar su capacidad",
     "resumen": "Europa proyecta triplicar su capacidad de centros de datos en siete años y hoy suma unos 2.269 frente a más de 5.000 en EE. UU. La UE propone una etiqueta de sostenibilidad de A a G para instalaciones sobre 500 kW, vigente desde agosto de 2027. Frankfurt, Ámsterdam y París concentran la mayor capacidad.",
@@ -32,9 +44,7 @@
     "url": "https://fach.mil.cl/primer-vuelo-transpolar-antartico-de-la-fach-30-anos-de-la-operacion",
     "traducida": false,
     "alcance": "magallanes",
-    "seguimiento": "Antártica",
-    "documento": "https://fach.mil.cl/estrella-polar",
-    "documentoTitulo": "Operación Estrella Polar (FACh)"
+    "seguimiento": "FACh en la Antártica"
   },
   {
     "id": "2026-11-24-corfo-tomatelab-agricultura-digital-valparaiso",
