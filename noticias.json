@@ -1,5 +1,17 @@
 [
     {
+        "id": "2026-11-24-ue-regula-expansion-centros-datos-etiqueta",
+        "titulo": "La UE prepara etiqueta de sostenibilidad para centros de datos mientras planea triplicar su capacidad",
+        "resumen": "Europa proyecta triplicar su capacidad de centros de datos en siete años y hoy suma unos 2.269 frente a más de 5.000 en EE. UU. La UE propone una etiqueta de sostenibilidad de A a G para instalaciones sobre 500 kW, vigente desde agosto de 2027. Frankfurt, Ámsterdam y París concentran la mayor capacidad.",
+        "fecha": "2026-11-24",
+        "categoria": "digital",
+        "fuente": "Euronews",
+        "url": "https://www.euronews.com/2026/11/24/what-is-the-eu-doing-to-regulate-data-centre-expansion",
+        "traducida": true,
+        "alcance": "mundo",
+        "seguimiento": "Datacenters y emisiones"
+    },
+    {
         "id": "2026-11-24-inventario-150-proyectos-hidrogeno-verde-cono-sur",
         "titulo": "Inventario del Cono Sur registra 150 proyectos de hidrógeno verde, pero solo 34 avanzan",
         "resumen": "El Círculo de Políticas Ambientales lanzó una plataforma con 150 iniciativas de hidrógeno verde y bajas emisiones en Argentina, Brasil, Chile, Paraguay y Uruguay. Solo 34 están operativas o en construcción, y el informe describe una desaceleración desde 2025 con muchos proyectos en pausa. Cuenta con mapa interactivo y apoyo de la Unión Europea.",
