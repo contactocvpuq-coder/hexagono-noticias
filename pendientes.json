@@ -1,33 +1,33 @@
 {
-    "pendientes": [],
-    "decisiones": [
-        {
-            "id": "2026-11-24-ushuaia-muelle-base-naval-dos-ofertas",
-            "estado": "publicada",
-            "categoria": "industria",
-            "alcance": "mundo",
-            "fecha": "2026-11-25T11:32:24+00:00"
-        },
-        {
-            "id": "2026-11-24-ue-regula-expansion-centros-datos-etiqueta",
-            "estado": "publicada",
-            "categoria": "digital",
-            "alcance": "mundo",
-            "fecha": "2026-11-25T11:32:05+00:00"
-        },
-        {
-            "id": "2026-11-24-inventario-150-proyectos-hidrogeno-verde-cono-sur",
-            "estado": "publicada",
-            "categoria": "energias",
-            "alcance": "mundo",
-            "fecha": "2026-11-25T11:31:56+00:00"
-        },
-        {
-            "id": "2026-11-24-corfo-tomatelab-agricultura-digital-valparaiso",
-            "estado": "publicada",
-            "categoria": "industria",
-            "alcance": "chile",
-            "fecha": "2026-11-25T11:31:47+00:00"
-        }
-    ]
+  "pendientes": [],
+  "decisiones": [
+    {
+      "id": "2026-11-24-ushuaia-muelle-base-naval-dos-ofertas",
+      "estado": "publicada",
+      "categoria": "industria",
+      "alcance": "mundo",
+      "fecha": "2026-11-25T11:32:24+00:00"
+    },
+    {
+      "id": "2026-11-24-ue-regula-expansion-centros-datos-etiqueta",
+      "estado": "publicada",
+      "categoria": "digital",
+      "alcance": "mundo",
+      "fecha": "2026-11-25T11:32:05+00:00"
+    },
+    {
+      "id": "2026-11-24-inventario-150-proyectos-hidrogeno-verde-cono-sur",
+      "estado": "publicada",
+      "categoria": "energias",
+      "alcance": "mundo",
+      "fecha": "2026-11-25T11:31:56+00:00"
+    },
+    {
+      "id": "2026-11-24-corfo-tomatelab-agricultura-digital-valparaiso",
+      "estado": "publicada",
+      "categoria": "industria",
+      "alcance": "chile",
+      "fecha": "2026-11-25T11:31:47+00:00"
+    }
+  ]
 }
