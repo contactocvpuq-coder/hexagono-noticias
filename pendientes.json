@@ -1,19 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-24-ushuaia-muelle-base-naval-dos-ofertas",
-            "titulo": "Argentina recibe dos ofertas para el muelle de la base naval de Ushuaia, ambas sobre el presupuesto",
-            "resumen": "De 15 empresas interesadas, solo Concret Nor y Pietroboni ofertaron por el muelle militar de Ushuaia, con montos 1,4% y 11,1% sobre el presupuesto oficial. La primera fase de 240 m tomaría 18 meses desde 2027 y el proyecto completo, de 585 m y hasta US$500 millones, depende del presupuesto 2027. Ocurre en plena tensión por el proyecto petrolero Sea Lion en Falkland/Malvinas.",
-            "fecha": "2026-11-24",
+            "estado": "publicada",
             "categoria": "industria",
-            "fuente": "MercoPress",
-            "url": "https://en.mercopress.com/2026/11/24/argentina-receives-two-bids-for-the-ushuaia-naval-base-pier-amid-sea-lion-tensions",
             "alcance": "mundo",
-            "traducida": true,
-            "seguimiento": "Falkland / Malvinas"
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-25T11:32:24+00:00"
+        },
         {
             "id": "2026-11-24-ue-regula-expansion-centros-datos-etiqueta",
             "estado": "publicada",
