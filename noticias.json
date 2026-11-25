@@ -23,6 +23,18 @@
     "alcance": "mundo"
   },
   {
+    "id": "2026-11-24-fach-30-anos-aurora-austral-primer-vuelo-transpolar",
+    "titulo": "FACh conmemora 30 años de Aurora Austral, su primer vuelo transpolar antártico",
+    "resumen": "La Fuerza Aérea de Chile recordó los 30 años de la Operación Aurora Austral, iniciada el 24 de noviembre de 1996. Un C-130H y dos Twin Otter se reunieron en Patriot Hills y cruzaron el Polo Sur hasta McMurdo, y luego el C-130H regresó a Punta Arenas. Fue un hito de la capacidad aérea chilena en el continente blanco.",
+    "fecha": "2026-11-24",
+    "categoria": "industria",
+    "fuente": "Fuerza Aérea de Chile (FACh)",
+    "url": "https://fach.mil.cl/primer-vuelo-transpolar-antartico-de-la-fach-30-anos-de-la-operacion",
+    "traducida": false,
+    "alcance": "magallanes",
+    "seguimiento": "Antártica"
+  },
+  {
     "id": "2026-11-24-corfo-tomatelab-agricultura-digital-valparaiso",
     "titulo": "Corfo impulsa TOMATELAB, agricultura digital contra plagas del tomate en Valparaíso",
     "resumen": "Corfo Valparaíso presentó en Quillota el proyecto TOMATELAB, un Programa de Difusión Tecnológica de agricultura digital para manejar plagas del tomate en invernaderos. El lanzamiento incluyó una visita demostrativa con trampas de luz en una empresa productora de la zona.",
