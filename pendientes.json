@@ -1,18 +1,6 @@
 {
     "pendientes": [
         {
-            "id": "2026-11-24-ue-regula-expansion-centros-datos-etiqueta",
-            "titulo": "La UE prepara etiqueta de sostenibilidad para centros de datos mientras planea triplicar su capacidad",
-            "resumen": "Europa proyecta triplicar su capacidad de centros de datos en siete años y hoy suma unos 2.269 frente a más de 5.000 en EE. UU. La UE propone una etiqueta de sostenibilidad de A a G para instalaciones sobre 500 kW, vigente desde agosto de 2027. Frankfurt, Ámsterdam y París concentran la mayor capacidad.",
-            "fecha": "2026-11-24",
-            "categoria": "digital",
-            "fuente": "Euronews",
-            "url": "https://www.euronews.com/2026/11/24/what-is-the-eu-doing-to-regulate-data-centre-expansion",
-            "alcance": "mundo",
-            "traducida": true,
-            "seguimiento": "Datacenters y emisiones"
-        },
-        {
             "id": "2026-11-24-ushuaia-muelle-base-naval-dos-ofertas",
             "titulo": "Argentina recibe dos ofertas para el muelle de la base naval de Ushuaia, ambas sobre el presupuesto",
             "resumen": "De 15 empresas interesadas, solo Concret Nor y Pietroboni ofertaron por el muelle militar de Ushuaia, con montos 1,4% y 11,1% sobre el presupuesto oficial. La primera fase de 240 m tomaría 18 meses desde 2027 y el proyecto completo, de 585 m y hasta US$500 millones, depende del presupuesto 2027. Ocurre en plena tensión por el proyecto petrolero Sea Lion en Falkland/Malvinas.",
@@ -26,6 +14,13 @@
         }
     ],
     "decisiones": [
+        {
+            "id": "2026-11-24-ue-regula-expansion-centros-datos-etiqueta",
+            "estado": "publicada",
+            "categoria": "digital",
+            "alcance": "mundo",
+            "fecha": "2026-11-25T11:32:05+00:00"
+        },
         {
             "id": "2026-11-24-inventario-150-proyectos-hidrogeno-verde-cono-sur",
             "estado": "publicada",
