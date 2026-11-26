@@ -1,18 +1,6 @@
 {
     "pendientes": [
         {
-            "id": "2026-11-25-falkland-gripe-aviar-pinguinos-papua",
-            "titulo": "Brote de gripe aviar altamente patógena en pingüinos papúa de las Falkland/Malvinas",
-            "resumen": "El gobierno de las islas confirmó influenza aviar altamente patógena en pingüinos papúa de Beaver Island y Fox Point (Fitzroy), con muestras positivas del 18 de noviembre. Rigen medidas de respuesta nivel 1 y bioseguridad estricta, con revisión de las zonas declaradas infectadas el 30 de diciembre; se pide no tocar aves muertas o enfermas.",
-            "fecha": "2026-11-25",
-            "categoria": "medioambiente",
-            "fuente": "MercoPress",
-            "url": "https://en.mercopress.com/2026/11/25/falklands-outbreak-of-avian-influenza-among-gentoo-penguins",
-            "alcance": "mundo",
-            "traducida": true,
-            "seguimiento": "Falkland / Malvinas"
-        },
-        {
             "id": "2026-11-23-inach-planta-solar-bifacial-base-escudero",
             "titulo": "Primera planta solar bifacial de la Antártica evitaría hasta 10 toneladas de CO2 al año en base Escudero",
             "resumen": "Junto a la base chilena Profesor Julio Escudero, en isla Rey Jorge, se instaló una planta de 16 paneles bifaciales de 5 kW con baterías de litio de unas 13 horas de respaldo. Alimenta la estación de monitoreo climático TARP del proyecto de la USACH liderado por Raúl Cordero, con apoyo de INACH, y reduce el uso de generadores diésel.",
@@ -26,6 +14,13 @@
         }
     ],
     "decisiones": [
+        {
+            "id": "2026-11-25-falkland-gripe-aviar-pinguinos-papua",
+            "estado": "publicada",
+            "categoria": "medioambiente",
+            "alcance": "mundo",
+            "fecha": "2026-11-26T11:21:03+00:00"
+        },
         {
             "id": "2026-11-25-fach-c130-hercules-glaciar-union-vuelo-directo",
             "estado": "publicada",
