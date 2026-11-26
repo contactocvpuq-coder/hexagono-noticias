@@ -1,53 +1,49 @@
 {
-  "pendientes": [
-    {
-      "id": "2026-11-25-eco-atlantic-pl001-junto-sea-lion",
-      "titulo": "Eco Atlantic entra con 35% al bloque PL001, vecino del proyecto petrolero Sea Lion en Falkland/Malvinas",
-      "resumen": "Eco (Atlantic) Oil & Gas tomó 35% de la licencia PL001 de Navitas Petroleum, que conserva 65%, con un préstamo de Navitas de hasta US$14 millones netos para los primeros US$40 millones de gasto. PL001 colinda con PL032, donde la perforación de desarrollo de Sea Lion empezaría en marzo de 2027 y el primer petróleo se espera a mediados de 2028.",
-      "fecha": "2026-11-25",
-      "categoria": "energias",
-      "fuente": "MercoPress",
-      "url": "https://en.mercopress.com/2026/11/25/falklands-growing-interest-in-adjacent-areas-to-navitas-sea-lion",
-      "alcance": "mundo",
-      "traducida": true,
-      "seguimiento": "Falkland / Malvinas"
-    },
-    {
-      "id": "2026-11-25-fach-c130-hercules-glaciar-union-vuelo-directo",
-      "titulo": "C-130 Hércules de la FACh vuela sin escalas desde Punta Arenas a la Estación Polar Glaciar Unión",
-      "resumen": "Un C-130 del Grupo de Aviación N°10 de la FACh voló sin escalas desde la base Chabunco hasta la Estación Polar Científica Conjunta Glaciar Unión, donde aterrizó el 20 de noviembre con suministros y equipos. El vuelo, apoyado por Ejército, Armada, DGAC e INACH, entrenó tripulaciones de largo alcance y respalda la ciencia en el monte Vinson y el glaciar Schanz.",
-      "fecha": "2026-11-25",
-      "categoria": "industria",
-      "fuente": "Infodefensa",
-      "url": "https://www.infodefensa.com/texto-diario/mostrar/6107722/c130-hercules-fach-transporta-suministros-equipamiento-estacion-polar-glaciar-union-circulo-polar-antartico",
-      "alcance": "magallanes",
-      "traducida": false,
-      "seguimiento": "FACh en la Antártica"
-    },
-    {
-      "id": "2026-11-25-falkland-gripe-aviar-pinguinos-papua",
-      "titulo": "Brote de gripe aviar altamente patógena en pingüinos papúa de las Falkland/Malvinas",
-      "resumen": "El gobierno de las islas confirmó influenza aviar altamente patógena en pingüinos papúa de Beaver Island y Fox Point (Fitzroy), con muestras positivas del 18 de noviembre. Rigen medidas de respuesta nivel 1 y bioseguridad estricta, con revisión de las zonas declaradas infectadas el 30 de diciembre; se pide no tocar aves muertas o enfermas.",
-      "fecha": "2026-11-25",
-      "categoria": "medioambiente",
-      "fuente": "MercoPress",
-      "url": "https://en.mercopress.com/2026/11/25/falklands-outbreak-of-avian-influenza-among-gentoo-penguins",
-      "alcance": "mundo",
-      "traducida": true,
-      "seguimiento": "Falkland / Malvinas"
-    },
-    {
-      "id": "2026-11-23-inach-planta-solar-bifacial-base-escudero",
-      "titulo": "Primera planta solar bifacial de la Antártica evitaría hasta 10 toneladas de CO2 al año en base Escudero",
-      "resumen": "Junto a la base chilena Profesor Julio Escudero, en isla Rey Jorge, se instaló una planta de 16 paneles bifaciales de 5 kW con baterías de litio de unas 13 horas de respaldo. Alimenta la estación de monitoreo climático TARP del proyecto de la USACH liderado por Raúl Cordero, con apoyo de INACH, y reduce el uso de generadores diésel.",
-      "fecha": "2026-11-23",
-      "categoria": "energias",
-      "fuente": "INACH",
-      "url": "https://www.inach.cl/instalan-planta-solar-en-antartica-que-puede-ahorrar-la-emision-de-hasta-10-toneladas-de-gases-de-efecto-invernadero-por-ano/",
-      "alcance": "magallanes",
-      "traducida": false,
-      "seguimiento": "Antártica"
-    }
-  ],
-  "decisiones": []
+    "pendientes": [
+        {
+            "id": "2026-11-25-fach-c130-hercules-glaciar-union-vuelo-directo",
+            "titulo": "C-130 Hércules de la FACh vuela sin escalas desde Punta Arenas a la Estación Polar Glaciar Unión",
+            "resumen": "Un C-130 del Grupo de Aviación N°10 de la FACh voló sin escalas desde la base Chabunco hasta la Estación Polar Científica Conjunta Glaciar Unión, donde aterrizó el 20 de noviembre con suministros y equipos. El vuelo, apoyado por Ejército, Armada, DGAC e INACH, entrenó tripulaciones de largo alcance y respalda la ciencia en el monte Vinson y el glaciar Schanz.",
+            "fecha": "2026-11-25",
+            "categoria": "industria",
+            "fuente": "Infodefensa",
+            "url": "https://www.infodefensa.com/texto-diario/mostrar/6107722/c130-hercules-fach-transporta-suministros-equipamiento-estacion-polar-glaciar-union-circulo-polar-antartico",
+            "alcance": "magallanes",
+            "traducida": false,
+            "seguimiento": "FACh en la Antártica"
+        },
+        {
+            "id": "2026-11-25-falkland-gripe-aviar-pinguinos-papua",
+            "titulo": "Brote de gripe aviar altamente patógena en pingüinos papúa de las Falkland/Malvinas",
+            "resumen": "El gobierno de las islas confirmó influenza aviar altamente patógena en pingüinos papúa de Beaver Island y Fox Point (Fitzroy), con muestras positivas del 18 de noviembre. Rigen medidas de respuesta nivel 1 y bioseguridad estricta, con revisión de las zonas declaradas infectadas el 30 de diciembre; se pide no tocar aves muertas o enfermas.",
+            "fecha": "2026-11-25",
+            "categoria": "medioambiente",
+            "fuente": "MercoPress",
+            "url": "https://en.mercopress.com/2026/11/25/falklands-outbreak-of-avian-influenza-among-gentoo-penguins",
+            "alcance": "mundo",
+            "traducida": true,
+            "seguimiento": "Falkland / Malvinas"
+        },
+        {
+            "id": "2026-11-23-inach-planta-solar-bifacial-base-escudero",
+            "titulo": "Primera planta solar bifacial de la Antártica evitaría hasta 10 toneladas de CO2 al año en base Escudero",
+            "resumen": "Junto a la base chilena Profesor Julio Escudero, en isla Rey Jorge, se instaló una planta de 16 paneles bifaciales de 5 kW con baterías de litio de unas 13 horas de respaldo. Alimenta la estación de monitoreo climático TARP del proyecto de la USACH liderado por Raúl Cordero, con apoyo de INACH, y reduce el uso de generadores diésel.",
+            "fecha": "2026-11-23",
+            "categoria": "energias",
+            "fuente": "INACH",
+            "url": "https://www.inach.cl/instalan-planta-solar-en-antartica-que-puede-ahorrar-la-emision-de-hasta-10-toneladas-de-gases-de-efecto-invernadero-por-ano/",
+            "alcance": "magallanes",
+            "traducida": false,
+            "seguimiento": "Antártica"
+        }
+    ],
+    "decisiones": [
+        {
+            "id": "2026-11-25-eco-atlantic-pl001-junto-sea-lion",
+            "estado": "publicada",
+            "categoria": "energias",
+            "alcance": "mundo",
+            "fecha": "2026-11-26T11:20:20+00:00"
+        }
+    ]
 }
