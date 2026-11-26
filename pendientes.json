@@ -1,18 +1,6 @@
 {
     "pendientes": [
         {
-            "id": "2026-11-25-fach-c130-hercules-glaciar-union-vuelo-directo",
-            "titulo": "C-130 Hércules de la FACh vuela sin escalas desde Punta Arenas a la Estación Polar Glaciar Unión",
-            "resumen": "Un C-130 del Grupo de Aviación N°10 de la FACh voló sin escalas desde la base Chabunco hasta la Estación Polar Científica Conjunta Glaciar Unión, donde aterrizó el 20 de noviembre con suministros y equipos. El vuelo, apoyado por Ejército, Armada, DGAC e INACH, entrenó tripulaciones de largo alcance y respalda la ciencia en el monte Vinson y el glaciar Schanz.",
-            "fecha": "2026-11-25",
-            "categoria": "industria",
-            "fuente": "Infodefensa",
-            "url": "https://www.infodefensa.com/texto-diario/mostrar/6107722/c130-hercules-fach-transporta-suministros-equipamiento-estacion-polar-glaciar-union-circulo-polar-antartico",
-            "alcance": "magallanes",
-            "traducida": false,
-            "seguimiento": "FACh en la Antártica"
-        },
-        {
             "id": "2026-11-25-falkland-gripe-aviar-pinguinos-papua",
             "titulo": "Brote de gripe aviar altamente patógena en pingüinos papúa de las Falkland/Malvinas",
             "resumen": "El gobierno de las islas confirmó influenza aviar altamente patógena en pingüinos papúa de Beaver Island y Fox Point (Fitzroy), con muestras positivas del 18 de noviembre. Rigen medidas de respuesta nivel 1 y bioseguridad estricta, con revisión de las zonas declaradas infectadas el 30 de diciembre; se pide no tocar aves muertas o enfermas.",
@@ -38,6 +26,13 @@
         }
     ],
     "decisiones": [
+        {
+            "id": "2026-11-25-fach-c130-hercules-glaciar-union-vuelo-directo",
+            "estado": "publicada",
+            "categoria": "industria",
+            "alcance": "magallanes",
+            "fecha": "2026-11-26T11:20:41+00:00"
+        },
         {
             "id": "2026-11-25-eco-atlantic-pl001-junto-sea-lion",
             "estado": "publicada",
