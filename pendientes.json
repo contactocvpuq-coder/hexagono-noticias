@@ -1,33 +1,4 @@
 {
   "pendientes": [],
-  "decisiones": [
-    {
-      "id": "2026-11-23-inach-planta-solar-bifacial-base-escudero",
-      "estado": "publicada",
-      "categoria": "energias",
-      "alcance": "magallanes",
-      "fecha": "2026-11-26T11:21:22+00:00"
-    },
-    {
-      "id": "2026-11-25-falkland-gripe-aviar-pinguinos-papua",
-      "estado": "publicada",
-      "categoria": "medioambiente",
-      "alcance": "mundo",
-      "fecha": "2026-11-26T11:21:03+00:00"
-    },
-    {
-      "id": "2026-11-25-fach-c130-hercules-glaciar-union-vuelo-directo",
-      "estado": "publicada",
-      "categoria": "industria",
-      "alcance": "magallanes",
-      "fecha": "2026-11-26T11:20:41+00:00"
-    },
-    {
-      "id": "2026-11-25-eco-atlantic-pl001-junto-sea-lion",
-      "estado": "publicada",
-      "categoria": "energias",
-      "alcance": "mundo",
-      "fecha": "2026-11-26T11:20:20+00:00"
-    }
-  ]
+  "decisiones": []
 }
