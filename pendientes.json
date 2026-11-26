@@ -1,19 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-23-inach-planta-solar-bifacial-base-escudero",
-            "titulo": "Primera planta solar bifacial de la Antártica evitaría hasta 10 toneladas de CO2 al año en base Escudero",
-            "resumen": "Junto a la base chilena Profesor Julio Escudero, en isla Rey Jorge, se instaló una planta de 16 paneles bifaciales de 5 kW con baterías de litio de unas 13 horas de respaldo. Alimenta la estación de monitoreo climático TARP del proyecto de la USACH liderado por Raúl Cordero, con apoyo de INACH, y reduce el uso de generadores diésel.",
-            "fecha": "2026-11-23",
+            "estado": "publicada",
             "categoria": "energias",
-            "fuente": "INACH",
-            "url": "https://www.inach.cl/instalan-planta-solar-en-antartica-que-puede-ahorrar-la-emision-de-hasta-10-toneladas-de-gases-de-efecto-invernadero-por-ano/",
             "alcance": "magallanes",
-            "traducida": false,
-            "seguimiento": "Antártica"
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-26T11:21:22+00:00"
+        },
         {
             "id": "2026-11-25-falkland-gripe-aviar-pinguinos-papua",
             "estado": "publicada",
