@@ -1,4 +1,63 @@
 {
-  "pendientes": [],
+  "pendientes": [
+    {
+      "id": "2026-11-26-ia-deepfakes-pruebas-tribunales-reino-unido",
+      "titulo": "Videos falsos y jurisprudencia inventada: la IA complica a los tribunales del Reino Unido",
+      "resumen": "Un análisis de sentencias publicadas encontró decenas de casos en que los jueces debieron decidir si una prueba era generada o manipulada con IA, y más de 20 con citas inexistentes atribuidas a herramientas de IA. En un caso de familia el tribunal no logró establecer si un video era real. La investigación se publicó junto a The Guardian.",
+      "fecha": "2026-11-26",
+      "categoria": "digital",
+      "fuente": "The Bureau of Investigative Journalism / The Guardian",
+      "url": "https://www.thebureauinvestigates.com/stories/2026-11-26/ai-is-throwing-the-court-system-into-disarray",
+      "alcance": "mundo",
+      "traducida": true,
+      "seguimiento": "IA"
+    },
+    {
+      "id": "2026-11-26-seminario-mareas-rojas-salmonicultura-magallanes",
+      "titulo": "Subpesca, Sernapesca y salmonicultores preparan en Punta Arenas el manejo de mareas rojas para 2027",
+      "resumen": "Unas 70 personas participaron en un seminario público-privado sobre floraciones algales nocivas y desafíos logísticos de la acuicultura en Magallanes. Se revisaron la última década, la normativa, los efectos climáticos y la experiencia reciente en seno Taraba, y se definieron medidas preventivas para la temporada 2027.",
+      "fecha": "2026-11-26",
+      "categoria": "medioambiente",
+      "fuente": "Radio Polar",
+      "url": "https://www.radiopolar.com/sector-publico-industria-salmonicultora-reunen-punta-arenas-abordar-manejo-mareas-rojas-desafios-logisticos-magallanes",
+      "alcance": "magallanes",
+      "traducida": false
+    },
+    {
+      "id": "2026-11-26-seminario-paises-puerta-entrada-antartica-magallanes",
+      "titulo": "Seminario internacional reúne en Magallanes a los cinco países puerta de entrada a la Antártica",
+      "resumen": "Chile, Argentina, Australia, Nueva Zelanda y Sudáfrica participaron en el seminario \"Puertas abiertas a la Antártica\", sobre el rol logístico y científico de las ciudades de acceso al continente blanco. Expusieron el director del INACH, Gino Casassa, y embajadores de Sudáfrica, Australia y Nueva Zelanda; la delegada presidencial destacó el rol de Punta Arenas.",
+      "fecha": "2026-11-26",
+      "categoria": "industria",
+      "fuente": "ITV Patagonia",
+      "url": "https://www.itvpatagonia.com/noticias/regional/26-11-2026/magallanes-refuerza-su-rol-estrategico-como-puerta-de-entrada-a-la-antartica-en-seminario-internacional/",
+      "alcance": "magallanes",
+      "traducida": false,
+      "seguimiento": "Antártica"
+    },
+    {
+      "id": "2026-11-26-subdere-seis-proyectos-724-millones-magallanes",
+      "titulo": "SUBDERE financia seis proyectos por $724 millones en Magallanes con cerca de 80 empleos",
+      "resumen": "Con fondos PMB y PMU del plan Chile Despega se ejecutarán obras en Punta Arenas, Natales, Torres del Paine, Primavera y Timaukel. En Punta Arenas incluyen luminarias en Pampa Redonda, Calafate y Varillas ($179,5 millones) y mejoras al Centro Comunal Norte; Primavera ($173,9 millones) y Timaukel ($154,2 millones) tienen los montos mayores.",
+      "fecha": "2026-11-26",
+      "categoria": "industria",
+      "fuente": "Radio Magallanes",
+      "url": "https://radiomagallanes.cl/subdere-impulsa-seis-proyectos-por-724-millones-en-magallanes-que-generaran-cerca-de-80-empleos/",
+      "alcance": "magallanes",
+      "traducida": false
+    },
+    {
+      "id": "2026-11-25-ue-triplicar-centros-datos-ley-nube-ia",
+      "titulo": "La UE quiere triplicar sus centros de datos con permisos en 12 meses, pese a su costo ambiental",
+      "resumen": "La propuesta de Ley de Desarrollo de la Nube y la IA crearía zonas de aceleración con un plazo máximo de 12 meses para los permisos. Los centros de datos de la UE consumieron 68 TWh en 2024 y podrían llegar a 114 TWh en 2030 (3,2% de la demanda); en Irlanda ya son el 23% del consumo eléctrico.",
+      "fecha": "2026-11-25",
+      "categoria": "digital",
+      "fuente": "Euronews",
+      "url": "https://es.euronews.com/2026/11/25/europa-acelera-construccion-centros-datos-medioambiente-laboral",
+      "alcance": "mundo",
+      "traducida": false,
+      "seguimiento": "Datacenters y emisiones"
+    }
+  ],
   "decisiones": []
 }
