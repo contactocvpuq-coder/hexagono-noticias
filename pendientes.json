@@ -1,47 +1,33 @@
 {
-    "pendientes": [],
-    "decisiones": [
-        {
-            "id": "2026-10-28-puerto-williams-cruceros-muelle-saneamiento",
-            "estado": "publicada",
-            "categoria": "industria",
-            "alcance": "magallanes",
-            "fecha": "2026-11-27T12:00:13+00:00"
-        },
-        {
-            "id": "2026-11-04-ushuaia-crisis-portuaria-punta-arenas-recaladas",
-            "estado": "publicada",
-            "categoria": "industria",
-            "alcance": "magallanes",
-            "fecha": "2026-11-27T11:59:57+00:00"
-        },
-        {
-            "id": "2026-11-18-comite-nombres-geograficos-antarticos-puerto-williams",
-            "estado": "publicada",
-            "categoria": "innovacion",
-            "alcance": "magallanes",
-            "fecha": "2026-11-27T11:59:46+00:00"
-        },
-        {
-            "id": "2026-11-25-timaukel-sin-bencinera-tierra-del-fuego",
-            "estado": "publicada",
-            "categoria": "industria",
-            "alcance": "magallanes",
-            "fecha": "2026-11-27T11:59:37+00:00"
-        },
-        {
-            "id": "2026-11-25-ue-triplicar-centros-datos-ley-nube-ia",
-            "estado": "publicada",
-            "categoria": "digital",
-            "alcance": "mundo",
-            "fecha": "2026-11-27T10:46:35+00:00"
-        },
-        {
-            "id": "2026-11-26-subdere-seis-proyectos-724-millones-magallanes",
-            "estado": "publicada",
-            "categoria": "industria",
-            "alcance": "magallanes",
-            "fecha": "2026-11-27T10:46:22+00:00"
-        }
-    ]
+  "pendientes": [],
+  "decisiones": [
+    {
+      "id": "2026-10-28-puerto-williams-cruceros-muelle-saneamiento",
+      "estado": "publicada",
+      "categoria": "industria",
+      "alcance": "magallanes",
+      "fecha": "2026-11-27T12:00:13+00:00"
+    },
+    {
+      "id": "2026-11-04-ushuaia-crisis-portuaria-punta-arenas-recaladas",
+      "estado": "publicada",
+      "categoria": "industria",
+      "alcance": "magallanes",
+      "fecha": "2026-11-27T11:59:57+00:00"
+    },
+    {
+      "id": "2026-11-18-comite-nombres-geograficos-antarticos-puerto-williams",
+      "estado": "publicada",
+      "categoria": "innovacion",
+      "alcance": "magallanes",
+      "fecha": "2026-11-27T11:59:46+00:00"
+    },
+    {
+      "id": "2026-11-25-timaukel-sin-bencinera-tierra-del-fuego",
+      "estado": "publicada",
+      "categoria": "industria",
+      "alcance": "magallanes",
+      "fecha": "2026-11-27T11:59:37+00:00"
+    }
+  ]
 }
