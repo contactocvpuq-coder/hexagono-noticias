@@ -1,17 +1,6 @@
 {
     "pendientes": [
         {
-            "id": "2026-11-26-seminario-mareas-rojas-salmonicultura-magallanes",
-            "titulo": "Subpesca, Sernapesca y salmonicultores preparan en Punta Arenas el manejo de mareas rojas para 2027",
-            "resumen": "Unas 70 personas participaron en un seminario público-privado sobre floraciones algales nocivas y desafíos logísticos de la acuicultura en Magallanes. Se revisaron la última década, la normativa, los efectos climáticos y la experiencia reciente en seno Taraba, y se definieron medidas preventivas para la temporada 2027.",
-            "fecha": "2026-11-26",
-            "categoria": "medioambiente",
-            "fuente": "Radio Polar",
-            "url": "https://www.radiopolar.com/sector-publico-industria-salmonicultora-reunen-punta-arenas-abordar-manejo-mareas-rojas-desafios-logisticos-magallanes",
-            "alcance": "magallanes",
-            "traducida": false
-        },
-        {
             "id": "2026-11-26-seminario-paises-puerta-entrada-antartica-magallanes",
             "titulo": "Seminario internacional reúne en Magallanes a los cinco países puerta de entrada a la Antártica",
             "resumen": "Chile, Argentina, Australia, Nueva Zelanda y Sudáfrica participaron en el seminario \"Puertas abiertas a la Antártica\", sobre el rol logístico y científico de las ciudades de acceso al continente blanco. Expusieron el director del INACH, Gino Casassa, y embajadores de Sudáfrica, Australia y Nueva Zelanda; la delegada presidencial destacó el rol de Punta Arenas.",
@@ -48,6 +37,13 @@
         }
     ],
     "decisiones": [
+        {
+            "id": "2026-11-26-seminario-mareas-rojas-salmonicultura-magallanes",
+            "estado": "publicada",
+            "categoria": "medioambiente",
+            "alcance": "magallanes",
+            "fecha": "2026-11-27T10:45:47+00:00"
+        },
         {
             "id": "2026-11-26-ia-deepfakes-pruebas-tribunales-reino-unido",
             "estado": "publicada",
