@@ -1,65 +1,61 @@
 {
-  "pendientes": [
-    {
-      "id": "2026-11-25-timaukel-sin-bencinera-tierra-del-fuego",
-      "titulo": "Timaukel: más de 12 mil km² sin bencinera en el sur de Tierra del Fuego",
-      "resumen": "La comuna de Timaukel (unos 12.850 km² y 157 habitantes) no tiene estación de combustible abierta desde que Forestal Russfin cerró en julio de 2025, y el municipio busca instalar una en Pampa Guanaco. El MOP fija diciembre de 2029 para terminar los últimos 28 km de la ruta Vicuña-Yendegaia.",
-      "fecha": "2026-11-25",
-      "categoria": "industria",
-      "fuente": "El Mostrador (Aquí Magallanes)",
-      "url": "https://www.elmostrador.cl/aqui-magallanes/2026/11/25/mas-de-12-mil-kilometros-cuadrados-sin-bencinera-en-el-sur-de-tierra-del-fuego/",
-      "alcance": "magallanes",
-      "traducida": false
-    },
-    {
-      "id": "2026-11-18-comite-nombres-geograficos-antarticos-puerto-williams",
-      "titulo": "Comité de nombres geográficos antárticos sesiona por primera vez en Puerto Williams",
-      "resumen": "El Comité Nacional de Nombres Geográficos Antárticos realizó su IV plenario el 12 de noviembre en el Centro Subantártico Cabo de Hornos, con el fin de alinear la cartografía nacional con la investigación antártica; se prevé un repositorio toponímico. Además, el rompehielos Almirante Viel relevó la dotación de la Base Prat, que cumple 80 años en febrero de 2027.",
-      "fecha": "2026-11-18",
-      "categoria": "innovacion",
-      "fuente": "El Mostrador (Aquí Magallanes)",
-      "url": "https://www.elmostrador.cl/aqui-magallanes/2026/11/18/puerto-williams-abre-dialogo-para-sumar-historia-polar-a-los-mapas-antarticos/",
-      "alcance": "magallanes",
-      "traducida": false,
-      "seguimiento": "Antártica"
-    },
-    {
-      "id": "2026-11-04-ushuaia-crisis-portuaria-punta-arenas-recaladas",
-      "titulo": "Crisis portuaria en Ushuaia: temen desvío de cruceros a Punta Arenas en temporada con 590 recaladas",
-      "resumen": "Protestas y cortes en el puerto de Ushuaia llevaron a cinco gremios a advertir pérdida de recaladas, aunque aún no hay desvíos documentados a Punta Arenas. Para 2026-27 hay más de 590 recaladas de cruceros confirmadas, unas 100 más que el ciclo anterior. El SHOA publicó además la primera carta de inundación por tsunami de una base antártica chilena.",
-      "fecha": "2026-11-04",
-      "categoria": "industria",
-      "fuente": "El Mostrador (Aquí Magallanes)",
-      "url": "https://www.elmostrador.cl/aqui-magallanes/2026/11/04/en-ushuaia-temen-que-la-crisis-portuaria-favorezca-a-punta-arenas/",
-      "alcance": "magallanes",
-      "traducida": false
-    },
-    {
-      "id": "2026-10-28-puerto-williams-cruceros-muelle-saneamiento",
-      "titulo": "Puerto Williams espera 90 cruceros esta temporada y avanza en su muelle y red sanitaria",
-      "resumen": "Puerto Williams tuvo 53 recaladas en 2025-26 (+39,5%) y espera 90 esta temporada. La segunda etapa del muelle multipropósito iba en 64%, con operación prevista para el primer semestre de 2027, y Transpetrol planea un patio de combustibles. Una \"Etapa Cero\" sanitaria de $2.344 millones para renovar cañerías ya tiene aprobación técnica, pero falta financiarla.",
-      "fecha": "2026-10-28",
-      "categoria": "industria",
-      "fuente": "El Mostrador (Aquí Magallanes)",
-      "url": "https://www.elmostrador.cl/aqui-magallanes/2026/10/28/puerto-williams-mas-alla-de-la-amenaza-de-cortarle-el-gas/",
-      "alcance": "magallanes",
-      "traducida": false
-    }
-  ],
-  "decisiones": [
-    {
-      "id": "2026-11-25-ue-triplicar-centros-datos-ley-nube-ia",
-      "estado": "publicada",
-      "categoria": "digital",
-      "alcance": "mundo",
-      "fecha": "2026-11-27T10:46:35+00:00"
-    },
-    {
-      "id": "2026-11-26-subdere-seis-proyectos-724-millones-magallanes",
-      "estado": "publicada",
-      "categoria": "industria",
-      "alcance": "magallanes",
-      "fecha": "2026-11-27T10:46:22+00:00"
-    }
-  ]
+    "pendientes": [
+        {
+            "id": "2026-11-18-comite-nombres-geograficos-antarticos-puerto-williams",
+            "titulo": "Comité de nombres geográficos antárticos sesiona por primera vez en Puerto Williams",
+            "resumen": "El Comité Nacional de Nombres Geográficos Antárticos realizó su IV plenario el 12 de noviembre en el Centro Subantártico Cabo de Hornos, con el fin de alinear la cartografía nacional con la investigación antártica; se prevé un repositorio toponímico. Además, el rompehielos Almirante Viel relevó la dotación de la Base Prat, que cumple 80 años en febrero de 2027.",
+            "fecha": "2026-11-18",
+            "categoria": "innovacion",
+            "fuente": "El Mostrador (Aquí Magallanes)",
+            "url": "https://www.elmostrador.cl/aqui-magallanes/2026/11/18/puerto-williams-abre-dialogo-para-sumar-historia-polar-a-los-mapas-antarticos/",
+            "alcance": "magallanes",
+            "traducida": false,
+            "seguimiento": "Antártica"
+        },
+        {
+            "id": "2026-11-04-ushuaia-crisis-portuaria-punta-arenas-recaladas",
+            "titulo": "Crisis portuaria en Ushuaia: temen desvío de cruceros a Punta Arenas en temporada con 590 recaladas",
+            "resumen": "Protestas y cortes en el puerto de Ushuaia llevaron a cinco gremios a advertir pérdida de recaladas, aunque aún no hay desvíos documentados a Punta Arenas. Para 2026-27 hay más de 590 recaladas de cruceros confirmadas, unas 100 más que el ciclo anterior. El SHOA publicó además la primera carta de inundación por tsunami de una base antártica chilena.",
+            "fecha": "2026-11-04",
+            "categoria": "industria",
+            "fuente": "El Mostrador (Aquí Magallanes)",
+            "url": "https://www.elmostrador.cl/aqui-magallanes/2026/11/04/en-ushuaia-temen-que-la-crisis-portuaria-favorezca-a-punta-arenas/",
+            "alcance": "magallanes",
+            "traducida": false
+        },
+        {
+            "id": "2026-10-28-puerto-williams-cruceros-muelle-saneamiento",
+            "titulo": "Puerto Williams espera 90 cruceros esta temporada y avanza en su muelle y red sanitaria",
+            "resumen": "Puerto Williams tuvo 53 recaladas en 2025-26 (+39,5%) y espera 90 esta temporada. La segunda etapa del muelle multipropósito iba en 64%, con operación prevista para el primer semestre de 2027, y Transpetrol planea un patio de combustibles. Una \"Etapa Cero\" sanitaria de $2.344 millones para renovar cañerías ya tiene aprobación técnica, pero falta financiarla.",
+            "fecha": "2026-10-28",
+            "categoria": "industria",
+            "fuente": "El Mostrador (Aquí Magallanes)",
+            "url": "https://www.elmostrador.cl/aqui-magallanes/2026/10/28/puerto-williams-mas-alla-de-la-amenaza-de-cortarle-el-gas/",
+            "alcance": "magallanes",
+            "traducida": false
+        }
+    ],
+    "decisiones": [
+        {
+            "id": "2026-11-25-timaukel-sin-bencinera-tierra-del-fuego",
+            "estado": "publicada",
+            "categoria": "industria",
+            "alcance": "magallanes",
+            "fecha": "2026-11-27T11:59:37+00:00"
+        },
+        {
+            "id": "2026-11-25-ue-triplicar-centros-datos-ley-nube-ia",
+            "estado": "publicada",
+            "categoria": "digital",
+            "alcance": "mundo",
+            "fecha": "2026-11-27T10:46:35+00:00"
+        },
+        {
+            "id": "2026-11-26-subdere-seis-proyectos-724-millones-magallanes",
+            "estado": "publicada",
+            "categoria": "industria",
+            "alcance": "magallanes",
+            "fecha": "2026-11-27T10:46:22+00:00"
+        }
+    ]
 }
