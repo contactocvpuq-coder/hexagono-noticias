@@ -1,18 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-10-28-puerto-williams-cruceros-muelle-saneamiento",
-            "titulo": "Puerto Williams espera 90 cruceros esta temporada y avanza en su muelle y red sanitaria",
-            "resumen": "Puerto Williams tuvo 53 recaladas en 2025-26 (+39,5%) y espera 90 esta temporada. La segunda etapa del muelle multipropósito iba en 64%, con operación prevista para el primer semestre de 2027, y Transpetrol planea un patio de combustibles. Una \"Etapa Cero\" sanitaria de $2.344 millones para renovar cañerías ya tiene aprobación técnica, pero falta financiarla.",
-            "fecha": "2026-10-28",
+            "estado": "publicada",
             "categoria": "industria",
-            "fuente": "El Mostrador (Aquí Magallanes)",
-            "url": "https://www.elmostrador.cl/aqui-magallanes/2026/10/28/puerto-williams-mas-alla-de-la-amenaza-de-cortarle-el-gas/",
             "alcance": "magallanes",
-            "traducida": false
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-27T12:00:13+00:00"
+        },
         {
             "id": "2026-11-04-ushuaia-crisis-portuaria-punta-arenas-recaladas",
             "estado": "publicada",
