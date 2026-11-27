@@ -1,36 +1,32 @@
 {
-  "pendientes": [
-    {
-      "id": "2026-11-26-subdere-seis-proyectos-724-millones-magallanes",
-      "titulo": "SUBDERE financia seis proyectos por $724 millones en Magallanes con cerca de 80 empleos",
-      "resumen": "Con fondos PMB y PMU del plan Chile Despega se ejecutarán obras en Punta Arenas, Natales, Torres del Paine, Primavera y Timaukel. En Punta Arenas incluyen luminarias en Pampa Redonda, Calafate y Varillas ($179,5 millones) y mejoras al Centro Comunal Norte; Primavera ($173,9 millones) y Timaukel ($154,2 millones) tienen los montos mayores.",
-      "fecha": "2026-11-26",
-      "categoria": "industria",
-      "fuente": "Radio Magallanes",
-      "url": "https://radiomagallanes.cl/subdere-impulsa-seis-proyectos-por-724-millones-en-magallanes-que-generaran-cerca-de-80-empleos/",
-      "alcance": "magallanes",
-      "traducida": false
-    },
-    {
-      "id": "2026-11-25-ue-triplicar-centros-datos-ley-nube-ia",
-      "titulo": "La UE quiere triplicar sus centros de datos con permisos en 12 meses, pese a su costo ambiental",
-      "resumen": "La propuesta de Ley de Desarrollo de la Nube y la IA crearía zonas de aceleración con un plazo máximo de 12 meses para los permisos. Los centros de datos de la UE consumieron 68 TWh en 2024 y podrían llegar a 114 TWh en 2030 (3,2% de la demanda); en Irlanda ya son el 23% del consumo eléctrico.",
-      "fecha": "2026-11-25",
-      "categoria": "digital",
-      "fuente": "Euronews",
-      "url": "https://es.euronews.com/2026/11/25/europa-acelera-construccion-centros-datos-medioambiente-laboral",
-      "alcance": "mundo",
-      "traducida": false,
-      "seguimiento": "Datacenters y emisiones"
-    }
-  ],
-  "decisiones": [
-    {
-      "id": "2026-11-26-seminario-paises-puerta-entrada-antartica-magallanes",
-      "estado": "publicada",
-      "categoria": "industria",
-      "alcance": "magallanes",
-      "fecha": "2026-11-27T10:46:00+00:00"
-    }
-  ]
+    "pendientes": [
+        {
+            "id": "2026-11-25-ue-triplicar-centros-datos-ley-nube-ia",
+            "titulo": "La UE quiere triplicar sus centros de datos con permisos en 12 meses, pese a su costo ambiental",
+            "resumen": "La propuesta de Ley de Desarrollo de la Nube y la IA crearía zonas de aceleración con un plazo máximo de 12 meses para los permisos. Los centros de datos de la UE consumieron 68 TWh en 2024 y podrían llegar a 114 TWh en 2030 (3,2% de la demanda); en Irlanda ya son el 23% del consumo eléctrico.",
+            "fecha": "2026-11-25",
+            "categoria": "digital",
+            "fuente": "Euronews",
+            "url": "https://es.euronews.com/2026/11/25/europa-acelera-construccion-centros-datos-medioambiente-laboral",
+            "alcance": "mundo",
+            "traducida": false,
+            "seguimiento": "Datacenters y emisiones"
+        }
+    ],
+    "decisiones": [
+        {
+            "id": "2026-11-26-subdere-seis-proyectos-724-millones-magallanes",
+            "estado": "publicada",
+            "categoria": "industria",
+            "alcance": "magallanes",
+            "fecha": "2026-11-27T10:46:22+00:00"
+        },
+        {
+            "id": "2026-11-26-seminario-paises-puerta-entrada-antartica-magallanes",
+            "estado": "publicada",
+            "categoria": "industria",
+            "alcance": "magallanes",
+            "fecha": "2026-11-27T10:46:00+00:00"
+        }
+    ]
 }
