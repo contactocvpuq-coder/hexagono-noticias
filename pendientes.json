@@ -1,4 +1,41 @@
 {
-  "pendientes": [],
+  "pendientes": [
+    {
+      "id": "2026-11-28-argentina-nuevas-sanciones-tras-fallo-tribunal-mar",
+      "titulo": "Argentina anuncia nuevas sanciones tras el fallo del Tribunal del Mar y el Reino Unido reivindica su posición",
+      "resumen": "Tras el fallo del Tribunal del Mar, el canciller argentino Pablo Quirno destacó que la decisión reconoce la existencia de una disputa de soberanía. Argentina anunció procedimientos sancionatorios contra cinco sujetos vinculados a la actividad petrolera y pidió conformar pronto el tribunal arbitral que verá el fondo del caso. El Reino Unido reivindicó su posición y quedó registrado su compromiso de no perforar antes del 21 de marzo de 2027 ni extraer antes de marzo de 2028.",
+      "fecha": "2026-11-28",
+      "categoria": "energias",
+      "fuente": "Primera Edición (Agencia NA)",
+      "url": "https://www.primeraedicion.com.ar/nota/101164477/malvinas-argentina-nuevas-sanciones-reino-unido-fallo-tribunal-del-mar/",
+      "alcance": "mundo",
+      "traducida": false,
+      "seguimiento": "Falkland / Malvinas"
+    },
+    {
+      "id": "2026-11-28-sea-lion-que-viene-tras-fallo-tribunal-arbitral",
+      "titulo": "Petróleo en Falkland/Malvinas: qué puede pasar tras el fallo del Tribunal del Mar",
+      "resumen": "El fallo del Tribunal del Mar no resuelve la soberanía ni la disputa de fondo, que pasará a un tribunal arbitral cuya resolución podría tardar años. El proyecto Sea Lion prevé perforar desde el 21 de marzo de 2027 y extraer desde marzo de 2028, con una inversión inicial de unos US$1.800 millones y reservas estimadas en 314 millones de barriles.",
+      "fecha": "2026-11-28",
+      "categoria": "energias",
+      "fuente": "Canal 26",
+      "url": "https://www.canal26.com/internacionales/2026/11/28/petroleo-en-malvinas-por-que-la-argentina-no-logro-frenar-el-avance-britanico-y-que-puede-pasar-a-partir-de-ahora/",
+      "alcance": "mundo",
+      "traducida": false,
+      "seguimiento": "Falkland / Malvinas"
+    },
+    {
+      "id": "2026-11-28-tribunal-mar-rechaza-pedido-argentino-sea-lion",
+      "titulo": "Tribunal del Mar rechaza el pedido argentino para frenar el proyecto petrolero Sea Lion en Falkland/Malvinas",
+      "resumen": "El Tribunal Internacional del Derecho del Mar, en Hamburgo, rechazó por 18 votos contra 3 la solicitud argentina de medidas provisionales para frenar el proyecto petrolero Sea Lion, de Navitas Petroleum y Rockhopper Exploration, al norte de las Falkland/Malvinas. El tribunal consideró que no tiene jurisdicción para dictar esas medidas. El presidente Javier Milei dijo que la decisión \"no es la última palabra\", y el Reino Unido celebró el fallo.",
+      "fecha": "2026-11-28",
+      "categoria": "energias",
+      "fuente": "La Tercera",
+      "url": "https://www.latercera.com/mundo/noticia/reves-para-argentina-tribunal-del-mar-rechaza-pedido-para-que-reino-unido-frene-actividades-petroleras-en-las-malvinas/",
+      "alcance": "mundo",
+      "traducida": false,
+      "seguimiento": "Falkland / Malvinas"
+    }
+  ],
   "decisiones": []
 }
