@@ -1,26 +1,26 @@
 {
-    "pendientes": [],
-    "decisiones": [
-        {
-            "id": "2026-11-28-tribunal-mar-rechaza-pedido-argentino-sea-lion",
-            "estado": "publicada",
-            "categoria": "energias",
-            "alcance": "mundo",
-            "fecha": "2026-11-28T17:05:06+00:00"
-        },
-        {
-            "id": "2026-11-28-sea-lion-que-viene-tras-fallo-tribunal-arbitral",
-            "estado": "publicada",
-            "categoria": "energias",
-            "alcance": "mundo",
-            "fecha": "2026-11-28T17:04:57+00:00"
-        },
-        {
-            "id": "2026-11-28-argentina-nuevas-sanciones-tras-fallo-tribunal-mar",
-            "estado": "publicada",
-            "categoria": "energias",
-            "alcance": "mundo",
-            "fecha": "2026-11-28T17:04:46+00:00"
-        }
-    ]
+  "pendientes": [],
+  "decisiones": [
+    {
+      "id": "2026-11-28-tribunal-mar-rechaza-pedido-argentino-sea-lion",
+      "estado": "publicada",
+      "categoria": "energias",
+      "alcance": "mundo",
+      "fecha": "2026-11-28T17:05:06+00:00"
+    },
+    {
+      "id": "2026-11-28-sea-lion-que-viene-tras-fallo-tribunal-arbitral",
+      "estado": "publicada",
+      "categoria": "energias",
+      "alcance": "mundo",
+      "fecha": "2026-11-28T17:04:57+00:00"
+    },
+    {
+      "id": "2026-11-28-argentina-nuevas-sanciones-tras-fallo-tribunal-mar",
+      "estado": "publicada",
+      "categoria": "energias",
+      "alcance": "mundo",
+      "fecha": "2026-11-28T17:04:46+00:00"
+    }
+  ]
 }
