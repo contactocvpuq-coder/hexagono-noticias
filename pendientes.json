@@ -1,18 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-27-relleno-sanitario-natales-septiembre-2027",
-            "titulo": "Magallanes fija septiembre de 2027 como meta para el relleno sanitario de Puerto Natales",
-            "resumen": "La Comisión Interministerial de Gestión de Residuos y Economía Circular se reunió en Punta Arenas y fijó septiembre de 2027 como meta para poner en marcha el relleno sanitario de Puerto Natales. El relleno actual de Punta Arenas tiene unos 30 meses de vida útil y el Consejo Regional votará en diciembre la transferencia del terreno para uno nuevo que ya cuenta con RCA.",
-            "fecha": "2026-11-27",
+            "estado": "publicada",
             "categoria": "medioambiente",
-            "fuente": "ITV Patagonia",
-            "url": "https://www.itvpatagonia.com/noticias/regional/27-11-2026/magallanes-fija-septiembre-de-2027-como-meta-para-poner-en-marcha-el-relleno-sanitario-de-puerto-natales/",
             "alcance": "magallanes",
-            "traducida": false
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-28T11:38:45+00:00"
+        },
         {
             "id": "2026-11-27-fach-saf-observacion-polar-multisensor-glaciar-union",
             "estado": "publicada",
