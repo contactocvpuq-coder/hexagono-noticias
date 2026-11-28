@@ -1,19 +1,13 @@
 {
-    "pendientes": [
+    "pendientes": [],
+    "decisiones": [
         {
             "id": "2026-11-28-tribunal-mar-rechaza-pedido-argentino-sea-lion",
-            "titulo": "Tribunal del Mar rechaza el pedido argentino para frenar el proyecto petrolero Sea Lion en Falkland/Malvinas",
-            "resumen": "El Tribunal Internacional del Derecho del Mar, en Hamburgo, rechazó por 18 votos contra 3 la solicitud argentina de medidas provisionales para frenar el proyecto petrolero Sea Lion, de Navitas Petroleum y Rockhopper Exploration, al norte de las Falkland/Malvinas. El tribunal consideró que no tiene jurisdicción para dictar esas medidas. El presidente Javier Milei dijo que la decisión \"no es la última palabra\", y el Reino Unido celebró el fallo.",
-            "fecha": "2026-11-28",
+            "estado": "publicada",
             "categoria": "energias",
-            "fuente": "La Tercera",
-            "url": "https://www.latercera.com/mundo/noticia/reves-para-argentina-tribunal-del-mar-rechaza-pedido-para-que-reino-unido-frene-actividades-petroleras-en-las-malvinas/",
             "alcance": "mundo",
-            "traducida": false,
-            "seguimiento": "Falkland / Malvinas"
-        }
-    ],
-    "decisiones": [
+            "fecha": "2026-11-28T17:05:06+00:00"
+        },
         {
             "id": "2026-11-28-sea-lion-que-viene-tras-fallo-tribunal-arbitral",
             "estado": "publicada",
