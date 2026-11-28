@@ -1,26 +1,26 @@
 {
-    "pendientes": [],
-    "decisiones": [
-        {
-            "id": "2026-11-27-relleno-sanitario-natales-septiembre-2027",
-            "estado": "publicada",
-            "categoria": "medioambiente",
-            "alcance": "magallanes",
-            "fecha": "2026-11-28T11:38:45+00:00"
-        },
-        {
-            "id": "2026-11-27-fach-saf-observacion-polar-multisensor-glaciar-union",
-            "estado": "publicada",
-            "categoria": "innovacion",
-            "alcance": "magallanes",
-            "fecha": "2026-11-28T11:38:29+00:00"
-        },
-        {
-            "id": "2026-11-27-danstar-zarpa-17-diciembre-malvinas-us20-millones",
-            "estado": "publicada",
-            "categoria": "industria",
-            "alcance": "magallanes",
-            "fecha": "2026-11-28T11:38:19+00:00"
-        }
-    ]
+  "pendientes": [],
+  "decisiones": [
+    {
+      "id": "2026-11-27-relleno-sanitario-natales-septiembre-2027",
+      "estado": "publicada",
+      "categoria": "medioambiente",
+      "alcance": "magallanes",
+      "fecha": "2026-11-28T11:38:45+00:00"
+    },
+    {
+      "id": "2026-11-27-fach-saf-observacion-polar-multisensor-glaciar-union",
+      "estado": "publicada",
+      "categoria": "innovacion",
+      "alcance": "magallanes",
+      "fecha": "2026-11-28T11:38:29+00:00"
+    },
+    {
+      "id": "2026-11-27-danstar-zarpa-17-diciembre-malvinas-us20-millones",
+      "estado": "publicada",
+      "categoria": "industria",
+      "alcance": "magallanes",
+      "fecha": "2026-11-28T11:38:19+00:00"
+    }
+  ]
 }
